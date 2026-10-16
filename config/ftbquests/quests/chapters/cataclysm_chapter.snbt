@@ -1,0 +1,332 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "cataclysm_chapter"
+	group: ""
+	icon: "cataclysm:monstrous_horn"
+	id: "7C1BDE1307522CD1"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Добро пожаловать в прогрессию мода &cL_Ender's Cataclysm&r!"
+				""
+				"Этот мод добавляет крайне опасных боссов с уникальными механиками, фазами и пробивающим брони урон."
+				""
+				"&eГлавное правило:&r Никакая броня не спасет от прямого попадания спец-атак. Учитесь уклоняться и готовьте расходники."
+			]
+			icon: "minecraft:book"
+			id: "32BBBB14DCB00F3E"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "123FA977B3D8CD14"
+				title: "Я готов к испытаниям"
+				type: "checkmark"
+			}]
+			title: "Начало Катаклизма"
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000000001001"]
+			description: [
+				"Найдите структуру &bAncient Factory&r в Обычном мире."
+				""
+				"Здесь обитают древние механизмы, а в глубине вас ждет Владыка Машин."
+			]
+			icon: "cataclysm:witherite_ingot"
+			id: "454D90F4B3090E66"
+			tasks: [{
+				id: "5E8AA033CC3C5869"
+				structure: "cataclysm:ancient_factory"
+				title: "Исследуйте Ancient Factory"
+				type: "structure"
+			}]
+			title: "Древняя Фабрика"
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000000001002"]
+			description: [
+				"Победите босса &cThe Harbinger&r."
+				""
+				"&6Тактика:&r"
+				"- Держитесь укрытий, чтобы блокировать смертоносные лазерные лучи."
+				"- Имейте при себе ведра молока или эликсиры от Иссушения."
+			]
+			icon: "cataclysm:wither_assault_shoulder_weapon"
+			id: "5CA1DD4991A66959"
+			shape: "skull"
+			size: 1.2d
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				id: "4667326308393107"
+				title: "Убить The Harbinger"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Владыка Машин: The Harbinger"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000000001003"]
+			description: [
+				"Создайте &eMechanical Fusion Anvil&r."
+				""
+				"Это ключевой верстак мода, необходимый для создания легендарного оружия и объединения артефактов, выпадающих с боссов."
+			]
+			icon: "cataclysm:mechanical_fusion_anvil"
+			id: "0000000000001004"
+			shape: "diamond"
+			size: 1.3d
+			tasks: [{
+				id: "04649B429125C53A"
+				item: "cataclysm:mechanical_fusion_anvil"
+				type: "item"
+			}]
+			title: "Сердце Сплавов"
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000000001004"]
+			description: [
+				"Отправляйтесь в Незер и найдите &bSoul Blacksmith&r."
+				""
+				"Эта массивная структура из чернита возвышается над озерами лавы."
+			]
+			icon: "minecraft:blackstone"
+			id: "0000000000001005"
+			tasks: [{
+				id: "2BB37B953B6A671D"
+				structure: "cataclysm:soul_blacksmith"
+				title: "Найти Soul Blacksmith"
+				type: "structure"
+			}]
+			title: "Кузница Душ"
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0000000000001005"]
+			description: [
+				"Убейте &cNetherite Monstrosity&r."
+				""
+				"&6Тактика:&r"
+				"- Не давайте ему погружаться в лаву — это восстанавливает его здоровье!"
+				"- Пейте зелья Огнестойкости."
+				"- Опасайтесь лавовых бомб и ударной волны при прыжке."
+			]
+			icon: "cataclysm:monstrous_horn"
+			id: "0000000000001006"
+			shape: "skull"
+			size: 1.2d
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				id: "5B0EE3E5FA327022"
+				title: "Убить Netherite Monstrosity"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Незеритовый Гигант: Netherite Monstrosity"
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0000000000001004"]
+			description: [
+				"Найдите структуру &bBurning Arena&r в Незере."
+				""
+				"Чтобы призвать босса, поместите &eBurning Ashes&r на Алтарь Огня в центре арены."
+			]
+			icon: "cataclysm:burning_ashes"
+			id: "0000000000001007"
+			tasks: [{
+				id: "695D2B78C97CCC24"
+				structure: "cataclysm:burning_arena"
+				title: "Найти Burning Arena"
+				type: "structure"
+			}]
+			title: "Палящая Арена"
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0000000000001007"]
+			description: [
+				"Победите &cIgnis&r."
+				""
+				"&6Тактика:&r"
+				"- На первой фазе блокирует большинство атак щитом — наносите урон после его замаха."
+				"- На второй фазе переходит в форму синего пламени, увеличивая урон и скорость."
+			]
+			icon: "cataclysm:ignitium_ingot"
+			id: "0000000000001008"
+			shape: "skull"
+			size: 1.2d
+			tasks: [{
+				entity: "cataclysm:ignis"
+				id: "52494475710A3F33"
+				title: "Убить Ignis"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Пламенный Рыцарь: Ignis"
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0000000000001006"]
+			description: [
+				"Погрузитесь на дно океана и найдите &bSunken City&r."
+				""
+				"Приготовьте Зелья Подводного Дрыхания, Морской Источник или Грацию Дельфина."
+			]
+			icon: "cataclysm:abyssal_sacrifice"
+			id: "0000000000001009"
+			tasks: [{
+				id: "1E53673A065B979A"
+				structure: "cataclysm:sunken_city"
+				title: "Исследовать Sunken City"
+				type: "structure"
+			}]
+			title: "Затонувший Город"
+			x: 6.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0000000000001009"]
+			description: [
+				"Убейте подводного гиганта &cThe Leviathan&r."
+				""
+				"&6Тактика:&r"
+				"- Избегайте его водоворотов и захватов пастью."
+				"- Подводная мобильность — залог выживания."
+			]
+			icon: "cataclysm:tidal_claws"
+			id: "02D3912695C1ABB8"
+			shape: "skull"
+			size: 1.2d
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				id: "43F3FDF8DCD2F2E7"
+				title: "Убить The Leviathan"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Владыка Глубин: The Leviathan"
+			x: 8.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0000000000001006"]
+			description: ["Найдите &bFrosted Prison&r в заснеженных биомах."]
+			icon: "cataclysm:cursium_ingot"
+			id: "6EBB65AA6684463F"
+			tasks: [{
+				id: "044F1384AC72B28A"
+				structure: "cataclysm:frosted_prison"
+				title: "Найти Frosted Prison"
+				type: "structure"
+			}]
+			title: "Ледяная Тюрьма"
+			x: 6.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Победите &cMaledictus&r."
+				""
+				"&6Тактика:&r"
+				"- Будьте готовы к наложению сильного Замедления и Обморожения."
+				"- Уничтожайте призываемых им призраков."
+			]
+			icon: "cataclysm:cursium_ingot"
+			id: "0000000000001012"
+			shape: "skull"
+			size: 1.2d
+			tasks: [{
+				entity: "cataclysm:maledictus"
+				id: "309BBAD7F562983D"
+				title: "Убить Maledictus"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Ледяной Призрак: Maledictus"
+			x: 8.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0000000000001008"]
+			description: ["Отправляйтесь в измерение Энд и найдите &bRuined Citadel&r."]
+			icon: "minecraft:popped_chorus_fruit"
+			id: "0000000000001013"
+			tasks: [{
+				id: "5C7A638CEFD52939"
+				structure: "cataclysm:ruined_citadel"
+				title: "Найти Ruined Citadel"
+				type: "structure"
+			}]
+			title: "Разрушенная Цитадель"
+			x: 6.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0000000000001013"]
+			description: [
+				"Победите &cEnder Guardian&r на нижнем ярусе Цитадели."
+				""
+				"&6Тактика:&r"
+				"- Иммунен к стрелам! Только ближний бой."
+				"- Во второй фазе разрушает пол арены — используйте Элитры или Жемчуг Края, чтобы не упасть в Бездну."
+			]
+			icon: "cataclysm:void_core"
+			id: "0000000000001014"
+			shape: "skull"
+			size: 1.2d
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				id: "059C728D1BA624B0"
+				title: "Убить Ender Guardian"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Страж Бездна: Ender Guardian"
+			x: 8.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"0000000000001012"
+				"0000000000001014"
+			]
+			description: [
+				"Используйте &eMechanical Fusion Anvil&r для создания финала вашей экипировки!"
+				""
+				"Скрафтите одно из высших видов оружия мода (например, &bVoid Forge&r)."
+			]
+			icon: "cataclysm:void_forge"
+			id: "0000000000001015"
+			rewards: [{
+				id: "0D050E0E077F100D"
+				type: "xp"
+				xp: 5000
+			}]
+			shape: "star"
+			size: 1.5d
+			tasks: [{
+				id: "14E522D7864B6F6E"
+				item: "cataclysm:void_forge"
+				type: "item"
+			}]
+			title: "Легендарный Арсенал"
+			x: 10.5d
+			y: 0.0d
+		}
+	]
+	title: "L_Ender's Cataclysm"
+}

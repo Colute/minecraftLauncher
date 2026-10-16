@@ -1,0 +1,12 @@
+irons_lib:player_statue	inventory_particles:player_statue/fallback/standard_0	0	0	8	8
+irons_lib:player_statue	inventory_particles:player_statue/fallback/standard_1	8	0	8	8
+irons_lib:player_statue	inventory_particles:player_statue/fallback/standard_2	16	0	8	8
+irons_lib:player_statue	inventory_particles:player_statue/fallback/standard_3	24	0	8	8
+irons_lib:player_statue	inventory_particles:player_statue/fallback/standard_4	32	0	8	8
+irons_lib:player_statue	inventory_particles:player_statue/fallback/standard_5	40	0	8	8
+irons_lib:transmog_table	inventory_particles:transmog_table/fallback/standard_0	48	0	8	8
+irons_lib:transmog_table	inventory_particles:transmog_table/fallback/standard_1	56	0	8	8
+irons_lib:transmog_table	inventory_particles:transmog_table/fallback/standard_2	64	0	8	8
+irons_lib:transmog_table	inventory_particles:transmog_table/fallback/standard_3	72	0	8	8
+irons_lib:transmog_table	inventory_particles:transmog_table/fallback/standard_4	80	0	8	8
+irons_lib:transmog_table	inventory_particles:transmog_table/fallback/standard_5	88	0	8	8

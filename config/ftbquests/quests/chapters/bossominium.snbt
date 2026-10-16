@@ -1,0 +1,318 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "bossominium"
+	group: ""
+	icon: {
+		Count: 1
+		id: "bossominium:skelenado_chest_chestplate"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "4C5B6D7E8F9A0B1C"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Победите Skelenado."]
+			id: "1A2B3C4D5E6F7A8B"
+			tasks: [{
+				entity: "bossominium:skelenado_boss"
+				id: "0F1E2D3C4B5A6E7D"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Скеленадо"
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			description: ["Победите Badlands Colossal."]
+			id: "2B3C4D5E6F7A8B9C"
+			tasks: [{
+				entity: "bossominium:badlands_colossal_boss"
+				id: "1E2D3C4B5A6E7D8C"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Колосс Бесплодных Земель"
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			description: ["Победите Vengeful Trader."]
+			id: "3C4D5E6F7A8B9C0D"
+			tasks: [{
+				entity: "bossominium:vengeful_trader_boss"
+				id: "2D3C4B5A6E7D8C9B"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Мстительный Торговец"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			description: ["Победите Forest Guardian."]
+			id: "4D5E6F7A8B9C0D1E"
+			tasks: [{
+				entity: "bossominium:forest_guardian_boss"
+				id: "3C4B5A6E7D8C9B0A"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Лесной Страж"
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			description: ["Победите Crypt Mummy."]
+			id: "5E6F7A8B9C0D1E2F"
+			tasks: [{
+				entity: "bossominium:crypt_mummy_boss"
+				id: "4B5A6E7D8C9B0A1F"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Мумия Склепа"
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			description: ["Победите Soul Reaper."]
+			id: "6F7A8B9C0D1E2F3A"
+			tasks: [{
+				entity: "bossominium:soul_reaper_boss"
+				id: "5A6E7D8C9B0A1F2E"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Жнец Душ"
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			description: ["Победите Netherrack Heart."]
+			id: "7A8B9C0D1E2F3A4B"
+			tasks: [{
+				entity: "bossominium:netherrack_heart_boss"
+				id: "6E7D8C9B0A1F2E3D"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Сердце Незера"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			description: ["Победите End Stone Sentinel."]
+			id: "303C7BD8E9EA17BD"
+			tasks: [{
+				entity: "bossominium:end_stone_sentinel_boss"
+				id: "7D8C9B0A1F2E3D4C"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Страж Эндстоуна"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: ["Победите Ruin."]
+			id: "4E286EA58DC1AD74"
+			tasks: [{
+				entity: "bossominium:ruin_boss"
+				id: "33FF38ED0116191C"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Разрушение"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			description: ["Победите Hell Hound."]
+			id: "0D1E2F3A4B5C6D7E"
+			tasks: [{
+				entity: "bossominium:hell_hound_boss"
+				id: "7409F7A15CD9159D"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Адская Гончая"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			description: ["Победите Cultisager."]
+			id: "1E2F3A4B5C6D7E8F"
+			tasks: [{
+				entity: "bossominium:cultisager_boss"
+				id: "0A1F2E3D4C5B6A7F"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Культисагер"
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			description: ["Победите Golden Ring."]
+			id: "2F3A4B5C6D7E8F9A"
+			tasks: [{
+				entity: "bossominium:golden_ring_boss"
+				id: "1F2E3D4C5B6A7F8E"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Золотое Кольцо"
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			description: ["Победите Ancient Remnant."]
+			id: "3A4B5C6D7E8F9A0B"
+			tasks: [{
+				entity: "bossominium:ancient_remnant_boss"
+				id: "2E3D4C5B6A7F8E9D"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Древний Осколок"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			description: ["Победите Huntress."]
+			id: "4B5C6D7E8F9A0B1C"
+			tasks: [{
+				entity: "bossominium:huntress_boss"
+				id: "3D4C5B6A7F8E9D0C"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Охотница"
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			description: ["Победите Fallarota."]
+			id: "5C6D7E8F9A0B1C2D"
+			tasks: [{
+				entity: "bossominium:fallarota_boss"
+				id: "4C5B6A7F8E9D0C1B"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Фалларота"
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			description: ["Победите Redstone Turret."]
+			id: "6D7E8F9A0B1C2D3E"
+			tasks: [{
+				entity: "bossominium:redstone_turret_boss"
+				id: "5B6A7F8E9D0C1B2A"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Редстоун Турель"
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			description: ["Победите Strayed Warrior."]
+			id: "7E8F9A0B1C2D3E4F"
+			tasks: [{
+				entity: "bossominium:strayed_warrior_boss"
+				id: "6A7F8E9D0C1B2A3F"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Заблудший Воин"
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			description: ["Победите Fungal Brute."]
+			id: "6E17FF421291D018"
+			tasks: [{
+				entity: "bossominium:fungal_brute_boss"
+				id: "7F8E9D0C1B2A3F4E"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Грибной Брут"
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			description: ["Победите Purerman."]
+			id: "238C77129F3051CC"
+			tasks: [{
+				entity: "bossominium:purerman_boss"
+				id: "55195668DD7B68B3"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Чистильщик"
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			description: ["Победите Drowned King."]
+			id: "0B1C2D3E4F5A6B7C"
+			tasks: [{
+				entity: "bossominium:drowned_king_boss"
+				id: "0B9876A29782292C"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Утонувший Король"
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			description: ["Победите Moss Mech."]
+			id: "1C2D3E4F5A6B7C8D"
+			tasks: [{
+				entity: "bossominium:moss_mech_boss"
+				id: "0C1B2A3F4E5D6C7B"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Мшистый Мех"
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			description: ["Победите Chorus Beast."]
+			id: "2D3E4F5A6B7C8D9E"
+			tasks: [{
+				entity: "bossominium:chorus_beast_boss"
+				id: "1B2A3F4E5D6C7B8A"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Зверь Коруса"
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			description: ["Победите Morsemancer."]
+			id: "3E4F5A6B7C8D9E0F"
+			tasks: [{
+				entity: "bossominium:morsemancer_boss"
+				id: "2A3F4E5D6C7B8A9F"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Морземансер"
+			x: 2.0d
+			y: 6.0d
+		}
+	]
+	title: "Испытания Bossominium"
+}

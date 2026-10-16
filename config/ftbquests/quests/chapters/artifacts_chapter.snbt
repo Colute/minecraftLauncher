@@ -1,0 +1,626 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "artifacts_chapter"
+	group: ""
+	icon: "artifacts:mimic_spawn_egg"
+	id: "6A901F20A21B43E1"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Добро пожаловать в исследование мода Artifacts!"
+				""
+				"Артефакты нельзя скрафтить обычным способом. Их можно найти в сокровищницах, подземных шахтах, затонувших кораблях или выбить с Мимиков."
+			]
+			icon: "minecraft:chest"
+			id: "0000000000001000"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "0000000000001001"
+				title: "Начать поиск"
+				type: "checkmark"
+			}]
+			title: "Охота за Артефактами"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: [
+				"Мимики — это враждебные мобы, маскирующиеся под обычные сундуки в пещерах."
+				""
+				"При попытке открыть такой сундук он нападет на вас. С Мимиков выпадают самые редкие артефакты мода!"
+			]
+			icon: "artifacts:mimic_spawn_egg"
+			id: "0000000000001002"
+			shape: "diamond"
+			size: 1.25d
+			tasks: [{
+				entity: "artifacts:mimic"
+				id: "0000000000001003"
+				title: "Победить Мимика"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Осторожно, Мимик!"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Увеличивает удачу и скорость при ловле рыбы."]
+			id: "0000000000002001"
+			tasks: [{
+				id: "0000000000003001"
+				item: "artifacts:anglers_hat"
+				type: "item"
+			}]
+			title: "Шляпа рыбака"
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Увеличивает скорость верховой езды."]
+			id: "0000000000002002"
+			tasks: [{
+				id: "0000000000003002"
+				item: "artifacts:cowboy_hat"
+				type: "item"
+			}]
+			title: "Ковбойская шляпа"
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Дают постоянный эффект Ночного зрения."]
+			id: "0000000000002003"
+			tasks: [{
+				id: "0000000000003003"
+				item: "artifacts:night_vision_goggles"
+				type: "item"
+			}]
+			title: "Очки ночного зрения"
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Ускоряет употребление напитков и зелий."]
+			id: "0000000000002004"
+			tasks: [{
+				id: "0000000000003004"
+				item: "artifacts:novelty_drinking_hat"
+				type: "item"
+			}]
+			title: "Праздничная шляпа с напитками"
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Аналог праздничной шляпы, ускоряет питье."]
+			id: "0000000000002005"
+			tasks: [{
+				id: "0000000000003005"
+				item: "artifacts:plastic_drinking_hat"
+				type: "item"
+			}]
+			title: "Пластиковая шляпа с напитками"
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Позволяет дышать под водой на небольшой глубине."]
+			id: "0000000000002006"
+			tasks: [{
+				id: "0000000000003006"
+				item: "artifacts:snorkel"
+				type: "item"
+			}]
+			title: "Трубка для плавания"
+			x: 7.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Увеличивает уровень добычи (Looting)."]
+			id: "0000000000002007"
+			tasks: [{
+				id: "0000000000003007"
+				item: "artifacts:superstitious_hat"
+				type: "item"
+			}]
+			title: "Суеверная шляпа"
+			x: 8.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Снижает цены при торговле с жителями."]
+			id: "0000000000002008"
+			tasks: [{
+				id: "0000000000003008"
+				item: "artifacts:villager_hat"
+				type: "item"
+			}]
+			title: "Шляпа деревенского жителя"
+			x: 9.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Увеличивает время неуязвимости после получения урона."]
+			id: "0000000000002009"
+			tasks: [{
+				id: "0000000000003009"
+				item: "artifacts:cross_necklace"
+				type: "item"
+			}]
+			title: "Крестик"
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Поджигает атакующих вас врагов."]
+			id: "0000000000002010"
+			tasks: [{
+				id: "0000000000003010"
+				item: "artifacts:flame_pendant"
+				type: "item"
+			}]
+			title: "Огненный кулон"
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Дает постоянный бонус к удаче (Luck)."]
+			id: "0000000000002011"
+			tasks: [{
+				id: "0000000000003011"
+				item: "artifacts:lucky_scarf"
+				type: "item"
+			}]
+			title: "Шарф удачи"
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Увеличивает скорость бега при получении урона."]
+			id: "0000000000002012"
+			tasks: [{
+				id: "0000000000003012"
+				item: "artifacts:panic_necklace"
+				type: "item"
+			}]
+			title: "Паническое ожерелье"
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Делает игрока полностью невидимым."]
+			id: "0000000000002013"
+			tasks: [{
+				id: "0000000000003013"
+				item: "artifacts:scarf_of_invisibility"
+				type: "item"
+			}]
+			title: "Шарф невидимости"
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Бьет молнией врагов, наносящих вам урон."]
+			id: "0000000000002014"
+			tasks: [{
+				id: "0000000000003014"
+				item: "artifacts:shock_pendant"
+				type: "item"
+			}]
+			title: "Грозовой кулон"
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Наносит ответный урон атакующим (эффект Шипов)."]
+			id: "0000000000002015"
+			tasks: [{
+				id: "0000000000003015"
+				item: "artifacts:thorn_pendant"
+				type: "item"
+			}]
+			title: "Шипастый кулон"
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Увеличивают скорость копания и добычи блоков."]
+			id: "0000000000002016"
+			tasks: [{
+				id: "0000000000003016"
+				item: "artifacts:digging_claws"
+				type: "item"
+			}]
+			title: "Когти для копания"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Увеличивают скорость атаки оружием."]
+			id: "0000000000002017"
+			tasks: [{
+				id: "0000000000003017"
+				item: "artifacts:feral_claws"
+				type: "item"
+			}]
+			title: "Дикие когти"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Поджигает врагов при ударах в ближнем бою."]
+			id: "0000000000002018"
+			tasks: [{
+				id: "0000000000003018"
+				item: "artifacts:fire_gauntlet"
+				type: "item"
+			}]
+			title: "Огненная перчатка"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Увеличивает опыт, выпадающий из убитых мобов."]
+			id: "0000000000002019"
+			tasks: [{
+				id: "0000000000003019"
+				item: "artifacts:golden_hook"
+				type: "item"
+			}]
+			title: "Золотой крюк"
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Ускоряет поедание пищи."]
+			id: "0000000000002020"
+			tasks: [{
+				id: "0000000000003020"
+				item: "artifacts:onion_ring"
+				type: "item"
+			}]
+			title: "Луковое кольцо"
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Значительно увеличивает отбрасывание врагов."]
+			id: "0000000000002021"
+			tasks: [{
+				id: "0000000000003021"
+				item: "artifacts:pocket_piston"
+				type: "item"
+			}]
+			title: "Карманный поршень"
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Увеличивает урон в ближнем бою."]
+			id: "0000000000002022"
+			tasks: [{
+				id: "0000000000003022"
+				item: "artifacts:power_glove"
+				type: "item"
+			}]
+			title: "Силовая перчатка"
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Восстанавливает здоровье при нанесении урона."]
+			id: "0000000000002023"
+			tasks: [{
+				id: "0000000000003023"
+				item: "artifacts:vampiric_glove"
+				type: "item"
+			}]
+			title: "Вампирская перчатка"
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Сокращает время действия негативных эффектов."]
+			id: "0000000000002024"
+			tasks: [{
+				id: "0000000000003024"
+				item: "artifacts:antidote_vessel"
+				type: "item"
+			}]
+			title: "Сосуд с противоядием"
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Позволяет быстро ходить по дну водоемов."]
+			id: "0000000000002025"
+			tasks: [{
+				id: "0000000000003025"
+				item: "artifacts:charm_of_sinking"
+				type: "item"
+			}]
+			title: "Амулет погружения"
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Телепортирует в безопасное место при смертельном уроне."]
+			id: "0000000000002026"
+			tasks: [{
+				id: "0000000000003026"
+				item: "artifacts:chorus_totem"
+				type: "item"
+			}]
+			title: "Тотем Хоруса"
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Позволяет совершать двойной прыжок."]
+			id: "0000000000002027"
+			tasks: [{
+				id: "0000000000003027"
+				item: "artifacts:cloud_in_a_bottle"
+				type: "item"
+			}]
+			title: "Облако в банке"
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Увеличивает максимальное количество здоровья."]
+			id: "0000000000002028"
+			tasks: [{
+				id: "0000000000003028"
+				item: "artifacts:crystal_heart"
+				type: "item"
+			}]
+			title: "Кристальное сердце"
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Позволяет парить в воздухе при зажатии прыжка."]
+			id: "0000000000002029"
+			tasks: [{
+				id: "0000000000003029"
+				item: "artifacts:helium_flamingo"
+				type: "item"
+			}]
+			title: "Гелиевый фламинго"
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Дает временный иммунитет к огню и лаве при получении урона."]
+			id: "0000000000002030"
+			tasks: [{
+				id: "0000000000003030"
+				item: "artifacts:obsidian_skull"
+				type: "item"
+			}]
+			title: "Обсидиановый череп"
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Автоматически переплавляет добываемые руды."]
+			id: "0000000000002031"
+			tasks: [{
+				id: "0000000000003031"
+				item: "artifacts:pickaxe_heater"
+				type: "item"
+			}]
+			title: "Нагреватель кирки"
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Замедляет падение и защищает от дождя."]
+			id: "0000000000002032"
+			tasks: [{
+				id: "0000000000003032"
+				item: "artifacts:umbrella"
+				type: "item"
+			}]
+			title: "Зонтик"
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Притягивает предметы и опыт к игроку."]
+			id: "0000000000002033"
+			tasks: [{
+				id: "0000000000003033"
+				item: "artifacts:universal_attractor"
+				type: "item"
+			}]
+			title: "Универсальный магнит"
+			x: 11.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Издает характерные звуки при прыжках и падении."]
+			id: "0000000000002034"
+			tasks: [{
+				id: "0000000000003034"
+				item: "artifacts:whoopee_cushion"
+				type: "item"
+			}]
+			title: "Подушка-пердушка"
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Позволяют бегать по поверхности воды."]
+			id: "0000000000002035"
+			tasks: [{
+				id: "0000000000003035"
+				item: "artifacts:aqua_dashers"
+				type: "item"
+			}]
+			title: "Водные бегуны"
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Увеличивают высоту прыжка и защищают от падения."]
+			id: "0000000000002036"
+			tasks: [{
+				id: "0000000000003036"
+				item: "artifacts:bunny_hoppers"
+				type: "item"
+			}]
+			title: "Кроличьи тапочки"
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Значительно увеличивают скорость плавания."]
+			id: "0000000000002037"
+			tasks: [{
+				id: "0000000000003037"
+				item: "artifacts:flippers"
+				type: "item"
+			}]
+			title: "Ласты"
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Криперы и фантомы перестают нападать на вас."]
+			id: "0000000000002038"
+			tasks: [{
+				id: "0000000000003038"
+				item: "artifacts:kitty_slippers"
+				type: "item"
+			}]
+			title: "Кошачьи тапочки"
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Восстанавливают сытость, когда вы стоите на дерне или земле."]
+			id: "0000000000002039"
+			tasks: [{
+				id: "0000000000003039"
+				item: "artifacts:rooted_boots"
+				type: "item"
+			}]
+			title: "Укорененные ботинки"
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Увеличивают скорость бега."]
+			id: "0000000000002040"
+			tasks: [{
+				id: "0000000000003040"
+				item: "artifacts:running_shoes"
+				type: "item"
+			}]
+			title: "Кроссовки"
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Предотвращают проваливание в рыхлый снег."]
+			id: "0000000000002041"
+			tasks: [{
+				id: "0000000000003041"
+				item: "artifacts:snowshoes"
+				type: "item"
+			}]
+			title: "Снегоступы"
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000000001000"]
+			description: ["Полностью отменяют отбрасывание от ударов."]
+			id: "0000000000002042"
+			tasks: [{
+				id: "0000000000003042"
+				item: "artifacts:steadfast_spikes"
+				type: "item"
+			}]
+			title: "Шипы устойчивости"
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0000000000001002"]
+			description: ["Бесконечный источник сырого мяса (не тратится при съедании)."]
+			id: "0000000000002043"
+			tasks: [{
+				id: "0000000000003043"
+				item: "artifacts:everlasting_beef"
+				type: "item"
+			}]
+			title: "Вечная говядина"
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0000000000002043"]
+			description: ["Бесконечный источник жареного стейка (получается пережаркой вечной говядины)."]
+			id: "0000000000002044"
+			tasks: [{
+				id: "0000000000003044"
+				item: "artifacts:eternal_steak"
+				type: "item"
+			}]
+			title: "Вечный стейк"
+			x: 3.0d
+			y: 6.0d
+		}
+	]
+	title: "Artifacts: Полный Каталог"
+}
