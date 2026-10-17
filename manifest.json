@@ -2,11 +2,6 @@
     "version":  "1.20.1-forge-47.4.28",
     "files":  [
                   {
-                      "path":  "run — копия.bat",
-                      "hash":  "cdabc16240e6d66d653507139dfb883bc118acb48b408929d43db4719bfa1055",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/run%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.bat"
-                  },
-                  {
                       "path":  "config/alexsmobs.toml",
                       "hash":  "7c01df704a66653df7793e4c6a856815be283106df03765f196c89bd962d463c",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/alexsmobs.toml"
