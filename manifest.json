@@ -1,6 +1,11 @@
 {
-    "version":  "1.20.1-forge-47.2.0",
+    "version":  "1.20.1-forge-47.4.28",
     "files":  [
+                  {
+                      "path":  "run — копия.bat",
+                      "hash":  "cdabc16240e6d66d653507139dfb883bc118acb48b408929d43db4719bfa1055",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/run%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.bat"
+                  },
                   {
                       "path":  "config/alexsmobs.toml",
                       "hash":  "7c01df704a66653df7793e4c6a856815be283106df03765f196c89bd962d463c",
@@ -2144,17 +2149,17 @@
                   {
                       "path":  "config/jei/world/server/serv (195_58_152_9 25588)/bookmarks.json",
                       "hash":  "a2f78b91b8d7823a3b6138666fea061619d911028fc04037cc413f31892a22f5",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/jei/world/server/serv (195_58_152_9 25588)/bookmarks.json"
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/jei/world/server/serv%20(195_58_152_9%2025588)/bookmarks.json"
                   },
                   {
                       "path":  "config/jei/world/server/serv (195_58_152_9 25588)/lookupHistory.ini",
                       "hash":  "e0dec6a56b8aca156c10c0754db8841e9909add84afdfea6983cca1775ef1222",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/jei/world/server/serv (195_58_152_9 25588)/lookupHistory.ini"
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/jei/world/server/serv%20(195_58_152_9%2025588)/lookupHistory.ini"
                   },
                   {
                       "path":  "config/jei/world/server/Сервер Minecraft (localhost)/lookupHistory.ini",
                       "hash":  "698ef5a773b2e6b3061b78472b1d8f018a50cfcf62eb29b7030284026394963b",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/jei/world/server/Сервер Minecraft (localhost)/lookupHistory.ini"
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/jei/world/server/%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20Minecraft%20(localhost)/lookupHistory.ini"
                   },
                   {
                       "path":  "config/Mekanism/client.toml",
@@ -2819,7 +2824,7 @@
                   {
                       "path":  "mods/Presence Footsteps [FORGE] 1.0.0.jar",
                       "hash":  "",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/Presence Footsteps [FORGE] 1.0.0.jar"
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/Presence%20Footsteps%20%5BFORGE%5D%201.0.0.jar"
                   },
                   {
                       "path":  "mods/punchy-2.8f-forge-1.20.1.jar",
@@ -2844,7 +2849,7 @@
                   {
                       "path":  "mods/Resourcify (1.20.1-forge)-1.8.7.jar",
                       "hash":  "f358237339ab2cadd846c13f2c4f4f5aaaaaadb97dbed2a73fe55cfe83138c26",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/Resourcify (1.20.1-forge)-1.8.7.jar"
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/Resourcify%20(1.20.1-forge)-1.8.7.jar"
                   },
                   {
                       "path":  "mods/skinlayers3d-forge-1.11.3-mc1.20.1.jar",
