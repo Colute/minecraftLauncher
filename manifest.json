@@ -1,6 +1,11 @@
 {
-    "version":  "dlya 1.20.1-forge-47.4.28",
+    "version":  "1.20.1-forge-47.4.28",
     "files":  [
+                  {
+                      "path":  ".gitignore",
+                      "hash":  "ce61097c4ce2e1ce5bc8c7030457491c7376abe7600c5c38b06890c69d1f4a17",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/.gitignore"
+                  },
                   {
                       "path":  "defaultconfigs/ftblibrary/ftblibrary-client.snbt",
                       "hash":  "ab6bcad040f138406197f70cfe9a041832feaddf7e87954d9a5f4b13b6a962f9",
