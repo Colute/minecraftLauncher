@@ -1,6 +1,0 @@
-moonlight:placeable_item	inventory_particles:placeable_item/fallback/standard_0	0	0	8	8
-moonlight:placeable_item	inventory_particles:placeable_item/fallback/standard_1	8	0	8	8
-moonlight:placeable_item	inventory_particles:placeable_item/fallback/standard_2	16	0	8	8
-moonlight:placeable_item	inventory_particles:placeable_item/fallback/standard_3	24	0	8	8
-moonlight:placeable_item	inventory_particles:placeable_item/fallback/standard_4	32	0	8	8
-moonlight:placeable_item	inventory_particles:placeable_item/fallback/standard_5	40	0	8	8
