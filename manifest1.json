@@ -1,0 +1,30 @@
+{
+    "version":  "1.20.1-fabric-loader-0.19.5",
+    "files":  [
+                  {
+                      "path":  "mods/ferritecore-6.0.1-fabric.jar",
+                      "hash":  "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/ferritecore-6.0.1-fabric.jar"
+                  },
+                  {
+                      "path":  "mods/ImmediatelyFast-Fabric-1.5.5+1.20.4.jar",
+                      "hash":  "5eea426af467564618e017e8f3a62f1c5c4224ab32a0a1726313de130a2d783d",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/ImmediatelyFast-Fabric-1.5.5+1.20.4.jar"
+                  },
+                  {
+                      "path":  "mods/iris-1.7.6+mc1.20.1.jar",
+                      "hash":  "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/iris-1.7.6+mc1.20.1.jar"
+                  },
+                  {
+                      "path":  "mods/modmenu-7.2.2.jar",
+                      "hash":  "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/modmenu-7.2.2.jar"
+                  },
+                  {
+                      "path":  "mods/sodium-fabric-0.5.13+mc1.20.1.jar",
+                      "hash":  "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/sodium-fabric-0.5.13+mc1.20.1.jar"
+                  }
+              ]
+}
