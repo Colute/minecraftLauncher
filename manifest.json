@@ -257,19 +257,9 @@
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/geckolib-forge-1.20.1-4.8.4.jar"
                   },
                   {
-                      "path":  "mods/gtceu-1.20.1-7.5.3.jar.disabled",
-                      "hash":  "d6560d8b695828a763389d3f45e0210ef70c1892c7b1633ac458544905df1a0d",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/gtceu-1.20.1-7.5.3.jar.disabled"
-                  },
-                  {
                       "path":  "mods/guideme-20.1.15.jar",
                       "hash":  "cf8052ab3da121012efc59a20e731c24bfe7488dfa556c9b88809f42dea3b24a",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/guideme-20.1.15.jar"
-                  },
-                  {
-                      "path":  "mods/hardcore_true_darkness-6.jar",
-                      "hash":  "57ca0a5d4d333d999ed0cd43202f042b077cb0055f78e2d08ab2a4f509debb38",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/hardcore_true_darkness-6.jar"
                   },
                   {
                       "path":  "mods/hexcasting-forge-1.20.1-0.11.4.jar",
