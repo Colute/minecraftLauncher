@@ -2,16 +2,6 @@
     "version":  "fabric-loader-0.18.4-1.19.2",
     "files":  [
                   {
-                      "path":  "update.zip",
-                      "hash":  "39287440c01a3c31b48f00ac49f8631abe4cccd7fc5154a113c200da3b3d80dc",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/update.zip"
-                  },
-                  {
-                      "path":  "version.txt",
-                      "hash":  "6d6b9230dd8b8aac527f8929b7c2fc1fa0365deccca856216de979d6f5c6a6fe",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/version.txt"
-                  },
-                  {
                       "path":  "config/adaptive-tooltips.json",
                       "hash":  "c7201bc48409d611ff9608a4932f46ceef3ec1f2cf1c2437d76520ece00f16df",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/adaptive-tooltips.json"
