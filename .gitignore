@@ -1,1 +1,7 @@
 run.bat
+.fabric/
+.mixin.out/
+logs/
+saves/
+modernfix/
+backups/
