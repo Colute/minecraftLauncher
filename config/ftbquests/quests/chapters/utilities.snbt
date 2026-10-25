@@ -1,0 +1,823 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "utilities"
+	group: "135E7B9D4273E5DD"
+	icon: "ae2:nether_quartz_wrench"
+	id: "3E16F2F46B00419C"
+	images: [{
+		click: "https://tweaked.cc/"
+		corner: false
+		dev: false
+		height: 1.0d
+		hover: ["{chapter.14.image.1}"]
+		image: "computercraft:block/computer_normal_front_blink"
+		rotation: 0.0d
+		width: 1.0d
+		x: 11.5d
+		y: 4.0d
+	}]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["{chapter.14.quest.1.description.1}"]
+			id: "73C2BC46B62799D4"
+			subtitle: "{chapter.14.quest.1.subtitle}"
+			tasks: [{
+				id: "6B82EEFE4E5941B7"
+				item: "chisel:chisel"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			description: ["{chapter.14.quest.2.description.1}"]
+			icon: "dustrial_decor:large_lantern"
+			id: "16FC72D878F9B6FB"
+			subtitle: "{chapter.14.quest.2.subtitle}"
+			tasks: [{
+				id: "7C9ABEB2F52198D7"
+				title: "{chapter.14.quest.2.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.14.quest.2.title}"
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			description: ["{chapter.14.quest.3.description.1}"]
+			id: "2CCE43B3304C016D"
+			subtitle: "{chapter.14.quest.3.subtitle}"
+			tasks: [{
+				id: "564BE712223F9215"
+				item: "dummmmmmy:target_dummy"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			description: ["{chapter.14.quest.4.description.1}"]
+			icon: "decorative_blocks:brazier"
+			id: "10CD749A39267942"
+			subtitle: "{chapter.14.quest.4.subtitle}"
+			tasks: [{
+				id: "43E5211A28223616"
+				title: "{chapter.14.quest.4.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.14.quest.4.title}"
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			description: ["{chapter.14.quest.5.description.1}"]
+			id: "77C8C1E759C36CB9"
+			subtitle: "{chapter.14.quest.5.subtitle}"
+			tasks: [{
+				id: "234C5EDFEE23E6A4"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "hookshot:hookshots"
+					}
+				}
+				title: "{chapter.14.quest.5.task.1.title}"
+				type: "item"
+			}]
+			title: "{chapter.14.quest.5.title}"
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			description: ["{chapter.14.quest.6.description.1}"]
+			id: "1976EABD4551F6C8"
+			subtitle: "{chapter.14.quest.6.subtitle}"
+			tasks: [{
+				id: "6935A2E9DA0C3D7C"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "kubejs:food_carriers"
+					}
+				}
+				title: "{chapter.14.quest.6.task.1.title}"
+				type: "item"
+			}]
+			title: "{chapter.14.quest.6.title}"
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			description: ["{chapter.14.quest.7.description.1}"]
+			id: "06170E4C91291CE2"
+			subtitle: "{chapter.14.quest.7.subtitle}"
+			tasks: [{
+				id: "2924A7981900E00B"
+				item: "minecraft:bundle"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			description: ["{chapter.14.quest.8.description.1}"]
+			id: "7DF831878A6CF9FF"
+			subtitle: "{chapter.14.quest.8.subtitle}"
+			tasks: [{
+				id: "0ED6EFAC63E20139"
+				item: "minecraft:totem_of_undying"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			description: ["{chapter.14.quest.9.description.1}"]
+			id: "447831F00F41AA6C"
+			subtitle: "{chapter.14.quest.9.subtitle}"
+			tasks: [{
+				id: "5E3A8C815C0BB1E4"
+				title: "{chapter.14.quest.9.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.14.quest.9.title}"
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			description: ["{chapter.14.quest.10.description.1}"]
+			id: "2C84E1C3D7590A49"
+			tasks: [
+				{
+					id: "27830E61A7634D86"
+					item: {
+						Count: 1b
+						id: "buildinggadgets:gadget_building"
+						tag: {
+							energy: 500000.0d
+							state: {
+								data: { }
+								serializer: "buildinggadgets:dummy_serializer"
+								state: {
+									Name: "minecraft:air"
+								}
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "49372B1A958333E1"
+					item: {
+						Count: 1b
+						id: "buildinggadgets:gadget_exchanging"
+						tag: {
+							energy: 500000.0d
+							state: {
+								data: { }
+								serializer: "buildinggadgets:dummy_serializer"
+								state: {
+									Name: "minecraft:air"
+								}
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4660661292362A0B"
+					item: {
+						Count: 1b
+						id: "buildinggadgets:gadget_copy_paste"
+						tag: {
+							"buildinggadgets:template_key": {
+								template_id: [I;
+									-1638511729
+									-344046625
+									-1485773212
+									-1770359759
+								]
+							}
+							energy: 500000.0d
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "45AAF6420CB3D2B5"
+					item: {
+						Count: 1b
+						id: "buildinggadgets:gadget_destruction"
+						tag: {
+							energy: 1000000.0d
+							fuzzy: 1b
+							overlay: 1b
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "{chapter.14.quest.10.title}"
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			description: ["{chapter.14.quest.11.description.1}"]
+			id: "3CCE573B3AFB429D"
+			tasks: [
+				{
+					id: "46C4A635724DE03A"
+					item: {
+						Count: 1b
+						id: "kibe:slime_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "016142002488F729"
+					item: "kibe:slime_sling"
+					type: "item"
+				}
+			]
+			title: "{chapter.14.quest.11.title}"
+			x: 3.0d
+			y: 5.5d
+		}
+		{
+			description: ["{chapter.14.quest.12.description.1}"]
+			id: "2F133B5C4B1027C7"
+			subtitle: "{chapter.14.quest.12.subtitle}"
+			tasks: [{
+				id: "2F0D8784798E6D87"
+				item: "kibe:fluid_hopper"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			description: ["{chapter.14.quest.13.description.1}"]
+			id: "375463DA61D3A69C"
+			tasks: [{
+				id: "15556B3E9045DE80"
+				item: {
+					Count: 1b
+					id: "kibe:escape_rope"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			description: ["{chapter.14.quest.14.description.1}"]
+			id: "4280BD3627ECC8A2"
+			tasks: [{
+				id: "14B58D4FE4C2D6F2"
+				item: "kibe:white_sleeping_bag"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			description: ["{chapter.14.quest.15.description.1}"]
+			id: "7AE5106D5AF45BED"
+			tasks: [{
+				id: "5E192575497A8A89"
+				item: "kibe:redstone_timer"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			description: ["{chapter.14.quest.16.description.1}"]
+			id: "040EC8942C0CD7C1"
+			tasks: [{
+				id: "65A5DDBAB684F9EA"
+				item: "kibe:cobblestone_generator_mk1"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["040EC8942C0CD7C1"]
+			id: "754B5248E5936550"
+			tasks: [{
+				id: "46FD3DD67D92A34B"
+				item: "kibe:cobblestone_generator_mk2"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["754B5248E5936550"]
+			id: "4CE4FA07D044D0C6"
+			tasks: [{
+				id: "6B2A5223DBBA07DF"
+				item: "kibe:cobblestone_generator_mk3"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["4CE4FA07D044D0C6"]
+			id: "79F7D488E030ABCE"
+			tasks: [{
+				id: "7BCE6F9F62ACFE50"
+				item: "kibe:cobblestone_generator_mk4"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["79F7D488E030ABCE"]
+			id: "1896D76F5F8DE2F9"
+			subtitle: "{chapter.14.quest.20.subtitle}"
+			tasks: [{
+				id: "7B0D367FC225479D"
+				item: "kibe:cobblestone_generator_mk5"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 7.0d
+		}
+		{
+			description: ["{chapter.14.quest.21.description.1}"]
+			id: "6674C6799552AFD5"
+			tasks: [{
+				id: "63A6C97F172F146C"
+				item: "kibe:basalt_generator_mk1"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["6674C6799552AFD5"]
+			id: "1F11A6C3F6C91F61"
+			tasks: [{
+				id: "0E74AE2B0050CA43"
+				item: "kibe:basalt_generator_mk2"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["1F11A6C3F6C91F61"]
+			id: "29E94ED87031FE30"
+			tasks: [{
+				id: "1B8DBB5CBD125753"
+				item: "kibe:basalt_generator_mk3"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["29E94ED87031FE30"]
+			id: "286E00B83AB335A9"
+			tasks: [{
+				id: "7D7FA5601B0EBA73"
+				item: "kibe:basalt_generator_mk4"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["286E00B83AB335A9"]
+			id: "280E186D6E447C3A"
+			tasks: [{
+				id: "2081D9B1B99E4C63"
+				item: "kibe:basalt_generator_mk5"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["59442F8EBE6F9F06"]
+			description: ["{chapter.14.quest.26.description.1}"]
+			id: "26A75B67D8248BFE"
+			tasks: [{
+				id: "42EAD8ACB676DCF7"
+				item: "kibe:diamond_ring"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["26A75B67D8248BFE"]
+			description: ["{chapter.14.quest.27.description.1}"]
+			id: "652C0BC994B42E3D"
+			tasks: [{
+				id: "29820A28ACCBA5BA"
+				item: "kibe:light_ring"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["26A75B67D8248BFE"]
+			description: ["{chapter.14.quest.28.description.1}"]
+			id: "007F24724F7C4467"
+			tasks: [{
+				id: "0789DB105FBEC3FF"
+				item: {
+					Count: 1b
+					id: "kibe:magma_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["26A75B67D8248BFE"]
+			description: ["{chapter.14.quest.29.description.1}"]
+			id: "314EA5A456B38508"
+			tasks: [{
+				id: "0EECC5E48C383766"
+				item: {
+					Count: 1b
+					id: "kibe:water_ring"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 8.5d
+		}
+		{
+			description: ["{chapter.14.quest.30.description.1}"]
+			id: "4901BE91F31B97A6"
+			tasks: [{
+				id: "033EBB2A33FF22A2"
+				item: {
+					Count: 1b
+					id: "kibe:cooler"
+					tag: {
+						BlockEntityTag: {
+							Items: [ ]
+							id: "kibe:cooler"
+							x: -198
+							y: 64
+							z: 126
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			description: ["{chapter.14.quest.31.description.1}"]
+			id: "35B355974563CA8B"
+			tasks: [{
+				id: "775E480B484063F0"
+				item: {
+					Count: 1b
+					id: "kibe:golden_lasso"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			description: ["{chapter.14.quest.32.description.1}"]
+			id: "3214344C3D3EE907"
+			tasks: [{
+				id: "13E0E010EAF19C77"
+				item: {
+					Count: 1b
+					id: "kibe:diamond_lasso"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			description: ["{chapter.14.quest.33.description.1}"]
+			id: "616AE4F76CF4B3E9"
+			tasks: [
+				{
+					id: "1DE8AFD2E1B07C80"
+					item: "kibe:wither_builder"
+					type: "item"
+				}
+				{
+					id: "0FC94EAF22AF387E"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "kubejs:kibe_witherproof"
+						}
+					}
+					title: "{chapter.14.quest.33.task.2.title}"
+					type: "item"
+				}
+			]
+			title: "{chapter.14.quest.33.title}"
+			x: 4.5d
+			y: 4.0d
+		}
+		{
+			description: ["{chapter.14.quest.34.description.1}"]
+			id: "38B71B456569296B"
+			tasks: [{
+				id: "491D7753563F695E"
+				item: "kibe:cursed_droplets"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["38B71B456569296B"]
+			description: ["{chapter.14.quest.35.description.1}"]
+			id: "1CB50572194C932F"
+			tasks: [{
+				id: "689448AB91274B5C"
+				item: "kibe:cursed_seeds"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.5d
+		}
+		{
+			description: ["{chapter.14.quest.36.description.1}"]
+			id: "183ED29E27120099"
+			tasks: [{
+				id: "21F062A4380B79F3"
+				item: "kibe:big_torch"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			description: ["{chapter.14.quest.37.description.1}"]
+			id: "0E914B90AC68FD96"
+			tasks: [{
+				id: "78CC119E9665195D"
+				item: {
+					Count: 1b
+					id: "kibe:cursed_lasso"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			description: ["{chapter.14.quest.38.description.1}"]
+			id: "1853C266F78A8777"
+			tasks: [{
+				id: "37518E40AA8F3762"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "kubejs:chimes"
+					}
+				}
+				title: "{chapter.14.quest.38.task.1.title}"
+				type: "item"
+			}]
+			title: "{chapter.14.quest.38.title}"
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			description: ["{chapter.14.quest.39.description.1}"]
+			id: "131DE00E5538A45C"
+			tasks: [{
+				id: "1D7A17989A8566BF"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "geodes:echo_locators"
+					}
+				}
+				title: "{chapter.14.quest.39.task.1.title}"
+				type: "item"
+			}]
+			title: "{chapter.14.quest.39.title}"
+			x: 7.5d
+			y: 5.5d
+		}
+		{
+			description: ["{chapter.14.quest.40.description.1}"]
+			id: "787CC6E0C5E2D17A"
+			tasks: [{
+				id: "5CD1D26667C846D6"
+				item: "computercraft:computer_normal"
+				type: "item"
+			}]
+			title: "{chapter.14.quest.40.title}"
+			x: 10.5d
+			y: 4.0d
+		}
+		{
+			description: ["{chapter.14.quest.41.description.1}"]
+			id: "382262BF67437D6F"
+			subtitle: "{chapter.14.quest.41.subtitle}"
+			tasks: [{
+				id: "0B9E0DB06100A342"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "simplyswords:swords"
+					}
+				}
+				title: "{chapter.14.quest.41.task.1.title}"
+				type: "item"
+			}]
+			title: "{chapter.14.quest.41.title}"
+			x: 7.5d
+			y: 2.5d
+		}
+		{
+			description: ["{chapter.14.quest.42.description.1}"]
+			id: "6730EAFBD67277D8"
+			tasks: [{
+				id: "76EBB69AB1D46D20"
+				item: "polaroidcamera:camera"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 2.5d
+		}
+		{
+			description: ["{chapter.14.quest.43.description.1}"]
+			id: "1A915B3D1C8D5A46"
+			tasks: [{
+				id: "5D890C66DEFA9BE0"
+				item: "kibe:placer"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 7.0d
+		}
+		{
+			description: ["{chapter.14.quest.44.description.1}"]
+			id: "5E080BBBF5CF8CDE"
+			tasks: [{
+				id: "250DD5AB25707F7C"
+				item: "kibe:breaker"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 8.5d
+		}
+		{
+			description: ["{chapter.14.quest.45.description.1}"]
+			id: "7A956433C33A9C44"
+			tasks: [{
+				id: "6FC76F232B9F2BE6"
+				item: "kibe:drawbridge"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.5d
+		}
+		{
+			description: ["{chapter.14.quest.46.description.1}"]
+			id: "09CADCF8F4364A49"
+			tasks: [{
+				id: "4E52121FB57B0BB7"
+				item: "kibe:igniter"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 2.5d
+		}
+		{
+			description: ["{chapter.14.quest.47.description.1}"]
+			id: "060A731AEBEA372B"
+			tasks: [{
+				id: "11601ECCFFA4A1DE"
+				item: "kibe:dehumidifier"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			description: ["{chapter.14.quest.48.description.1}"]
+			id: "291CD73E1846E514"
+			tasks: [{
+				id: "1EC01774F4CEEFDE"
+				item: "kibe:heater"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.0d
+		}
+		{
+			description: ["{chapter.14.quest.49.description.1}"]
+			id: "3DFC107C97761ECB"
+			tasks: [
+				{
+					id: "22EA67498B745150"
+					item: "kubejs:clear_ingot"
+					type: "item"
+				}
+				{
+					id: "04C5F0F18E9A3540"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "kubejs:clear_armor"
+						}
+					}
+					title: "{chapter.14.quest.49.task.2.title}"
+					type: "item"
+				}
+			]
+			title: "{chapter.14.quest.49.title}"
+			x: 10.5d
+			y: 1.0d
+		}
+		{
+			description: ["{chapter.14.quest.50.description.1}"]
+			id: "04D26675230550D4"
+			tasks: [{
+				id: "3A7C9AC2EA64431B"
+				item: {
+					Count: 1b
+					id: "wands:stone_wand"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: 5.5d
+		}
+		{
+			description: ["{chapter.14.quest.51.description.1}"]
+			id: "3F032D56CC791DF2"
+			tasks: [
+				{
+					id: "13C35A17FA8973D1"
+					item: "jecalculation:item_calculator_craft"
+					type: "item"
+				}
+				{
+					id: "7A6BCDA6A1B65929"
+					item: "jecalculation:item_calculator_math"
+					type: "item"
+				}
+			]
+			title: "{chapter.14.quest.51.title}"
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			description: ["{chapter.14.quest.52.description.1}"]
+			id: "106CE98BB4795B96"
+			tasks: [{
+				id: "23660FB71B1C7476"
+				item: "trowel:trowel"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.0d
+		}
+	]
+	subtitle: ["{chapter.14.subtitle}"]
+	title: "{chapter.14.title}"
+}

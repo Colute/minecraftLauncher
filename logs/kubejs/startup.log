@@ -1,0 +1,47 @@
+[15:12:26] [INIT] KubeJS 1902.6.2-build.73; MC 1902 fabric
+[15:12:26] [INIT] Loaded plugins:
+[15:12:26] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[15:12:26] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricClientPlugin
+[15:12:26] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[15:12:26] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[15:12:26] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[15:12:26] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
+[15:12:26] [INIT] - dev.thestaticvoid.mi_sound_addon.compat.kubejs.MISoundAddonKubeJSPlugin
+[15:12:26] [INIT] - dev.thestaticvoid.capejs.kubejs.CapeJSPlugin
+[15:12:26] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[15:12:26] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/ebf_tiers.js in 0.049 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/fluids.js in 0.002 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/fuels.js in 0.0 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/machines/alloy_smelter.js in 0.001 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/machines/laser_engraver.js in 0.002 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/machines/photosynthetic_chamber.js in 0.001 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/machines/rocket_part_assembler.js in 0.0 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/machine_casing.js in 0.001 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/materials.js in 0.003 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/multiblocks/blood_generator.js in 0.003 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/multiblocks/boss_crusher.js in 0.002 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/multiblocks/core_drill.js in 0.003 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/multiblocks/industrial_greenhouse.js in 0.003 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/multiblocks/large_chemical_reactor.js in 0.0 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/multiblocks/large_steam_furnace.js in 0.001 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/multiblocks/large_steam_macerator.js in 0.002 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/multiblocks/mega_smelter.js in 0.0 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/multiblocks/mob_crusher.js in 0.002 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/multiblocks/pyrolyse_oven.js in 0.001 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/multiblocks/singularity_forge.js in 0.003 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/multiblocks/space_probe_launcher.js in 0.002 s
+[15:12:27] [INFO] Loaded script startup_scripts:modern_industrialization/sounds.js in 0.001 s
+[15:12:27] [INFO] Loaded script startup_scripts:ores.js in 0.001 s
+[15:12:27] [INFO] Loaded script startup_scripts:statech/clear_armor.js in 0.001 s
+[15:12:27] [INFO] Loaded script startup_scripts:statech/coins.js in 0.0 s
+[15:12:27] [INFO] Loaded script startup_scripts:statech/food.js in 0.001 s
+[15:12:27] [INFO] statech/geocluster_sample.js#9: Loaded Java class 'dev.sterner.geocluster.common.blocks.SampleBlock'
+[15:12:27] [INFO] statech/geocluster_sample.js#10: Loaded Java class 'net.minecraft.world.item.BlockItem'
+[15:12:27] [INFO] statech/geocluster_sample.js#11: Loaded Java class 'net.minecraft.world.item.Item$Properties'
+[15:12:27] [INFO] statech/geocluster_sample.js#12: Loaded Java class 'dev.sterner.geocluster.Geocluster'
+[15:12:27] [INFO] Loaded script startup_scripts:statech/geocluster_sample.js in 0.018 s
+[15:12:27] [INFO] Loaded script startup_scripts:statech/misc.js in 0.001 s
+[15:12:27] [INFO] Loaded script startup_scripts:statech/mob_models.js in 0.0 s
+[15:12:27] [INFO] Loaded script startup_scripts:statech/platform_rename.js in 0.003 s
+[15:12:27] [INFO] Loaded 30/30 KubeJS startup scripts in 0.477 s

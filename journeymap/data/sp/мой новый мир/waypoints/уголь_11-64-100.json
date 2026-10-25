@@ -1,0 +1,22 @@
+{
+  "id": "уголь_11-64-100",
+  "name": "уголь",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--12419657-waypoint-icon.png",
+  "x": 11,
+  "y": 64,
+  "z": 100,
+  "r": 66,
+  "g": 125,
+  "b": 183,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

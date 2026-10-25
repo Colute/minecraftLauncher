@@ -1,0 +1,682 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6__quantum_age"
+	group: "592A9A0E9A131D28"
+	icon: "modern_industrialization:quantum_circuit"
+	id: "0E3388F02406CCAF"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"6CD8A3092DDAC055"
+				"598DBC20FB201711"
+			]
+			description: ["{chapter.7.quest.1.description.1}"]
+			icon: "modern_industrialization:plasma_turbine"
+			id: "18765B0B6FE4E653"
+			shape: "square"
+			size: 1.5d
+			tasks: [
+				{
+					id: "0C519A64F3D02DAF"
+					item: "modern_industrialization:plasma_turbine"
+					type: "item"
+				}
+				{
+					count: 15L
+					id: "6319C27B8BBCC8BE"
+					item: "modern_industrialization:plasma_handling_iridium_machine_casing"
+					type: "item"
+				}
+				{
+					count: 18L
+					id: "61FCCBFE765C0C9F"
+					item: "modern_industrialization:iridium_machine_casing_pipe"
+					type: "item"
+				}
+				{
+					id: "0DAF0F002AA82CA4"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "kubejs:energy_output_hatch"
+						}
+					}
+					title: "{chapter.7.quest.1.task.4.title}"
+					type: "item"
+				}
+				{
+					id: "4A6B167539EAF884"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "kubejs:fluid_input_hatch"
+						}
+					}
+					title: "{chapter.7.quest.1.task.5.title}"
+					type: "item"
+				}
+			]
+			x: -4.25d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2FDA67B4920D335D"]
+			description: ["{chapter.7.quest.2.description.1}"]
+			icon: "modern_industrialization:fusion_reactor"
+			id: "6CD8A3092DDAC055"
+			shape: "square"
+			size: 1.5d
+			subtitle: "{chapter.7.quest.2.subtitle}"
+			tasks: [
+				{
+					id: "3E34FF524BAF3AD0"
+					item: "modern_industrialization:fusion_reactor"
+					type: "item"
+				}
+				{
+					count: 198L
+					id: "7BD9A95E03081C2E"
+					item: "modern_industrialization:highly_advanced_machine_hull"
+					type: "item"
+				}
+				{
+					count: 40L
+					id: "5AB77EE9B0BBFAE7"
+					item: "modern_industrialization:fusion_chamber"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "2EE89DD03842BD06"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "kubejs:fluid_input_hatch"
+						}
+					}
+					title: "{chapter.7.quest.2.task.4.title}"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "747A45BE0603F600"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "kubejs:fluid_output_hatch"
+						}
+					}
+					title: "{chapter.7.quest.2.task.5.title}"
+					type: "item"
+				}
+				{
+					id: "227C74C617BC0803"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "kubejs:energy_input_hatch"
+						}
+					}
+					title: "{chapter.7.quest.2.task.6.title}"
+					type: "item"
+				}
+			]
+			title: "{chapter.7.quest.2.title}"
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["10943911EAB7196F"]
+			description: ["{chapter.7.quest.3.description.1}"]
+			id: "7F499A3A91F4AC6D"
+			shape: "square"
+			tasks: [{
+				id: "1C2DEE6D23BE5CA1"
+				item: "modern_industrialization:quantum_tank"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["10943911EAB7196F"]
+			description: ["{chapter.7.quest.4.description.1}"]
+			id: "7D17913DECB347F1"
+			shape: "square"
+			tasks: [{
+				id: "1DE9A31A935B6B9C"
+				item: "modern_industrialization:quantum_barrel"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"3E139335E6F04C69"
+				"5E0967F2B54D6B34"
+			]
+			description: ["{chapter.7.quest.5.description.1}"]
+			id: "4FD7572FC6CC4140"
+			shape: "square"
+			size: 2.0d
+			subtitle: "{chapter.7.quest.5.subtitle}"
+			tasks: [{
+				id: "3993E47E456846A3"
+				item: "modern_industrialization:replicator"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2FDA67B4920D335D"]
+			description: ["{chapter.7.quest.6.description.1}"]
+			id: "0448EA623C79DA7B"
+			shape: "rsquare"
+			tasks: [{
+				id: "4445EC251C8C0248"
+				item: "modern_industrialization:superconductor_storage_unit"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"23D9328B5F627E65"
+				"10943911EAB7196F"
+			]
+			description: ["{chapter.7.quest.7.description.1}"]
+			id: "3E139335E6F04C69"
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "6DF16E37BD8E4BD3"
+				item: "modern_industrialization:quantum_upgrade"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"50D18ACF6401C05D"
+				"78E1B9C83BB915D4"
+				"1E525921822F56AC"
+			]
+			description: ["{chapter.7.quest.8.description.1}"]
+			id: "10943911EAB7196F"
+			shape: "square"
+			size: 2.0d
+			subtitle: "{chapter.7.quest.8.subtitle}"
+			tasks: [{
+				id: "10057B6A9C68E33C"
+				item: "modern_industrialization:singularity"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3E139335E6F04C69"]
+			description: ["{chapter.7.quest.9.description.1}"]
+			id: "152140F96FA2944E"
+			shape: "square"
+			subtitle: "{chapter.7.quest.9.subtitle}"
+			tasks: [{
+				id: "2984BF4A049BC986"
+				item: "modern_industrialization:quantum_sword"
+				type: "item"
+			}]
+			title: "{chapter.7.quest.9.title}"
+			x: 16.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["3E139335E6F04C69"]
+			description: ["{chapter.7.quest.10.description.1}"]
+			id: "1E378F2F641048F1"
+			shape: "square"
+			subtitle: "{chapter.7.quest.10.subtitle}"
+			tasks: [
+				{
+					id: "644C2DCB1D55C7E8"
+					item: "modern_industrialization:quantum_helmet"
+					type: "item"
+				}
+				{
+					id: "55E6C1C7A57FE87F"
+					item: "modern_industrialization:quantum_chestplate"
+					type: "item"
+				}
+				{
+					id: "45C3F6978CECD834"
+					item: "modern_industrialization:quantum_leggings"
+					type: "item"
+				}
+				{
+					id: "0CE944469E1D99E4"
+					item: "modern_industrialization:quantum_boots"
+					type: "item"
+				}
+			]
+			title: "{chapter.7.quest.10.title}"
+			x: 16.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["10943911EAB7196F"]
+			description: ["{chapter.7.quest.11.description.1}"]
+			id: "5E0967F2B54D6B34"
+			shape: "square"
+			tasks: [{
+				id: "633737ED60FC7421"
+				item: "modern_industrialization:uu_matter_bucket"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["23D9328B5F627E65"]
+			description: ["{chapter.7.quest.12.description.1}"]
+			id: "2FDA67B4920D335D"
+			shape: "square"
+			tasks: [{
+				id: "658A5CFBE21AA05A"
+				item: "modern_industrialization:quantum_machine_hull"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4FD7572FC6CC4140"]
+			description: ["{chapter.7.quest.13.description.1}"]
+			id: "576E585F8DFC7073"
+			shape: "square"
+			tasks: [{
+				id: "13FF5B9632CF71F1"
+				item: "create:creative_motor"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"208D9031D68CE1AB"
+				"3DDD69F79F436684"
+				"1BE7697603B3C94F"
+				"576E585F8DFC7073"
+				"152140F96FA2944E"
+				"1E378F2F641048F1"
+			]
+			description: ["{chapter.7.quest.14.description.1}"]
+			id: "1EE269859E6DD37B"
+			shape: "diamond"
+			size: 4.0d
+			subtitle: "{chapter.7.quest.14.subtitle}"
+			tasks: [{
+				id: "7A9A9CC7B61F520A"
+				item: "create:handheld_worldshaper"
+				type: "item"
+			}]
+			title: "{chapter.7.quest.14.title}"
+			x: 20.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4FD7572FC6CC4140"]
+			description: ["{chapter.7.quest.15.description.1}"]
+			id: "3DDD69F79F436684"
+			shape: "square"
+			tasks: [{
+				id: "78F18B3BBAA3C573"
+				item: "modern_industrialization:creative_tank"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4FD7572FC6CC4140"]
+			description: ["{chapter.7.quest.16.description.1}"]
+			id: "1BE7697603B3C94F"
+			shape: "square"
+			subtitle: "{chapter.7.quest.16.subtitle}"
+			tasks: [{
+				id: "238DC19F04500FAA"
+				item: "modern_industrialization:creative_barrel"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4FD7572FC6CC4140"]
+			description: ["{chapter.7.quest.17.description.1}"]
+			id: "208D9031D68CE1AB"
+			shape: "square"
+			subtitle: "{chapter.7.quest.17.subtitle}"
+			tasks: [{
+				id: "50A838B28E13936D"
+				item: "modern_industrialization:creative_storage_unit"
+				type: "item"
+			}]
+			x: 16.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6CD8A3092DDAC055"]
+			description: ["{chapter.7.quest.18.description.1}"]
+			id: "598DBC20FB201711"
+			shape: "square"
+			tasks: [{
+				id: "2FB04878432C0350"
+				item: "modern_industrialization:helium_plasma_bucket"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["598DBC20FB201711"]
+			description: ["{chapter.7.quest.19.description.1}"]
+			id: "1E525921822F56AC"
+			shape: "square"
+			size: 1.5d
+			subtitle: "{chapter.7.quest.19.subtitle}"
+			tasks: [{
+				id: "409B2DD4E247D7BE"
+				item: "modern_industrialization:neutronium_bucket"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3C38E4E38D595A8C"]
+			description: ["{chapter.7.quest.20.description.1}"]
+			id: "4A2F6AA833C88B7C"
+			shape: "square"
+			tasks: [{
+				id: "1D3EDD75EC203C8F"
+				item: "modern_industrialization:ultradense_metal_ball"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4A2F6AA833C88B7C"]
+			description: ["{chapter.7.quest.21.description.1}"]
+			icon: "modern_industrialization:singularity_forge"
+			id: "78E1B9C83BB915D4"
+			shape: "square"
+			size: 2.0d
+			subtitle: "{chapter.7.quest.21.subtitle}"
+			tasks: [
+				{
+					id: "79A6BC385587A982"
+					item: "modern_industrialization:singularity_forge"
+					type: "item"
+				}
+				{
+					count: 361L
+					id: "39C5F46FEE1E0D5D"
+					item: "modern_industrialization:plasma_handling_iridium_machine_casing"
+					type: "item"
+				}
+				{
+					count: 42L
+					id: "14B51507DBA6CE85"
+					item: "ad_astra:glowing_calorite_pillar"
+					type: "item"
+				}
+				{
+					count: 30L
+					id: "76410D27E67E4546"
+					item: "modern_industrialization:calorite_machine_casing"
+					type: "item"
+				}
+				{
+					count: 24L
+					id: "1BC8CE204275D2EB"
+					item: "modern_industrialization:superconductor_coil"
+					type: "item"
+				}
+				{
+					count: 24L
+					id: "6DC451BC4AF4CB75"
+					item: "modern_industrialization:iridium_machine_casing_pipe"
+					type: "item"
+				}
+				{
+					count: 7L
+					id: "00D2FEEDE5A53675"
+					item: "chisel:llama/purple_wool"
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "1AAA7DD826C8E2E0"
+					item: "byg:cryptic_end_rod"
+					type: "item"
+				}
+				{
+					id: "545E6D4D9A879F74"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "kubejs:item_input_hatch"
+						}
+					}
+					title: "{chapter.7.quest.21.task.9.title}"
+					type: "item"
+				}
+				{
+					id: "3767DB05B2FC7424"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "kubejs:item_output_hatch"
+						}
+					}
+					title: "{chapter.7.quest.21.task.10.title}"
+					type: "item"
+				}
+				{
+					id: "26627FABA88E6E0F"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "kubejs:fluid_input_hatch"
+						}
+					}
+					title: "{chapter.7.quest.21.task.11.title}"
+					type: "item"
+				}
+				{
+					id: "33874037A301C524"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "kubejs:energy_input_hatch"
+						}
+					}
+					title: "{chapter.7.quest.21.task.12.title}"
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2FDA67B4920D335D"]
+			description: ["{chapter.7.quest.22.description.1}"]
+			icon: "modern_industrialization:core_drill"
+			id: "500F9FE708EE8F1C"
+			shape: "square"
+			size: 1.5d
+			subtitle: "{chapter.7.quest.22.subtitle}"
+			tasks: [
+				{
+					id: "38E32704DF947DF7"
+					item: "modern_industrialization:core_drill"
+					type: "item"
+				}
+				{
+					count: 92L
+					id: "15C44D80F5C556C3"
+					item: "modern_industrialization:clean_stainless_steel_machine_casing"
+					type: "item"
+				}
+				{
+					count: 80L
+					id: "31D7891360DD61F8"
+					item: "ad_astra:desh_pillar"
+					type: "item"
+				}
+				{
+					count: 46L
+					id: "3A482B3C209235E0"
+					item: "ad_astra:desh_block"
+					type: "item"
+				}
+				{
+					count: 40L
+					id: "2EE1A499E8E3ABDE"
+					item: "quarrymod:drill_tube"
+					type: "item"
+				}
+				{
+					count: 36L
+					id: "2DBE2FEE7EC1B878"
+					item: "modern_industrialization:calorite_machine_casing"
+					type: "item"
+				}
+				{
+					count: 36L
+					id: "25751857956305C4"
+					item: "ad_astra:glowing_iron_pillar"
+					type: "item"
+				}
+				{
+					count: 28L
+					id: "615422D7B1B5CEA7"
+					item: "ad_astra:glowing_ostrum_pillar"
+					type: "item"
+				}
+				{
+					count: 12L
+					id: "68D73133867749ED"
+					item: "modern_industrialization:calorite_machine_casing_pipe"
+					type: "item"
+				}
+				{
+					id: "779FFA73035080EF"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "kubejs:item_input_hatch"
+						}
+					}
+					title: "{chapter.7.quest.22.task.10.title}"
+					type: "item"
+				}
+				{
+					id: "39E6FDBA5857B148"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "kubejs:item_output_hatch"
+						}
+					}
+					title: "{chapter.7.quest.22.task.11.title}"
+					type: "item"
+				}
+				{
+					id: "185F55556ABC98C4"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "kubejs:fluid_input_hatch"
+						}
+					}
+					title: "{chapter.7.quest.22.task.12.title}"
+					type: "item"
+				}
+				{
+					id: "4F3BE0E97513F965"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "kubejs:fluid_output_hatch"
+						}
+					}
+					title: "{chapter.7.quest.22.task.13.title}"
+					type: "item"
+				}
+				{
+					id: "494ED9C78365AA3F"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "kubejs:energy_input_hatch"
+						}
+					}
+					title: "{chapter.7.quest.22.task.14.title}"
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["500F9FE708EE8F1C"]
+			description: ["{chapter.7.quest.23.description.1}"]
+			id: "3C38E4E38D595A8C"
+			shape: "square"
+			tasks: [{
+				id: "5E59379738E1AE81"
+				item: "kubejs:core_fragment"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["500F9FE708EE8F1C"]
+			description: ["{chapter.7.quest.24.description.1}"]
+			id: "790924652E61D23D"
+			tasks: [{
+				id: "5104EE527A6A7853"
+				item: "modern_industrialization:core_slurry_bucket"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+	]
+	subtitle: ["{chapter.7.subtitle}"]
+	title: "{chapter.7.title}"
+}

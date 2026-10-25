@@ -1,0 +1,22 @@
+{
+  "totalPatsCounter": {
+    "pats": 250
+  },
+  "entities": {
+    "naturalist:robin": {
+      "pats": 1
+    },
+    "minecraft:pig": {
+      "pats": 68
+    },
+    "minecraft:cow": {
+      "pats": 62
+    },
+    "minecraft:sheep": {
+      "pats": 104
+    },
+    "naturalist:snail": {
+      "pats": 10
+    }
+  }
+}

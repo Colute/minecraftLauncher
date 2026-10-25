@@ -1,0 +1,496 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "artifacts"
+	group: "135E7B9D4273E5DD"
+	icon: "artifacts:mimic_spawn_egg"
+	id: "464FB437D5DF7824"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "trinkets:textures/gui/slots/hat.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "trinkets:textures/gui/slots/necklace.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "trinkets:textures/gui/slots/belt.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "trinkets:textures/gui/slots/glove.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "trinkets:textures/gui/slots/shoes.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 2.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "trinkets:textures/gui/slots/glove_mirrored.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: 3.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["{chapter.8.quest.1.description.1}"]
+			id: "36FB336313E5E377"
+			tasks: [{
+				id: "5AC95B1F43548911"
+				item: "artifacts:umbrella"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.5d
+		}
+		{
+			description: ["{chapter.8.quest.2.description.1}"]
+			id: "78DFD8815E2AE291"
+			tasks: [{
+				id: "3E2B6425881CF371"
+				item: "artifacts:everlasting_beef"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["78DFD8815E2AE291"]
+			description: ["{chapter.8.quest.3.description.1}"]
+			id: "1ADACCB1A8BB9E7E"
+			tasks: [{
+				id: "1E0F0BDFC63184EA"
+				item: "artifacts:eternal_steak"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			description: ["{chapter.8.quest.4.description.1}"]
+			id: "14CB47511F2D0E01"
+			tasks: [{
+				id: "7EB9142E4FE6ADDA"
+				item: "artifacts:plastic_drinking_hat"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			description: ["{chapter.8.quest.5.description.1}"]
+			id: "0E0532BA6E3FFEF9"
+			tasks: [{
+				id: "2317C696DA5FD8A3"
+				item: "artifacts:novelty_drinking_hat"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -4.0d
+		}
+		{
+			description: ["{chapter.8.quest.6.description.1}"]
+			id: "78E34F3F9A19F275"
+			tasks: [{
+				id: "7BE008CE94B2C56D"
+				item: "artifacts:snorkel"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			description: ["{chapter.8.quest.7.description.1}"]
+			id: "419A16655447AA92"
+			tasks: [{
+				id: "1912A0752E6FADBF"
+				item: "artifacts:night_vision_goggles"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.0d
+		}
+		{
+			description: ["{chapter.8.quest.8.description.1}"]
+			id: "016C498DFB704536"
+			tasks: [{
+				id: "12F439628FB7CDCB"
+				item: "artifacts:villager_hat"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			description: ["{chapter.8.quest.9.description.1}"]
+			id: "7F1AB8E8DA7BFD77"
+			tasks: [{
+				id: "0C442789304872B6"
+				item: "artifacts:superstitious_hat"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			description: ["{chapter.8.quest.10.description.1}"]
+			id: "5A2F0B2712D9C667"
+			tasks: [{
+				id: "782DD0DFCE4325EB"
+				item: "artifacts:lucky_scarf"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			description: ["{chapter.8.quest.11.description.1}"]
+			id: "3F0D2D8C1CFD1F2A"
+			tasks: [{
+				id: "5DE8E457A9DCEF7C"
+				item: "artifacts:scarf_of_invisibility"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			description: ["{chapter.8.quest.12.description.1}"]
+			id: "39AD4C222874D63F"
+			tasks: [{
+				id: "502B6242B9078D87"
+				item: "artifacts:cross_necklace"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			description: ["{chapter.8.quest.13.description.1}"]
+			id: "2B619746DAF80A5E"
+			tasks: [{
+				id: "11116ADB3F4FC685"
+				item: "artifacts:panic_necklace"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			description: ["{chapter.8.quest.14.description.1}"]
+			id: "66A8B9C4C4AC291A"
+			tasks: [{
+				id: "70A77066CB447D08"
+				item: "artifacts:shock_pendant"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			description: ["{chapter.8.quest.15.description.1}"]
+			id: "042259C7B1BF773A"
+			tasks: [{
+				id: "5BCCB7CCA6B46C3B"
+				item: "artifacts:flame_pendant"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			description: ["{chapter.8.quest.16.description.1}"]
+			id: "4D38017F83D30E13"
+			tasks: [{
+				id: "74EEC207D510DBA4"
+				item: "artifacts:thorn_pendant"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			description: ["{chapter.8.quest.17.description.1}"]
+			id: "6E98473128936047"
+			tasks: [{
+				id: "7DA4EB63F0107E6C"
+				item: "artifacts:charm_of_sinking"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			description: ["{chapter.8.quest.18.description.1}"]
+			id: "3121D591D3807584"
+			tasks: [{
+				id: "7E7E73C398B3F243"
+				item: "artifacts:cloud_in_a_bottle"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			description: ["{chapter.8.quest.19.description.1}"]
+			id: "60B9F9AD8F49371D"
+			tasks: [{
+				id: "3D559D5149F4FDA0"
+				item: "artifacts:obsidian_skull"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			description: ["{chapter.8.quest.20.description.1}"]
+			id: "05A39ED901BC6569"
+			tasks: [{
+				id: "29DE9C6CED103B59"
+				item: "artifacts:antidote_vessel"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			description: ["{chapter.8.quest.21.description.1}"]
+			id: "10CDACBCA03AEDF7"
+			tasks: [{
+				id: "1FEAD956C8A38974"
+				item: "artifacts:universal_attractor"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			description: ["{chapter.8.quest.22.description.1}"]
+			id: "29491A4A65DEDCDC"
+			tasks: [{
+				id: "324F62127E57BC1A"
+				item: "artifacts:crystal_heart"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			description: ["{chapter.8.quest.23.description.1}"]
+			id: "4CCAD1EBB977DF2E"
+			tasks: [{
+				id: "0AB4D6FE3AB4D9F5"
+				item: "artifacts:helium_flamingo"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			description: ["{chapter.8.quest.24.description.1}"]
+			id: "0424F3DCA7620F49"
+			tasks: [{
+				id: "16E3E1B1926B22B2"
+				item: "artifacts:digging_claws"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			description: ["{chapter.8.quest.25.description.1}"]
+			id: "7940D8A4ECBD6541"
+			tasks: [{
+				id: "3CD6D96568CD66E5"
+				item: "artifacts:feral_claws"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			description: ["{chapter.8.quest.26.description.1}"]
+			id: "72564111D0768098"
+			tasks: [{
+				id: "140CF92060A56D91"
+				item: "artifacts:power_glove"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			description: ["{chapter.8.quest.27.description.1}"]
+			id: "13449219998C54E1"
+			tasks: [{
+				id: "4D955A0AF058959D"
+				item: "artifacts:fire_gauntlet"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			description: ["{chapter.8.quest.28.description.1}"]
+			id: "136F140D9A3ED036"
+			tasks: [{
+				id: "59C81AFB80F49937"
+				item: "artifacts:pocket_piston"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			description: ["{chapter.8.quest.29.description.1}"]
+			id: "51A4E097156A6DC1"
+			tasks: [{
+				id: "18C5FE1CDE31AF99"
+				item: "artifacts:vampiric_glove"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			description: ["{chapter.8.quest.30.description.1}"]
+			id: "4FDAFBD64AA710A1"
+			tasks: [{
+				id: "7301B6DA08D2D14F"
+				item: "artifacts:golden_hook"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			description: ["{chapter.8.quest.31.description.1}"]
+			id: "5ABC7CE1A9B9FB7C"
+			tasks: [{
+				id: "36E5A04FB77769B8"
+				item: "artifacts:aqua_dashers"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			description: ["{chapter.8.quest.32.description.1}"]
+			id: "2ED49410115A9FDC"
+			tasks: [{
+				id: "4518BD43BAE189E6"
+				item: "artifacts:bunny_hoppers"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			description: ["{chapter.8.quest.33.description.1}"]
+			id: "632F1D52317286A8"
+			tasks: [{
+				id: "7A00BCA9914E1A38"
+				item: "artifacts:kitty_slippers"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			description: ["{chapter.8.quest.34.description.1}"]
+			id: "7362AE3D474FF6E1"
+			tasks: [{
+				id: "03DC25753703FF8B"
+				item: "artifacts:running_shoes"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			description: ["{chapter.8.quest.35.description.1}"]
+			id: "17C488042DB187A3"
+			tasks: [{
+				id: "2EA3AE6B42E8DAC4"
+				item: "artifacts:steadfast_spikes"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			description: ["{chapter.8.quest.36.description.1}"]
+			id: "2F8EAC597AB7E760"
+			tasks: [{
+				id: "4BAB959E80D724B1"
+				item: "artifacts:flippers"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			description: ["{chapter.8.quest.37.description.1}"]
+			id: "250E32D632A506B2"
+			tasks: [{
+				id: "04BE5FA924E1D9A9"
+				item: "artifacts:whoopee_cushion"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.0d
+		}
+	]
+	subtitle: ["{chapter.8.subtitle}"]
+	title: "{chapter.8.title}"
+}

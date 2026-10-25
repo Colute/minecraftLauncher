@@ -1,0 +1,112 @@
+[15:13:27] [INIT] KubeJS 1902.6.2-build.73; MC 1902 fabric
+[15:13:27] [INIT] Loaded plugins:
+[15:13:27] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[15:13:27] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricClientPlugin
+[15:13:27] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[15:13:27] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[15:13:27] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[15:13:27] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
+[15:13:27] [INIT] - dev.thestaticvoid.mi_sound_addon.compat.kubejs.MISoundAddonKubeJSPlugin
+[15:13:27] [INIT] - dev.thestaticvoid.capejs.kubejs.CapeJSPlugin
+[15:13:27] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[15:13:27] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[15:13:27] [INFO] Loaded script server_scripts:claim_interact_whitelist.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mi_replicatorblacklist.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/ad_astra.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/ae2.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/anim_guns.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/blockus.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/building_gadgets.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/byg.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/catwalks.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/chimes.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/chisel.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/create/compacting.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/create/crushing.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/create/mixing.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/create/pressing.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/create/splashing.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/create.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/createaddition.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/dankstorage.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/dustrial_decor.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/enhancedworkbenches.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/expandeddelight.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/explorerscompass.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/extended_drawers.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/farmersdelight.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/geocluster.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/giselle_addon.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/inmis.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/ironchests.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/kibe.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/kube.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/lumberaxe.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/moderndynamics.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/alloy_smelter.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/assembler.js in 0.002 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/blast_furnace.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/boss_crusher.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/centrifuge.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/chemical_reactor.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/compressor.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/core_drill.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/cutting_machine.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/distillation_tower.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/distillery.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/drilling_rig.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/electrolyzer.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/forge_hammer.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/fusion_reactor.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/greenhouse.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/heat_exchanger.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/implosion_compressor.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/large_chemical_reactor.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/large_steam_furnace.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/large_steam_macerator.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/laser_engraver.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/macerator.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/mega_smelter.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/mixer.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/mob_crusher.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/packer.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/photosynthetic_chamber.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/pyrolyse_oven.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/quarry.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/rocket_part_assembler.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/singularity_forge.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/space_probe_launcher.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/vacuum_freezer.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization/wiremill.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/modern_industrialization.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/pineapple_delight.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/promenade.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/quarrymod.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/scannable.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/simplemagnets.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/spectrum.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/spellblade.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/spiceoflife.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/staff_of_traveling.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/techreborn.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/tech_enhanced.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/timeinabottle.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/toolleveling.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/twilight_forest.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/vanilla-hammers.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/wands.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/waystones.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/wirelesschargers.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/wizards.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/xps.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:mods/yigd.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:silent_reload.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:starting_items.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:statech.js in 0.001 s
+[15:13:27] [INFO] Loaded script server_scripts:statech_food.js in 0.0 s
+[15:13:27] [INFO] Loaded script server_scripts:vanilla.js in 0.001 s
+[15:13:27] [INFO] Loaded 95/95 KubeJS server scripts in 0.036 s
+[15:13:27] [INFO] Scripts loaded
+[15:13:27] [INFO] Initializing recipe event...
+[15:13:27] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[15:13:27] [WARN] You can still see the full log (including past reloads) in your latest.log file.

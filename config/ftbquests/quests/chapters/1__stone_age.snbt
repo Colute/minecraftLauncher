@@ -1,0 +1,727 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1__stone_age"
+	group: "592A9A0E9A131D28"
+	icon: "minecraft:stone"
+	id: "0D2887F1B436D1D7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["045C683BF6E216CB"]
+			description: ["{chapter.2.quest.1.description.1}"]
+			id: "300516B03C1580A2"
+			shape: "square"
+			subtitle: "{chapter.2.quest.1.subtitle}"
+			tasks: [{
+				count: 16L
+				id: "7CC55C91038E66C3"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:stone_crafting_materials"
+					}
+				}
+				title: "{chapter.2.quest.1.task.1.title}"
+				type: "item"
+			}]
+			title: "{chapter.2.quest.1.title}"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			description: ["{chapter.2.quest.2.description.1}"]
+			id: "045C683BF6E216CB"
+			shape: "square"
+			subtitle: "{chapter.2.quest.2.subtitle}"
+			tasks: [{
+				count: 16L
+				id: "229519744915FFDA"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				title: "{chapter.2.quest.2.task.1.title}"
+				type: "item"
+			}]
+			title: "{chapter.2.quest.2.title}"
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4B07D0F2469CC1A7"]
+			dependency_requirement: "one_completed"
+			description: ["{chapter.2.quest.3.description.1}"]
+			id: "0548E4DEA1B29E91"
+			shape: "square"
+			tasks: [{
+				count: 32L
+				id: "1DFDBFD89EC6C8D3"
+				item: "minecraft:andesite"
+				type: "item"
+			}]
+			title: "{chapter.2.quest.3.title}"
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0548E4DEA1B29E91"]
+			description: ["{chapter.2.quest.4.description.1}"]
+			id: "13D6BD373F034937"
+			shape: "square"
+			tasks: [{
+				count: 8L
+				id: "4278485AD9706147"
+				item: "create:andesite_alloy"
+				type: "item"
+			}]
+			title: "{chapter.2.quest.4.title}"
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6CA102659DCBDB31"]
+			description: ["{chapter.2.quest.5.description.1}"]
+			id: "288AF08BF01DAADF"
+			shape: "square"
+			subtitle: "{chapter.2.quest.5.subtitle}"
+			tasks: [{
+				id: "5C74BD16A7F70B45"
+				item: "create:water_wheel"
+				type: "item"
+			}]
+			title: "{chapter.2.quest.5.title}"
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["288AF08BF01DAADF"]
+			description: ["{chapter.2.quest.6.description.1}"]
+			icon: "create:windmill_bearing"
+			id: "2878CB8F8C4B8B91"
+			shape: "rsquare"
+			subtitle: "{chapter.2.quest.6.subtitle}"
+			tasks: [
+				{
+					id: "65D2FAC25DDF161B"
+					item: "create:windmill_bearing"
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "2D192B219137AE28"
+					item: "create:white_sail"
+					type: "item"
+				}
+			]
+			title: "{chapter.2.quest.6.title}"
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["13D6BD373F034937"]
+			description: ["{chapter.2.quest.7.description.1}"]
+			id: "6CA102659DCBDB31"
+			shape: "square"
+			subtitle: "{chapter.2.quest.7.subtitle}"
+			tasks: [
+				{
+					count: 4L
+					id: "338250AFF61DDAF8"
+					item: "create:cogwheel"
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "46F0471E68486F26"
+					item: "create:large_cogwheel"
+					type: "item"
+				}
+			]
+			title: "{chapter.2.quest.7.title}"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6CA102659DCBDB31"]
+			description: ["{chapter.2.quest.8.description.1}"]
+			icon: "create:rotation_speed_controller"
+			id: "58577BDF79E67EA7"
+			shape: "rsquare"
+			tasks: [{
+				id: "6304982F30415E1A"
+				title: "{chapter.2.quest.8.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.2.quest.8.title}"
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["58577BDF79E67EA7"]
+			description: ["{chapter.2.quest.9.description.1}"]
+			icon: "create:speedometer"
+			id: "58FEBEF013463B80"
+			shape: "rsquare"
+			tasks: [{
+				id: "0FC2EC17F4A216F2"
+				title: "{chapter.2.quest.9.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.2.quest.9.title}"
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["288AF08BF01DAADF"]
+			description: ["{chapter.2.quest.10.description.1}"]
+			id: "654B073CCFC06D24"
+			shape: "rsquare"
+			subtitle: "{chapter.2.quest.10.subtitle}"
+			tasks: [{
+				id: "5BB4A00DD7989348"
+				item: "create:hand_crank"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["31EA279E4F99BE53"]
+			description: ["{chapter.2.quest.11.description.1}"]
+			id: "63276C644789068A"
+			shape: "square"
+			subtitle: "{chapter.2.quest.11.subtitle}"
+			tasks: [{
+				id: "3092F3C88A1F8196"
+				item: "create:mechanical_press"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["63276C644789068A"]
+			description: ["{chapter.2.quest.12.description.1}"]
+			icon: "create:mechanical_mixer"
+			id: "08A908B359D67DA6"
+			rewards: [{
+				id: "48AA04FFEB6069AE"
+				item: "create:blaze_burner"
+				type: "item"
+			}]
+			shape: "square"
+			subtitle: "{chapter.2.quest.12.subtitle}"
+			tasks: [
+				{
+					id: "50EC0E9E209680AD"
+					item: "create:mechanical_mixer"
+					type: "item"
+				}
+				{
+					id: "364CA046142A7A37"
+					item: "create:basin"
+					type: "item"
+				}
+			]
+			title: "{chapter.2.quest.12.title}"
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["08A908B359D67DA6"]
+			description: ["{chapter.2.quest.13.description.1}"]
+			id: "2D6BC53B4C3E06F0"
+			shape: "square"
+			size: 1.5d
+			subtitle: "{chapter.2.quest.13.subtitle}"
+			tasks: [{
+				id: "56D00DC36CAED6E5"
+				item: "modern_industrialization:bronze_ingot"
+				type: "item"
+			}]
+			title: "{chapter.2.quest.13.title}"
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2D6BC53B4C3E06F0"]
+			description: ["{chapter.2.quest.14.description.1}"]
+			id: "59442F8EBE6F9F06"
+			shape: "square"
+			size: 2.0d
+			subtitle: "{chapter.2.quest.14.subtitle}"
+			tasks: [{
+				id: "41F68D0F454BDC60"
+				item: "modern_industrialization:forge_hammer"
+				type: "item"
+			}]
+			title: "{chapter.2.quest.14.title}"
+			x: 14.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["288AF08BF01DAADF"]
+			description: ["{chapter.2.quest.15.description.1}"]
+			id: "31EA279E4F99BE53"
+			shape: "square"
+			tasks: [{
+				id: "01BEB06A15AF17AC"
+				item: "create:andesite_casing"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["045C683BF6E216CB"]
+			description: ["{chapter.2.quest.16.description.1}"]
+			id: "52F75C5E2E606991"
+			shape: "rsquare"
+			tasks: [{
+				id: "425EDF48099F439E"
+				item: "inmis:frayed_backpack"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["045C683BF6E216CB"]
+			description: ["{chapter.2.quest.17.description.1}"]
+			id: "3FD7E4529B0A24EC"
+			shape: "rsquare"
+			tasks: [{
+				id: "3E7C1308D15E5EE1"
+				item: "kibe:pocket_crafting_table"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["300516B03C1580A2"]
+			description: ["{chapter.2.quest.18.description.1}"]
+			id: "25291CED32101F14"
+			shape: "rsquare"
+			tasks: [{
+				id: "6422F0DC64D57FBB"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "kubejs:kibe_spikes"
+					}
+				}
+				title: "{chapter.2.quest.18.task.1.title}"
+				type: "item"
+			}]
+			title: "{chapter.2.quest.18.title}"
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["045C683BF6E216CB"]
+			description: ["{chapter.2.quest.19.description.1}"]
+			id: "553FA47CB9256B2A"
+			shape: "rsquare"
+			tasks: [{
+				id: "670FE6D387A215F2"
+				item: "kibe:wooden_bucket"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["045C683BF6E216CB"]
+			description: ["{chapter.2.quest.20.description.1}"]
+			id: "6B73816AE3918455"
+			shape: "rsquare"
+			tasks: [{
+				id: "31AC1EE1BE10D2CD"
+				item: "kibe:torch_sling"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["300516B03C1580A2"]
+			description: ["{chapter.2.quest.21.description.1}"]
+			id: "5F1AEEB670B6EE12"
+			shape: "rsquare"
+			tasks: [{
+				id: "3F99241ECE62A3E8"
+				item: "kibe:trash_can"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5F1AEEB670B6EE12"]
+			description: ["{chapter.2.quest.22.description.1}"]
+			id: "0AF85D22E0491F02"
+			shape: "rsquare"
+			tasks: [{
+				id: "172F02A7EA7B9FE0"
+				item: "kibe:pocket_trash_can"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["045C683BF6E216CB"]
+			description: ["{chapter.2.quest.23.description.1}"]
+			id: "4EB556BD36F09E16"
+			shape: "rsquare"
+			subtitle: "{chapter.2.quest.23.subtitle}"
+			tasks: [{
+				id: "492A1753E44AAC04"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "extended_drawers:drawers"
+					}
+				}
+				title: "{chapter.2.quest.23.task.1.title}"
+				type: "item"
+			}]
+			title: "{chapter.2.quest.23.title}"
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4F278EA5EC5E59E1"]
+			description: ["{chapter.2.quest.24.description.1}"]
+			id: "313C9B884B08EAF8"
+			shape: "rsquare"
+			subtitle: "{chapter.2.quest.24.subtitle}"
+			tasks: [{
+				id: "72FBBFD17DA765C9"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "extended_drawers:upgrade"
+					}
+				}
+				title: "{chapter.2.quest.24.task.1.title}"
+				type: "item"
+			}]
+			title: "{chapter.2.quest.24.title}"
+			x: -4.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["4F278EA5EC5E59E1"]
+			description: ["{chapter.2.quest.25.description.1}"]
+			id: "2EDE467B8EA737A7"
+			shape: "rsquare"
+			tasks: [{
+				id: "5A245ACCB0C914C6"
+				item: "extended_drawers:connector"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["4EB556BD36F09E16"]
+			description: ["{chapter.2.quest.26.description.1}"]
+			id: "4F278EA5EC5E59E1"
+			shape: "rsquare"
+			tasks: [{
+				id: "0DFA3401B922331A"
+				title: "{chapter.2.quest.26.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.2.quest.26.title}"
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4F278EA5EC5E59E1"]
+			description: ["{chapter.2.quest.27.description.1}"]
+			id: "3604D1BBC61B844D"
+			shape: "rsquare"
+			tasks: [{
+				id: "113EF6D198476847"
+				item: "extended_drawers:access_point"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["4F278EA5EC5E59E1"]
+			description: ["{chapter.2.quest.28.description.1}"]
+			id: "6A807C07969CA906"
+			shape: "rsquare"
+			subtitle: "{chapter.2.quest.28.subtitle}"
+			tasks: [{
+				id: "3C842694F23866AE"
+				item: "minecraft:lava_bucket"
+				type: "item"
+			}]
+			title: "{chapter.2.quest.28.title}"
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["4F278EA5EC5E59E1"]
+			description: ["{chapter.2.quest.29.description.1}"]
+			id: "2CA069F476518EB2"
+			shape: "rsquare"
+			tasks: [{
+				id: "055525E1721A0AA1"
+				item: "minecraft:black_dye"
+				type: "item"
+			}]
+			title: "{chapter.2.quest.29.title}"
+			x: -6.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["045C683BF6E216CB"]
+			description: ["{chapter.2.quest.30.description.1}"]
+			id: "6BBBD642A60FDFB5"
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "71B5C2E2CBC5F162"
+				item: "toms_storage:ts.inventory_connector"
+				type: "item"
+			}]
+			title: "{chapter.2.quest.30.title}"
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6BBBD642A60FDFB5"]
+			description: ["{chapter.2.quest.31.description.1}"]
+			id: "3ED795611B49EB0E"
+			shape: "rsquare"
+			tasks: [{
+				id: "674CFAB6B09EF995"
+				item: "toms_storage:ts.storage_terminal"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3ED795611B49EB0E"]
+			description: ["{chapter.2.quest.32.description.1}"]
+			id: "5E15C005B58CC8D7"
+			shape: "rsquare"
+			tasks: [{
+				id: "4DCC84445F628AE7"
+				item: "toms_storage:ts.crafting_terminal"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6BBBD642A60FDFB5"]
+			description: ["{chapter.2.quest.33.description.1}"]
+			id: "3B4AD85236538A6A"
+			shape: "rsquare"
+			tasks: [{
+				id: "33D57845007A1A31"
+				item: "toms_storage:ts.wireless_terminal"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6BBBD642A60FDFB5"]
+			description: ["{chapter.2.quest.34.description.1}"]
+			id: "202F9363708E9BA5"
+			shape: "rsquare"
+			subtitle: "{chapter.2.quest.34.subtitle}"
+			tasks: [
+				{
+					id: "682E301AF55B916D"
+					item: "toms_storage:ts.inventory_cable"
+					type: "item"
+				}
+				{
+					id: "547BB1BAED3335DE"
+					item: "toms_storage:ts.inventory_cable_connector"
+					type: "item"
+				}
+			]
+			title: "{chapter.2.quest.34.title}"
+			x: -5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3B4AD85236538A6A"]
+			description: ["{chapter.2.quest.35.description.1}"]
+			id: "559DE4D9670C28F8"
+			shape: "rsquare"
+			tasks: [{
+				id: "3953D363A8837FE6"
+				item: "toms_storage:ts.adv_wireless_terminal"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6BBBD642A60FDFB5"]
+			description: ["{chapter.2.quest.36.description.1}"]
+			id: "15266EC696E60BE3"
+			shape: "rsquare"
+			tasks: [{
+				id: "69C633BC22E5E9E5"
+				item: "toms_storage:ts.trim"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["6BBBD642A60FDFB5"]
+			description: ["{chapter.2.quest.37.description.1}"]
+			id: "07F958D1B6C27546"
+			shape: "rsquare"
+			tasks: [{
+				id: "29938D65B3258B57"
+				item: "toms_storage:ts.inventory_hopper_basic"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["6BBBD642A60FDFB5"]
+			description: ["{chapter.2.quest.38.description.1}"]
+			id: "532263D258F71B9A"
+			shape: "rsquare"
+			tasks: [{
+				id: "2D0F6AB857FDC64E"
+				item: "toms_storage:ts.level_emitter"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["300516B03C1580A2"]
+			description: [
+				"{chapter.2.quest.39.description.1}"
+				"{image:statech:textures/item/nickel_ore.png width:125 height:200 align:1}"
+				"{chapter.2.quest.39.description.2}"
+			]
+			icon: {
+				Count: 1b
+				id: "geocluster:prospectors_pick"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4B07D0F2469CC1A7"
+			shape: "square"
+			subtitle: "{chapter.2.quest.39.subtitle}"
+			tasks: [{
+				id: "769292BA522B15FD"
+				title: "{chapter.2.quest.39.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.2.quest.39.title}"
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["63276C644789068A"]
+			description: ["{chapter.2.quest.40.description.1}"]
+			id: "5DE28B092DD37757"
+			tasks: [{
+				id: "3EBD95483EE9E98F"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "kubejs:lumberaxes"
+					}
+				}
+				title: "{chapter.2.quest.40.task.1.title}"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["63276C644789068A"]
+			description: ["{chapter.2.quest.41.description.1}"]
+			id: "5C89097BA2979794"
+			subtitle: "{chapter.2.quest.41.subtitle}"
+			tasks: [{
+				id: "597EA825702B4535"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "kubejs:hammers"
+					}
+				}
+				title: "{chapter.2.quest.41.task.1.title}"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["288AF08BF01DAADF"]
+			description: ["{chapter.2.quest.42.description.1}"]
+			id: "19E20AB1F69E2871"
+			subtitle: "{chapter.2.quest.42.subtitle}"
+			tasks: [{
+				id: "52FFEC979307B9ED"
+				item: "create:large_water_wheel"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["045C683BF6E216CB"]
+			description: ["{chapter.2.quest.43.description.1}"]
+			id: "6E39043C6369B7A3"
+			tasks: [{
+				id: "3FE697DDD2E7FD26"
+				item: "enhancedworkbenches:crafting_station"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["63276C644789068A"]
+			description: ["{chapter.2.quest.44.description.1}"]
+			id: "0B97D95040E7FAE1"
+			subtitle: "{chapter.2.quest.44.subtitle}"
+			tasks: [{
+				id: "2D4CE128E28953B4"
+				item: "enhancedworkbenches:project_table"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -1.5d
+		}
+	]
+	subtitle: ["{chapter.2.subtitle}"]
+	title: "{chapter.2.title}"
+}

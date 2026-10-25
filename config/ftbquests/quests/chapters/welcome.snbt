@@ -1,0 +1,267 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	icon: "minecraft:diamond"
+	id: "3EFF979EDF05961B"
+	images: [
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "statech:textures/item/mm_logo.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			click: "https://discord.gg/RDaJEnN3uS"
+			corner: false
+			dev: false
+			height: 1.5d
+			hover: ["{chapter.1.image.2}"]
+			image: "statech:textures/item/discordlogo.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.0d
+			y: 4.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["{chapter.1.quest.1.description.1}"]
+			icon: "kubejs:statech_logo"
+			id: "2174585D87F83C89"
+			shape: "square"
+			size: 2.0d
+			tasks: [{
+				id: "3ABF0361BC517181"
+				title: "{chapter.1.quest.1.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.1.quest.1.title}"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2174585D87F83C89"]
+			description: ["{chapter.1.quest.2.description.1}"]
+			icon: "minecraft:writable_book"
+			id: "0563A16875FB0D51"
+			shape: "rsquare"
+			tasks: [{
+				id: "0BD438227CEDDA08"
+				title: "{chapter.1.quest.2.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.1.quest.2.title}"
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2174585D87F83C89"]
+			description: ["{chapter.1.quest.3.description.1}"]
+			icon: "farmersdelight:hamburger"
+			id: "42DBEFEFCE44F5BB"
+			shape: "rsquare"
+			tasks: [{
+				id: "6467AAF803854F25"
+				title: "{chapter.1.quest.3.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.1.quest.3.title}"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2174585D87F83C89"]
+			description: ["{chapter.1.quest.4.description.1}"]
+			icon: "modern_industrialization:gold_gear"
+			id: "44CD2B9B89F9183C"
+			shape: "rsquare"
+			tasks: [{
+				id: "205CF878A2DFA3D1"
+				title: "{chapter.1.quest.4.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.1.quest.4.title}"
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2174585D87F83C89"]
+			description: ["{chapter.1.quest.5.description.1}"]
+			icon: "minecraft:redstone_torch"
+			id: "2A1B2E53413418E1"
+			shape: "rsquare"
+			tasks: [{
+				id: "37CF0AB273567327"
+				title: "{chapter.1.quest.5.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.1.quest.5.title}"
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2174585D87F83C89"]
+			description: ["{chapter.1.quest.6.description.1}"]
+			icon: {
+				Count: 1b
+				id: "simplyswords:shadowsting"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "1709043780838C78"
+			shape: "rsquare"
+			subtitle: "{chapter.1.quest.6.subtitle}"
+			tasks: [{
+				id: "094A44397AB8351C"
+				title: "{chapter.1.quest.6.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.1.quest.6.title}"
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2174585D87F83C89"]
+			description: ["{chapter.1.quest.7.description.1}"]
+			icon: "byg:byg_logo"
+			id: "571425ED36DA521C"
+			shape: "rsquare"
+			tasks: [{
+				id: "6A3D3DA3D5DA4D06"
+				title: "{chapter.1.quest.7.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.1.quest.7.title}"
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2174585D87F83C89"]
+			description: ["{chapter.1.quest.8.description.1}"]
+			icon: "create:goggles"
+			id: "6C661605F1DBEE4D"
+			shape: "rsquare"
+			tasks: [{
+				id: "70B13DBDC276B4EA"
+				title: "{chapter.1.quest.8.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.1.quest.8.title}"
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2174585D87F83C89"]
+			description: ["{chapter.1.quest.9.description.1}"]
+			icon: "ftbquests:book"
+			id: "0480052F3F1EDAFC"
+			shape: "rsquare"
+			tasks: [{
+				id: "030C38099F469C1F"
+				title: "{chapter.1.quest.9.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.1.quest.9.title}"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2174585D87F83C89"]
+			description: ["{chapter.1.quest.10.description.1}"]
+			icon: "xps:inspector"
+			id: "285D484647B28F7C"
+			tasks: [{
+				id: "569515177B4B1050"
+				title: "{chapter.1.quest.10.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.1.quest.10.title}"
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2174585D87F83C89"]
+			description: ["{chapter.1.quest.11.description.1}"]
+			icon: "minecraft:filled_map"
+			id: "30B0EA852EC4F5A3"
+			tasks: [{
+				id: "005451BD8D8A7C98"
+				title: "{chapter.1.quest.11.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.1.quest.11.title}"
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2174585D87F83C89"]
+			description: ["{chapter.1.quest.12.description.1}"]
+			icon: "minecraft:chest"
+			id: "6496D9E1ADE4B4DD"
+			subtitle: "{chapter.1.quest.12.subtitle}"
+			tasks: [{
+				id: "6AB3267CA3F32DA3"
+				title: "{chapter.1.quest.12.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.1.quest.12.title}"
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2174585D87F83C89"]
+			description: ["{chapter.1.quest.14.description.1}"]
+			icon: "minecraft:spyglass"
+			id: "3D5C1FD71120C918"
+			subtitle: "{chapter.1.quest.14.subtitle}"
+			tasks: [{
+				id: "70399A65136F784E"
+				title: "{chapter.1.quest.14.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.1.quest.14.title}"
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2174585D87F83C89"]
+			description: ["{chapter.1.quest.15.description.1}"]
+			icon: "kubejs:voice_chat"
+			id: "1F6617D47FD87D58"
+			tasks: [{
+				id: "6FC30288BFE41B73"
+				title: "{chapter.1.quest.15.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.1.quest.15.title}"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2174585D87F83C89"]
+			description: ["{chapter.1.quest.17.description.1}"]
+			icon: "minecraft:iron_ore"
+			id: "390A2E3905298F9A"
+			tasks: [{
+				id: "46DE763A26A3430F"
+				title: "{chapter.1.quest.17.task.1.title}"
+				type: "checkmark"
+			}]
+			title: "{chapter.1.quest.17.title}"
+			x: 2.5d
+			y: -1.5d
+		}
+	]
+	title: "{chapter.1.title}"
+}
