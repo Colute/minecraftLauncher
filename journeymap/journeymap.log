@@ -48,3 +48,17 @@ NOW: Ad Astra:1.12.7, Ad Astra: Giselle Addon:1.24, Adaptive Tooltips:1.0.1, Add
 [15:23:52] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\Colute\curseforge\minecraft\Instances\StaTech Industry\journeymap\data\mp\~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48\overworld. Memory: 4096MB total, 808MB free 
 [15:23:53] [Render thread/WARN] [JMLogger] Can't get entityTexture for naturalist:textures/entity_icon/boar.png
 [15:23:53] [Render thread/WARN] [JMLogger] Can't get entityTexture for naturalist:textures/entity_icon/rhino.png
+[16:04:09] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Colute\curseforge\minecraft\Instances\StaTech Industry\journeymap\data\mp\~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48\minecraft:overworld
+[16:04:12] [Render thread/INFO] [MappingMonitorTask] World ID has been reset.
+[16:04:12] [Render thread/INFO] [JourneymapClient] World UID is set to: null
+[16:04:16] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:04:16] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\Colute\curseforge\minecraft\Instances\StaTech Industry\journeymap\data\mp\~Minecraft\waypoints
+[16:04:16] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\Colute\curseforge\minecraft\Instances\StaTech Industry\journeymap\data\mp\~Minecraft\overworld. Memory: 4096MB total, 1493MB free 
+[16:04:17] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Colute\curseforge\minecraft\Instances\StaTech Industry\journeymap\data\mp\~Minecraft\minecraft:overworld
+[16:04:17] [Render thread/INFO] [JourneymapClient] World UID is set to: 8407cce7-abf8-4f70-a451-e21bac4a7c48
+[16:04:18] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[16:04:18] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\Colute\curseforge\minecraft\Instances\StaTech Industry\journeymap\data\mp\~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48\waypoints
+[16:04:18] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\Colute\curseforge\minecraft\Instances\StaTech Industry\journeymap\data\mp\~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48\overworld. Memory: 4096MB total, 519MB free 
+[16:06:49] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Colute\curseforge\minecraft\Instances\StaTech Industry\journeymap\data\mp\~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48\minecraft:overworld
+[16:06:49] [Render thread/INFO] [MappingMonitorTask] World ID has been reset.
+[16:06:49] [Render thread/INFO] [JourneymapClient] World UID is set to: null

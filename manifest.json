@@ -2088,7 +2088,7 @@
                   },
                   {
                       "path":  "journeymap/journeymap.log",
-                      "hash":  "6bc87b524c2af1c35209089d79f13c7e9e14340e42939d5f67914b745c8a5504",
+                      "hash":  "c36c6d2a352be1e95bf0a07a6331136090651f96e9ee12a0ca42ce8bd62a12f7",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/journeymap.log"
                   },
                   {
@@ -2103,7 +2103,7 @@
                   },
                   {
                       "path":  "journeymap/config/5.9/journeymap.minimap.config",
-                      "hash":  "d18a5b847d5c4a37c4ff58866618594c2714e21893f87e8d88434537828c09fe",
+                      "hash":  "dfd39d9ad59372d77e97c277c2d33ba48f2eec277e857d810e6dabe1694a7bd4",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/config/5.9/journeymap.minimap.config"
                   },
                   {
@@ -2563,12 +2563,12 @@
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/biome/-2,-2.png",
-                      "hash":  "eb0a781f4774c54ce346e56d87fccbb4b6169456afcf9cfd1a42869bb5be6d7a",
+                      "hash":  "f9f1445267c6abc2ba313c204d897b833816187fea5beaa57bbf416d4054e5ed",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/biome/-2,-2.png"
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/biome/-2,-3.png",
-                      "hash":  "080b447c012a256cc62ffa9f8c64e269c242e38323875807778fe2582abeb992",
+                      "hash":  "be070c5c8ed4fc97adf31ee01b668d0535fb18b22622115e18d4c03c43c6824c",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/biome/-2,-3.png"
                   },
                   {
@@ -2648,12 +2648,12 @@
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/cache/r.-2.-2.mca",
-                      "hash":  "8c3eeb8cf2fd9adbfa544de1f6589f252ba8fc79ca5eb385da49b2a4db52e85b",
+                      "hash":  "5a21759fcdc28abbe98d89fa53571022a0b4afc6c774e6e80b62f3864d9d1ed4",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/cache/r.-2.-2.mca"
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/cache/r.-2.-3.mca",
-                      "hash":  "980e6a6689698dcedc98952e00ac30bdc3e84a2ae6a8bffc34ea6873b0c17d1e",
+                      "hash":  "5c9d13bbf503c28d85d24e553513c7edea8224b80f0aeb327ee237c35a4b7857",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/cache/r.-2.-3.mca"
                   },
                   {
@@ -2663,12 +2663,12 @@
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/cache/r.-3.-2.mca",
-                      "hash":  "8283c9a50644eefcb9595c32930d1e4b2b7bf84b1a8a63974f4d2411c7c85516",
+                      "hash":  "3cc9f309f58322ab5d222bec2f4adc3945f49e227ddac205acf7e3901d3482e4",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/cache/r.-3.-2.mca"
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/cache/r.-3.-3.mca",
-                      "hash":  "f99773a034ddad7dc3983674aa14427d4fd9d2e5e5d8b38283e7bc2f2231f648",
+                      "hash":  "59463e8dbb9c253b138d5440f42c58dce487f3b05d85e141abaca56ef4f56456",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/cache/r.-3.-3.mca"
                   },
                   {
@@ -2733,12 +2733,12 @@
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/day/-2,-2.png",
-                      "hash":  "a605477e806825d5a3d44e7e5b0a4ff6748231799be5f28cd26a3a314f3235d3",
+                      "hash":  "42e7d6a0475427e5658199d9333c8077bca341d7bb0ebf14e14eb6b4c1c3e9d5",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/day/-2,-2.png"
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/day/-2,-3.png",
-                      "hash":  "a5bb20af650ae966d61bb1c80674b66d19edc3054b3790901b13dbd6599581fe",
+                      "hash":  "00c53042a123545bded4042ae35ae06fc3b0a28b29ead002cd50768e387bab6e",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/day/-2,-3.png"
                   },
                   {
@@ -2748,12 +2748,12 @@
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/day/-3,-2.png",
-                      "hash":  "fb905ae0c4b2a4c8a3b1e6510ef61a0ef602f21820713a4732696285e21ca628",
+                      "hash":  "880bbb1bdf4f9d7cf066d18b349183b80d5593fa6bea3f74ea788ce0db92ccdd",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/day/-3,-2.png"
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/day/-3,-3.png",
-                      "hash":  "ef1a4ca13428cff0e45222cfc4ac1f576fabf18fee38177f438140801bde2c01",
+                      "hash":  "2814377d821a841d837fa8050b23ac8f53a6fcef6dc2282d9d9327e8bd394b8d",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/day/-3,-3.png"
                   },
                   {
@@ -2818,12 +2818,12 @@
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/night/-2,-2.png",
-                      "hash":  "5d45a68ea9d03effe71430654625c4d835bb6f70323e00eb1ed7c5597a64e029",
+                      "hash":  "dda6d4ebe10d998039e3db49e86ba2b324d2f1d4dcd6574f05b62c2e816e81e4",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/night/-2,-2.png"
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/night/-2,-3.png",
-                      "hash":  "772001e89ae1beea915dce23f84ec952d654b8ebb24fdc47486baa24e12490b1",
+                      "hash":  "85580e3f4365d217ad5c810b8d3a38c7e31f6011c490a1aa5cf82cd81a8436b0",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/night/-2,-3.png"
                   },
                   {
@@ -2833,12 +2833,12 @@
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/night/-3,-2.png",
-                      "hash":  "32eceed60e69106840a5c8dd53cbc07e4cd6396a551eacaf36d69d176cdb1341",
+                      "hash":  "31ba5fbd4f420cf5c353c79dfe24d8eb680001f544cca22c314221cb8a44315d",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/night/-3,-2.png"
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/night/-3,-3.png",
-                      "hash":  "68b7375fbdd6920fd7355544a3b93ec5ae26708e45d3bf9fae09a236ca694ff2",
+                      "hash":  "66df91ba045481fbc07929af18357f442da1161a36ad982c2f9fb14459b56321",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/night/-3,-3.png"
                   },
                   {
@@ -2903,12 +2903,12 @@
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/topo/-2,-2.png",
-                      "hash":  "2e3dabf7d9dca666e8696b3b56dc29bb6d4d52274302fc2301c67d81dde82c5e",
+                      "hash":  "69a8a991f3d8f6066da38be71f91cd0b5e2147ab17e8a5c8ea01439d830339de",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/topo/-2,-2.png"
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/topo/-2,-3.png",
-                      "hash":  "ffa60cc8ab59ecfce2f98391a2f505b1d3fd1e6fe1d81093dd1ac495a967ff17",
+                      "hash":  "0915273062e524107fead69742daee63a9e71588b1ed5307561dae373f3c1ec1",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/topo/-2,-3.png"
                   },
                   {
@@ -2923,7 +2923,7 @@
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/topo/-3,-3.png",
-                      "hash":  "581da89dc9114e1a8762108c5719039601222d9f7288eaa373545b80b5206cd4",
+                      "hash":  "71471f593601dc5ed55ed711ea6b115e59e87b7916bf657816978f6647305801",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/topo/-3,-3.png"
                   },
                   {
@@ -2988,12 +2988,12 @@
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/topo/cache/r.-2.-2.mca",
-                      "hash":  "964ad7c5af6da2d3c32c4eb51c658bdca6995533b85481c051a9b9ed83c87336",
+                      "hash":  "14f84e44a57b5016d5585043a5aa16f609d2b02d101a8a3cf20078ce87cac4f4",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/topo/cache/r.-2.-2.mca"
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/topo/cache/r.-2.-3.mca",
-                      "hash":  "1ae1a71f088235769274d27501da85a229b1bcb9ff90afabe62f7fc8a7d0b540",
+                      "hash":  "6333e2baf349dd62b7cc3e8f30c87e9157dcbee8c8842f20dfb26e9437333569",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/topo/cache/r.-2.-3.mca"
                   },
                   {
@@ -3003,12 +3003,12 @@
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/topo/cache/r.-3.-2.mca",
-                      "hash":  "cad2dab54e82f9b5b4d1f1d078de534e842a64332363a04e41bbd3ea375cd80e",
+                      "hash":  "9d236570d50e55d62997f48c0a02bf7574151e5e6b9fc87afe7b50d06d1f868f",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/topo/cache/r.-3.-2.mca"
                   },
                   {
                       "path":  "journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/topo/cache/r.-3.-3.mca",
-                      "hash":  "b11bb797076e93739366e2cea34121448c9ac64a49ca64b1400573fddc60320e",
+                      "hash":  "bd7e6299c6cbe3069f5cb90e222a3f1dcbc45e6dcbd7413c62f11fbff327323f",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/journeymap/data/mp/~Minecraft_8407cce7~abf8~4f70~a451~e21bac4a7c48/overworld/topo/cache/r.-3.-3.mca"
                   },
                   {
@@ -8773,12 +8773,12 @@
                   },
                   {
                       "path":  "local/ftbchunks/data/d2f9ca42-804d-4130-a266-6764525ff3e7/minecraft_overworld/0EA5D-0EA5D.zip",
-                      "hash":  "caf2b4a90cafa66cde210a7835932b8ca300783421af37739ac94079b9495855",
+                      "hash":  "3985c114e5b5b8d0b5a5fba06fae1669b7fab143eb63cbd2829f68c9c4d695a1",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/local/ftbchunks/data/d2f9ca42-804d-4130-a266-6764525ff3e7/minecraft_overworld/0EA5D-0EA5D.zip"
                   },
                   {
                       "path":  "local/ftbchunks/data/d2f9ca42-804d-4130-a266-6764525ff3e7/minecraft_overworld/0EA5D-0EA5E.zip",
-                      "hash":  "e4ad6fc87afc05c0f72f408fcb11544b04cbd6158f006424eabf47ef645eed16",
+                      "hash":  "079d38799e245a178e9412c5f5125956d451c7d812184b96c229e587ae427463",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/local/ftbchunks/data/d2f9ca42-804d-4130-a266-6764525ff3e7/minecraft_overworld/0EA5D-0EA5E.zip"
                   },
                   {
@@ -8788,12 +8788,12 @@
                   },
                   {
                       "path":  "local/ftbchunks/data/d2f9ca42-804d-4130-a266-6764525ff3e7/minecraft_overworld/0EA5E-0EA5D.zip",
-                      "hash":  "1dfe4f811e290a05ae6e0f95cb2dac9e56b98ed621d1001fcf972e61c7fbeb4c",
+                      "hash":  "262a30d630175e8f185786a618365f24f2446eb1f2a08046622c5b603249846d",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/local/ftbchunks/data/d2f9ca42-804d-4130-a266-6764525ff3e7/minecraft_overworld/0EA5E-0EA5D.zip"
                   },
                   {
                       "path":  "local/ftbchunks/data/d2f9ca42-804d-4130-a266-6764525ff3e7/minecraft_overworld/0EA5E-0EA5E.zip",
-                      "hash":  "97ee3eb58d65fb40fcdd3e3f4ce0bacbbf63ace630c4a7d52280e94180796ef8",
+                      "hash":  "6e80822243257d7866f51e06383b26da8cb928eba6a9bedafd2c70053493b492",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/local/ftbchunks/data/d2f9ca42-804d-4130-a266-6764525ff3e7/minecraft_overworld/0EA5E-0EA5E.zip"
                   },
                   {
@@ -9045,6 +9045,11 @@
                       "path":  "mods/AttributeFix-Fabric-1.19.2-17.2.8.jar",
                       "hash":  "58b7075c0361505bbaf4e8d154144d76a6fdc29f26814f916636766bb4f50781",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/AttributeFix-Fabric-1.19.2-17.2.8.jar"
+                  },
+                  {
+                      "path":  "mods/authme-mc1.19.2-4.2.0.jar",
+                      "hash":  "40f7fb4f78c3188aa36dcccfb0895f0463e239343e73ffe6b6eb844d4882df00",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/authme-mc1.19.2-4.2.0.jar"
                   },
                   {
                       "path":  "mods/autoconfig1u-3.4.0.jar",
