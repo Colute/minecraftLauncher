@@ -1658,13 +1658,18 @@
                   },
                   {
                       "path":  "config/patpat/patpat-client-stats.json5",
-                      "hash":  "1cdf312a0e0292916367d94d09846dc892f49d45da319941da5b1558a0c9401d",
+                      "hash":  "6438f8f46dd3afdea6ec3a8baf06ac7cc1489343241b4924e9cab1a435801325",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/patpat/patpat-client-stats.json5"
                   },
                   {
                       "path":  "config/patpat/patpat-client.json5",
                       "hash":  "0dcd5930de0bd181400fdb04f2439e3de24ffb7c958aa638d5faa75aa5828f12",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/patpat/patpat-client.json5"
+                  },
+                  {
+                      "path":  "config/patpat/patpat-debug.json5",
+                      "hash":  "303c2a498334948e91c8c865c9d4dcc41ed36da9a966aa6d889fc226ae374cd0",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/patpat/patpat-debug.json5"
                   },
                   {
                       "path":  "config/patpat/patpat.json5",
@@ -1748,12 +1753,12 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin.properties",
-                      "hash":  "8a556ffa1e920a7697cb12ad3574bcca3c3aa2493a260ef6730f486f4a6c0966",
+                      "hash":  "6157e9c580ff8a4eefc84f4ace84d80e29ca7795f3b0bc2d9e318902ff79e74c",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/roughlyenoughitems/pinyin.properties"
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin_double.properties",
-                      "hash":  "5f85e7b0d1804758098aa44e4fbcb2d95cee5e5c8fb21594c3119bdf7f7fa02e",
+                      "hash":  "b4ba89365ea0cc81cd8a474bf7489b14449de19287097a3bcf95aed0e46d692f",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/roughlyenoughitems/pinyin_double.properties"
                   },
                   {
@@ -1918,7 +1923,7 @@
                   },
                   {
                       "path":  "config/voicechat/username-cache.json",
-                      "hash":  "2c9cdfc2e09b09fdce3d0d87f686b007d2f6e100610759a09619db06615a8558",
+                      "hash":  "4cce17bfe2fb1a1caedbfa8d282e74679f2c5857e3ed9cb181088a7d0949ee3a",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/voicechat/username-cache.json"
                   },
                   {
@@ -9040,11 +9045,6 @@
                       "path":  "mods/AttributeFix-Fabric-1.19.2-17.2.8.jar",
                       "hash":  "58b7075c0361505bbaf4e8d154144d76a6fdc29f26814f916636766bb4f50781",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/AttributeFix-Fabric-1.19.2-17.2.8.jar"
-                  },
-                  {
-                      "path":  "mods/authme-mc1.19.2-4.2.0.jar",
-                      "hash":  "40f7fb4f78c3188aa36dcccfb0895f0463e239343e73ffe6b6eb844d4882df00",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/authme-mc1.19.2-4.2.0.jar"
                   },
                   {
                       "path":  "mods/autoconfig1u-3.4.0.jar",
