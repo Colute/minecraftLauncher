@@ -1,16 +1,19 @@
 {
   "totalPatsCounter": {
-    "pats": 257
+    "pats": 1738
   },
   "entities": {
     "naturalist:robin": {
       "pats": 1
     },
-    "minecraft:trader_llama": {
-      "pats": 6
+    "goblintraders:vein_goblin_trader": {
+      "pats": 5
     },
-    "minecraft:cow": {
-      "pats": 62
+    "minecraft:player": {
+      "pats": 1397
+    },
+    "naturalist:canary": {
+      "pats": 2
     },
     "minecraft:pig": {
       "pats": 68
@@ -20,6 +23,24 @@
     },
     "naturalist:snail": {
       "pats": 10
+    },
+    "minecraft:trader_llama": {
+      "pats": 6
+    },
+    "naturalist:firefly": {
+      "pats": 6
+    },
+    "minecraft:villager": {
+      "pats": 1
+    },
+    "minecraft:cow": {
+      "pats": 62
+    },
+    "minecraft:wolf": {
+      "pats": 59
+    },
+    "dummmmmmy:target_dummy": {
+      "pats": 4
     }
   }
 }

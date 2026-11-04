@@ -75,6 +75,27 @@ mode = "fancy"
 				turtle = true
 				wandering_trader = true
 				trader_llama = true
+				vindicator = true
+				potion = true
+				panda = true
+				frog = true
+				zombified_piglin = true
+				magma_cube = true
+				strider = true
+				piglin = true
+				hoglin = true
+				ghast = true
+				fireball = true
+				blaze = true
+				piglin_brute = true
+				silverfish = true
+				egg = true
+				stray = true
+				furnace_minecart = true
+				skeleton_horse = true
+				ender_pearl = true
+				boat = true
+				snowball = true
 
 			[light_sources.settings.entities.naturalist]
 				snake = true
@@ -101,13 +122,19 @@ mode = "fancy"
 				elephant = true
 				rhino = true
 				canary = true
+				alligator = true
+				catfish = true
+				dragonfly = true
+				duck_egg = true
 
 			[light_sources.settings.entities.ecologics]
 				squirrel = true
 				penguin = true
+				coconut_crab = true
 
 			[light_sources.settings.entities.goblintraders]
 				goblin_trader = true
+				vein_goblin_trader = true
 
 			[light_sources.settings.entities.spectrum]
 				shooting_star = true
@@ -124,6 +151,9 @@ mode = "fancy"
 			[light_sources.settings.entities.rottencreatures]
 				undead_miner = true
 				mummy = true
+				burned = true
+				scarab = true
+				immortal = true
 
 			[light_sources.settings.entities.lootr]
 				lootr_minecart = true
@@ -136,4 +166,33 @@ mode = "fancy"
 
 			[light_sources.settings.entities.spell_engine]
 				spell_projectile = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
+				contraption = true
+				super_glue = true
+
+			[light_sources.settings.entities.hookshot]
+				hookshot = true
+
+			[light_sources.settings.entities.spellbladenext]
+				reaver = true
+				hexbladeportal = true
+
+			[light_sources.settings.entities.farmingforblockheads]
+				merchant = true
+
+			[light_sources.settings.entities.twilightforest]
+				dwarf_rabbit = true
+				deer = true
+				skeleton_druid = true
+				kobold = true
+				bighorn_sheep = true
+				mosquito_swarm = true
+				boar = true
+				raven = true
+				tiny_bird = true
+				squirrel = true
+				naga = true
+				redcap = true
 

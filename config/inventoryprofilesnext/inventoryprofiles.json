@@ -14,9 +14,6 @@
     "LockedSlotsSettings": {
         "lock_slots_disable_user_interaction": {
             "value": true
-        },
-        "locked_slots_empty_hotbar_as_semi_locked": {
-            "value": false
         }
     },
     "AutoRefillSettings": {
