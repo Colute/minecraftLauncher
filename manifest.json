@@ -2,6 +2,11 @@
     "version":  "fabric-loader-0.18.4-1.19.2",
     "files":  [
                   {
+                      "path":  ".gitattributes",
+                      "hash":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/.gitattributes"
+                  },
+                  {
                       "path":  "config/adaptive-tooltips.json",
                       "hash":  "c7201bc48409d611ff9608a4932f46ceef3ec1f2cf1c2437d76520ece00f16df",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/adaptive-tooltips.json"
@@ -28,7 +33,7 @@
                   },
                   {
                       "path":  "config/asynclocator.properties",
-                      "hash":  "033b7e7c6f52be8317a31d9608c4e48492abea06346580a5395887cd68a66458",
+                      "hash":  "9e16006611cddf5fd3d28151fab7ba1237fb85b5ecb58ec627ab42f108716fa3",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/asynclocator.properties"
                   },
                   {
@@ -43,7 +48,7 @@
                   },
                   {
                       "path":  "config/awesomedungeon_1.properties",
-                      "hash":  "8a864921edfd48f89fee83e7a31b946b98172fec807c17e8f49d3321d37c6a71",
+                      "hash":  "72f676588ca97b9626fc9115eef254218b216863cd00518b470826814641d235",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/awesomedungeon_1.properties"
                   },
                   {
@@ -163,7 +168,7 @@
                   },
                   {
                       "path":  "config/configured.client.toml",
-                      "hash":  "e183baedd757259838b3f649be062d05638060f27d329f890626158eff4ed067",
+                      "hash":  "f76371ac7531b393c0070fe5a1efe4230317499491224c11b1a8955d8362ec8d",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/configured.client.toml"
                   },
                   {
@@ -248,7 +253,7 @@
                   },
                   {
                       "path":  "config/easymagic-server.toml",
-                      "hash":  "d449eee7c741312f01089d7673a1286e8dd7f1615c8ec69506103c5656c6e573",
+                      "hash":  "373747f0bfd20a6d5437e46b8cd794fde492c8e2fa67b1a8d74afe8fb31f8827",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/easymagic-server.toml"
                   },
                   {
@@ -273,7 +278,7 @@
                   },
                   {
                       "path":  "config/enhanced_bes.properties",
-                      "hash":  "99e1317d9a8071a2f6499faddd906792ceeefc41a94379396c92d5887ea81971",
+                      "hash":  "db7319fd0d94efe143184c71d148ae49571fb6a774150b79eec1f28ed1ab7ad9",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/enhanced_bes.properties"
                   },
                   {
@@ -348,12 +353,12 @@
                   },
                   {
                       "path":  "config/geodes.properties",
-                      "hash":  "920ba5bb1716108870ce9949a867e8bddc438ab46cc1b081751af4aec08ac2d7",
+                      "hash":  "385da891c774c5334e68a32f54412047878ac71e36eec44e482de225ad5e67a4",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/geodes.properties"
                   },
                   {
                       "path":  "config/goblintraders.entities.toml",
-                      "hash":  "fbe72d0801bc963b733c8e70d9ad29f81f56095087cb928232a40e6d39e0b015",
+                      "hash":  "26777025567c4393614672a37b400ec60fa39f6c21e306948d5a1cc82a1852cc",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/goblintraders.entities.toml"
                   },
                   {
@@ -388,7 +393,7 @@
                   },
                   {
                       "path":  "config/indium-renderer.properties",
-                      "hash":  "c62abc1247d0fde9e1db207f461063e171b2cfc032fb7a625c38bb3a84a541cf",
+                      "hash":  "4a38a5b36457a5a0bd15c89c7c3783e93af314395f282f6517f0832fdd01c155",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/indium-renderer.properties"
                   },
                   {
@@ -403,7 +408,7 @@
                   },
                   {
                       "path":  "config/iris.properties",
-                      "hash":  "ca5b4aabcdb8fade27453d7deb9afe2c82094195bbce742593b6989c6238eff2",
+                      "hash":  "c526a29a0b55ede62bafb5500d4d0c48704aa33a9bc3bf43a5311479b38792ba",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/iris.properties"
                   },
                   {
@@ -423,7 +428,7 @@
                   },
                   {
                       "path":  "config/kibe.json",
-                      "hash":  "1871f8cc80e84c4108293a33f9110fc0e35dee5ebdce552db6009bffaf516ff6",
+                      "hash":  "9b26591160272a48d3043584ce130fa993ca69b72927d180b6277a732c954866",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/kibe.json"
                   },
                   {
@@ -433,22 +438,22 @@
                   },
                   {
                       "path":  "config/lambdynlights.toml",
-                      "hash":  "d472a2d1d735c6759775bd285d8620fc4e2830528266f7791acb972d9faddf7d",
+                      "hash":  "a59943229f23fd65bfa3e729c89f9d77c9e3d3e192638a04625c58f65801fa68",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/lambdynlights.toml"
                   },
                   {
                       "path":  "config/leavesbegone-server.toml",
-                      "hash":  "d959f115d82689b7f6075b0af48e8be95a09b3f73b6a67319646aa4bfdc0b101",
+                      "hash":  "5461ea48b86cd51ac9a218ac6a7ecc32cf4c4fb0acc70c68de4329766027ca15",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/leavesbegone-server.toml"
                   },
                   {
                       "path":  "config/legendarytooltips-common.toml",
-                      "hash":  "b99c3dfc21b0f47a13c94b56adffc29608a8e83578fc4869c3a6f4ae7bd65ccd",
+                      "hash":  "b9f2da68dd0892ed44fe637841a242b5b49e9b828ecad5b4214059c4c9473800",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/legendarytooltips-common.toml"
                   },
                   {
                       "path":  "config/libraryferret_1.properties",
-                      "hash":  "77610b53c6589f3188da55d980d2ead883c21f071951c5bdbfebcef593863c5b",
+                      "hash":  "80ad1ad58a5a7fe40af204f0898b5618688b610ba2df1f4c06e28f63c01ab8fd",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/libraryferret_1.properties"
                   },
                   {
@@ -533,7 +538,7 @@
                   },
                   {
                       "path":  "config/pal.properties",
-                      "hash":  "2c00fe80cadf6aadecd1edf6a297b7368952e2546049d12fd4ffc189f5b65ffa",
+                      "hash":  "cbb95b235ad2ea2d843ef0408c1d8d09585b5c9ef3be730da219fc1a58bf4436",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/pal.properties"
                   },
                   {
@@ -608,7 +613,7 @@
                   },
                   {
                       "path":  "config/rrp.properties",
-                      "hash":  "0e66c2da393304af3e9b7df26cd4b18b82f633ad80c3b214b2d2aab0dc2edc34",
+                      "hash":  "62fac4ebbcec494cb088b724117eff34fe8172c8ff5a2e295bd4d20da047daa0",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/rrp.properties"
                   },
                   {
@@ -738,7 +743,7 @@
                   },
                   {
                       "path":  "config/turtlematic-common-1.toml.bak",
-                      "hash":  "435160e323114ab7ca5638d4f3ab092f107d64baf93ff1b7e111efeb743652a3",
+                      "hash":  "3c818c6b515c1af35980c82828128f4f111f9f6699b01ef7d8e771d56f082b7f",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/turtlematic-common-1.toml.bak"
                   },
                   {
@@ -758,7 +763,7 @@
                   },
                   {
                       "path":  "config/universalbonemeal-server.toml",
-                      "hash":  "368d345e0cb018e156e2616d59e2593f4494c401bd5b027fa013aafacfd3815e",
+                      "hash":  "1d46aee7500a71433fb621373f3949bc6a9bb24b0f17baf33175f036b642a3f3",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/universalbonemeal-server.toml"
                   },
                   {
@@ -783,7 +788,7 @@
                   },
                   {
                       "path":  "config/vmp.properties",
-                      "hash":  "922168b445271faf95f9834195182368788c8817553159a499aa2584b18c5036",
+                      "hash":  "5fb8c7a38708d835526e966db335591a960d5594047e3ebbfbf2fe87f941317c",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/vmp.properties"
                   },
                   {
@@ -1148,12 +1153,12 @@
                   },
                   {
                       "path":  "config/defaultoptions/keybindings.txt",
-                      "hash":  "14a6414dfd4be852f2e9bfd9af9b99765fce4464765fb7d3352c5c52a8b07f7d",
+                      "hash":  "72e84c44f16754e4319297fa3e3a76bf2bb0ad42114e14c23d468889f72f7b61",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/defaultoptions/keybindings.txt"
                   },
                   {
                       "path":  "config/defaultoptions/options.txt",
-                      "hash":  "c40179c819f0ab943035db4cf40a1bf1ebabf717e6e37b65adc220b27a597971",
+                      "hash":  "4a931145e19e91fe6c3ce8db09c2c9f71e64a42b3e9a6de21a42d614c0c1bc23",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/defaultoptions/options.txt"
                   },
                   {
@@ -1163,17 +1168,17 @@
                   },
                   {
                       "path":  "config/extended_drawers/client.properties",
-                      "hash":  "fc2d4199da1768bf5c87da40d49a45515041c9b3b18e70231a6a51d61c15e8a6",
+                      "hash":  "f03fa828df1cab1c5ba2dc0356356605cb2e06b7ddd4db3d678b9991411a2798",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/extended_drawers/client.properties"
                   },
                   {
                       "path":  "config/extended_drawers/common.properties",
-                      "hash":  "ba1ac3667e5275bb36bd7709870aa0e97bffb6c1772a30b3592e46e6af392081",
+                      "hash":  "1912c41bf8010829fa45b8766746aec743b093c36538e05325454e4f364b636c",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/extended_drawers/common.properties"
                   },
                   {
                       "path":  "config/fabric/indigo-renderer.properties",
-                      "hash":  "c845439df2e019066e85fba1933561751cc83a3a903afea62caecc8e2df3f355",
+                      "hash":  "2d0c1d6f7f45bd49b2727c8f8cc506923e5595715fad9572ac722439c5b09300",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/fabric/indigo-renderer.properties"
                   },
                   {
@@ -1268,7 +1273,7 @@
                   },
                   {
                       "path":  "config/fancymenu/panoramas/statechpanorama_01/properties.txt",
-                      "hash":  "c877aadff771b03295d9f6c674b0c3d6828b80ca4fac6b617f78d9c6ab4b679c",
+                      "hash":  "75d6f7352466f68deb6380c52929baeea4187b630796875e6d7f62adbd0d5bf3",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/fancymenu/panoramas/statechpanorama_01/properties.txt"
                   },
                   {
@@ -1308,82 +1313,82 @@
                   },
                   {
                       "path":  "config/ftbquests/quests/chapter_groups.snbt",
-                      "hash":  "7843c672ea2eda2e3249ad05f81d61501440e3f32e7f1b78f873a9d5e25afaf9",
+                      "hash":  "905afe408ec6209a0e72c496278137e5ead4006bf1f96739f51d6b701d2429b8",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ftbquests/quests/chapter_groups.snbt"
                   },
                   {
                       "path":  "config/ftbquests/quests/data.snbt",
-                      "hash":  "0e644c7b2ff625d73e90e78f254c49307fb36a13b85cf856bce33b3245b58177",
+                      "hash":  "af0a58c6937d169d5c63f554a7960899e0f9964ce857cd6c1f4886bcfe9085ef",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ftbquests/quests/data.snbt"
                   },
                   {
                       "path":  "config/ftbquests/quests/chapters/1__stone_age.snbt",
-                      "hash":  "566f48788e4cf060411e469720ea4d53da9c9478181633be44f9284d241e2501",
+                      "hash":  "63d404a737d6282f6830cd3834bc00c792b6782824c6ab4e25056ee76b5a9bfc",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ftbquests/quests/chapters/1__stone_age.snbt"
                   },
                   {
                       "path":  "config/ftbquests/quests/chapters/2__the_steam_age.snbt",
-                      "hash":  "c416233b253ea421cf59c401b175a219187186add851508a9e0546c4aeae338a",
+                      "hash":  "2bce93aedd3d4fcb50ade751eb3cebef3ad6c8653491fd54d9af1684946f8d99",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ftbquests/quests/chapters/2__the_steam_age.snbt"
                   },
                   {
                       "path":  "config/ftbquests/quests/chapters/3__electrical_age.snbt",
-                      "hash":  "a282a9b44edc3899c825a0094bbd9153d739259c355a2b65dada2f45c02277b3",
+                      "hash":  "71acd13eb4f6a7b9c4ac79e5700d1a22236221e8658a4d2617389be47c1302ed",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ftbquests/quests/chapters/3__electrical_age.snbt"
                   },
                   {
                       "path":  "config/ftbquests/quests/chapters/4__digital_age.snbt",
-                      "hash":  "b11f6a87dbc3e78cfacc453cdf8b7659b1a49f79295f61e89b5361600e571cf1",
+                      "hash":  "daac460f75cd859bc1224f16fa1bba91dfb8e1f8d957f3bb717f3f658614f5df",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ftbquests/quests/chapters/4__digital_age.snbt"
                   },
                   {
                       "path":  "config/ftbquests/quests/chapters/5__nuclear_age.snbt",
-                      "hash":  "23e3d8dc52a9ffda39f16181dee6a726f8063828f393c5fd080124bb40ed7d45",
+                      "hash":  "9e42b5c9a88c8cb785e094f66e8ad35e0e14470caf6fbb696f2d7666eec6aef1",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ftbquests/quests/chapters/5__nuclear_age.snbt"
                   },
                   {
                       "path":  "config/ftbquests/quests/chapters/6__quantum_age.snbt",
-                      "hash":  "8abc4db96877e0d489aea0b2371066981106c3b6ae80e2cd54f056fa52c8b982",
+                      "hash":  "4c9e7b7d0a190e72c52e3f3129e04d6b82b8050fd0df82e62741f5ba87cc6d52",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ftbquests/quests/chapters/6__quantum_age.snbt"
                   },
                   {
                       "path":  "config/ftbquests/quests/chapters/artifacts.snbt",
-                      "hash":  "87a3ab69fa88017ec664a8ccda0a119d76732d1b79a6cdba3e36f4a1a8ec2941",
+                      "hash":  "13f23e7300f9f4ef4c60589bc510a936a0343dd1c72e27f035c374ae9cd511df",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ftbquests/quests/chapters/artifacts.snbt"
                   },
                   {
                       "path":  "config/ftbquests/quests/chapters/create.snbt",
-                      "hash":  "2be0d548c35585be7574eb9904c8f0e459e73cf76683454106907b53637c0a5b",
+                      "hash":  "506634136dfc545dc24623787b2c35baf8d04efcf55ebc408a86b1a86341d329",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ftbquests/quests/chapters/create.snbt"
                   },
                   {
                       "path":  "config/ftbquests/quests/chapters/food.snbt",
-                      "hash":  "cfa5c478958950a677ff20a0c99ca0e915bff83237f54364016f5b9814e60747",
+                      "hash":  "47c57eedcfc1bb4718b7b2c3358b9468ae744aaca1158f4bc2e834ebd2f48e69",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ftbquests/quests/chapters/food.snbt"
                   },
                   {
                       "path":  "config/ftbquests/quests/chapters/spectrum_turn_to_purity.snbt",
-                      "hash":  "ff2a019d3ff92e21a001d5a3bde22c1a116b9d17b04984302f57d785d25f0652",
+                      "hash":  "7c670d2bbc21cf94d76dc4dfc19ebb7c2e71d742fc9a91c88c37d521dfb99b5d",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ftbquests/quests/chapters/spectrum_turn_to_purity.snbt"
                   },
                   {
                       "path":  "config/ftbquests/quests/chapters/twilight_forest.snbt",
-                      "hash":  "590e69cb2bf7a7bb616e2567968f14c093fda2d207452534704523a2de08a9eb",
+                      "hash":  "54a5acb318ec08fb1ebea44eb69d693a5f042afdab34314a47564761bca4b111",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ftbquests/quests/chapters/twilight_forest.snbt"
                   },
                   {
                       "path":  "config/ftbquests/quests/chapters/utilities.snbt",
-                      "hash":  "956c5940b91e9a49de503fde37722f7887e96c76475f575e264d946dc3f0af07",
+                      "hash":  "6f115f3ff7bb3f014b79adbc8babd63d17a2df4bd1a3f33fa7a58d0a8bf296c4",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ftbquests/quests/chapters/utilities.snbt"
                   },
                   {
                       "path":  "config/ftbquests/quests/chapters/welcome.snbt",
-                      "hash":  "85e9d60728100eb6fcfd8cac94ed770c15ec9a816cbdf19ceb3ebe9a9ec6f2bf",
+                      "hash":  "e912e5608bd33b57ce372ac6d92239a05cf5165ad668c2d90028d4b628185d73",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ftbquests/quests/chapters/welcome.snbt"
                   },
                   {
                       "path":  "config/ftbquests/quests/chapters/world_of_magic.snbt",
-                      "hash":  "bf6b2a49b974a5396859c33696cdc799e218a86b206ff43c79a71924b5953e87",
+                      "hash":  "3458773448091eeeaaf0028ca9eebc2e1ca4b3ffe047f4944ab237388562fbb6",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ftbquests/quests/chapters/world_of_magic.snbt"
                   },
                   {
@@ -1398,7 +1403,7 @@
                   },
                   {
                       "path":  "config/inventoryprofilesnext/inventoryprofiles.json",
-                      "hash":  "e83b796a65b0e6eaaad8994d4d472ab828633e42a49c1baca64472bccf0d1971",
+                      "hash":  "349061c7086d487d22dea5351b3c74796ba06e9ad9ed1e7be0d75b1911b0e5e1",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/inventoryprofilesnext/inventoryprofiles.json"
                   },
                   {
@@ -1447,6 +1452,26 @@
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/inventoryprofilesnext/majorpahan.millida.host/villager-trading-config.json"
                   },
                   {
+                      "path":  "config/inventoryprofilesnext/majorpahan.msk.millida.host/lockSlots.txt",
+                      "hash":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/inventoryprofilesnext/majorpahan.msk.millida.host/lockSlots.txt"
+                  },
+                  {
+                      "path":  "config/inventoryprofilesnext/majorpahan.msk.millida.host/prev-villager-trading-config.json",
+                      "hash":  "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/inventoryprofilesnext/majorpahan.msk.millida.host/prev-villager-trading-config.json"
+                  },
+                  {
+                      "path":  "config/inventoryprofilesnext/majorpahan.msk.millida.host/villager-trading-config.json",
+                      "hash":  "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/inventoryprofilesnext/majorpahan.msk.millida.host/villager-trading-config.json"
+                  },
+                  {
+                      "path":  "config/inventoryprofilesnext/majorpahan.pl.millida.host/villager-trading-config.json",
+                      "hash":  "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/inventoryprofilesnext/majorpahan.pl.millida.host/villager-trading-config.json"
+                  },
+                  {
                       "path":  "config/inventoryprofilesnext/New World/prev-villager-trading-config.json",
                       "hash":  "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/inventoryprofilesnext/New%20World/prev-villager-trading-config.json"
@@ -1473,117 +1498,117 @@
                   },
                   {
                       "path":  "config/ironchests/defaults.properties",
-                      "hash":  "930fb7a4567f6bfc48c4e8523d0b0ecd112ba49b0e44f3f67fbe5888c3a6af9b",
+                      "hash":  "265a43a32d54fe0ae6a0bc2b8edc20302fb617ddae7281ec3997e25af507b0b4",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/defaults.properties"
                   },
                   {
                       "path":  "config/ironchests/chests/copper.json",
-                      "hash":  "149139cdbd771af3b1ac43f4ed113d161c61252eb017bb6a2b4e84217d2eae4f",
+                      "hash":  "397cb49cc265439602b3a7ff48f33fbfe0ee105fc50128abde9b4fe94057b83f",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/chests/copper.json"
                   },
                   {
                       "path":  "config/ironchests/chests/crystal.json",
-                      "hash":  "8a3ce2f0d0b8c5c1925008088757e34e7881acce1ed526c3d6ba5b5365a4e33f",
+                      "hash":  "2e8153887e5b318a5f6eb4d6b9a1c62e1de2cb276cf98ccc16657be8b5a7726c",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/chests/crystal.json"
                   },
                   {
                       "path":  "config/ironchests/chests/diamond.json",
-                      "hash":  "eca403a7f738a0b998dc7ad9e37e945c8c92b37c0f48404bc8c955cf19e18846",
+                      "hash":  "5cdc5f24d4c644ba15acc1109eb175504ca40b26ff86a86375afc70a4a680914",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/chests/diamond.json"
                   },
                   {
                       "path":  "config/ironchests/chests/dirt.json",
-                      "hash":  "022f7e089ea5d1a584599f97039da53891f69355ec30f7b8f67580132cb92b49",
+                      "hash":  "8aa98677b7d58f96ce1f207e94ef25ff4fed35e022d0608f2e754e4db059e95e",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/chests/dirt.json"
                   },
                   {
                       "path":  "config/ironchests/chests/gold.json",
-                      "hash":  "f44b6efb34eaea62d6ba9c28fe8deae09e48bdb8dfa6e7cd7d64a16e14dde8de",
+                      "hash":  "33bcb33b8116d495cb9f5acec82774b8b78d042592ff413e4ddcddf3a5cc3851",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/chests/gold.json"
                   },
                   {
                       "path":  "config/ironchests/chests/iron.json",
-                      "hash":  "13faa8428477b12cf97f40e634f09aeceb2b33ff7716bc1f8b0c76cb121a5239",
+                      "hash":  "6510c23e033c9a3b8864cc069003211e90c72d734aacbbde89ad40021d0f3aee",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/chests/iron.json"
                   },
                   {
                       "path":  "config/ironchests/chests/netherite.json",
-                      "hash":  "8af4ff52a38624cc10403bdc5e4f769c1f2c9e0776131964d7f35d279412d2a6",
+                      "hash":  "afbf1ac65cef7baa802fb865d565d931b4afee7bdd95c93d3d82214781f8d4fc",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/chests/netherite.json"
                   },
                   {
                       "path":  "config/ironchests/chests/obsidian.json",
-                      "hash":  "f9dfd6f86509750e326c6dbc36f21734e0cc4b4f57b07a44e209b0d47f0f462e",
+                      "hash":  "185e00b64329877cf68b00853d4552dfdaa53865a2d64c72b1623f150beca21a",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/chests/obsidian.json"
                   },
                   {
                       "path":  "config/ironchests/chests/barrels/copper.json",
-                      "hash":  "1656c74e8a818e08a31ddc7b7a5cf9034c7af09b55e2ca600e4c333eaebafcd2",
+                      "hash":  "8beab0557bb666e552370493086aebed5b53c1ee622f9122d203c32b0b7f6e66",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/chests/barrels/copper.json"
                   },
                   {
                       "path":  "config/ironchests/chests/barrels/crystal.json",
-                      "hash":  "a6039adab0d88505073ea5617b8fd67c3f85b1ff7f471a058c8ceddc18c5d063",
+                      "hash":  "9b86c7bed0ddab3bb27f3f68b4c8aa3c0bc62869b985aa6a8ad7c47055b831b6",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/chests/barrels/crystal.json"
                   },
                   {
                       "path":  "config/ironchests/chests/barrels/diamond.json",
-                      "hash":  "fc9ec99587b4ed5f65a75b28b02f3eed5296094506679ecbd27671e13d28fc7a",
+                      "hash":  "4cbb38795308d29014bbe7072377609e8520d49564988df0812bccbd6713450c",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/chests/barrels/diamond.json"
                   },
                   {
                       "path":  "config/ironchests/chests/barrels/gold.json",
-                      "hash":  "b7fffdb3473e942727d28da3ed6ae8daae8e1f6836badc3a62791eb6d8a789c1",
+                      "hash":  "13f66ba3de79bc21a25a4d50af6270682d1af40f4a739002298540c2f68e6d43",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/chests/barrels/gold.json"
                   },
                   {
                       "path":  "config/ironchests/chests/barrels/iron.json",
-                      "hash":  "3a8d6c9efc0b3386b43599d46fee11683aeb72bf8a2b19dfd82e0f6aeca6e2f1",
+                      "hash":  "de84ce97e59a4b818c6160d6e9d46ca18b45d1b1cc9741e8709b5e14f4109633",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/chests/barrels/iron.json"
                   },
                   {
                       "path":  "config/ironchests/chests/barrels/netherite.json",
-                      "hash":  "bf8debc11c60cb40f1d4e835d30299c9b112ac8f8add16cd27fa54dfe624dfbd",
+                      "hash":  "1ee108b6a0579c0ab7f48d12fe166422afbde85cdfe6a9cb78cdfd2954b96f2d",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/chests/barrels/netherite.json"
                   },
                   {
                       "path":  "config/ironchests/chests/barrels/obsidian.json",
-                      "hash":  "89bad28248f2ebc766a8b4dab5121c3c1495bf3cd923aa56868e52bc6117048a",
+                      "hash":  "e829a5955071fd939c1d9a966df54fd79c300fe32e13a51b28ea4b99edf87362",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/chests/barrels/obsidian.json"
                   },
                   {
                       "path":  "config/ironchests/upgrade_types/copper.json",
-                      "hash":  "404ef22ef2db426a552212f4f86bd624515462dba78bdfb3e00228ea8a9e4bf5",
+                      "hash":  "779c2e1458ebf42a28ff4e0fe756c1038128451f14df2242ce5f822a9a30bce3",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/upgrade_types/copper.json"
                   },
                   {
                       "path":  "config/ironchests/upgrade_types/crystal.json",
-                      "hash":  "8b09bcacf29c9eaac0f4fa12387c0cc1bf594d0d4496b8bf5a6e15584647b90e",
+                      "hash":  "d9b7c11ecd0a19a3a9206b0855de5c50d466dd6593c7f033bbee4499576229c9",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/upgrade_types/crystal.json"
                   },
                   {
                       "path":  "config/ironchests/upgrade_types/diamond.json",
-                      "hash":  "a4002f060c72726793d28a62327549333dcf8e3a06f31f7d64524666dfb2f694",
+                      "hash":  "f0a0f6505fdc4fc55f75f1d1b0d9e8073cfb47bfda9a48468933635605609f0f",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/upgrade_types/diamond.json"
                   },
                   {
                       "path":  "config/ironchests/upgrade_types/gold.json",
-                      "hash":  "718d6c729c19e4b6a1857265c84dca74e8aeabb229dfdccd215b04c18c5d357a",
+                      "hash":  "8280c1f053f4203c01d711fd38ffce529fcea71fcfdd5f5f870fff15517c4bfa",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/upgrade_types/gold.json"
                   },
                   {
                       "path":  "config/ironchests/upgrade_types/iron.json",
-                      "hash":  "ed4606170f443d3cd434a028bde5bab2cde13786f86bdbda1a47c89f625aa594",
+                      "hash":  "b3952947a43d5cc2ae7944ea748a9af124b8f46b6b0e78fcd7b9f449f8b681ea",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/upgrade_types/iron.json"
                   },
                   {
                       "path":  "config/ironchests/upgrade_types/netherite.json",
-                      "hash":  "fea9c3746cc8724b51c16aedf2b1188294d162073c562d9042c262f01c6a6d25",
+                      "hash":  "6e992d0b961f1163dfe5cdd7b7769c568f8ab00411ea25be7c52bcc2088f5492",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/upgrade_types/netherite.json"
                   },
                   {
                       "path":  "config/ironchests/upgrade_types/obsidian.json",
-                      "hash":  "57e5308e115e1338a3603ea153a591ac917e5802625407a94284576d73774f11",
+                      "hash":  "949bad15aa6fb5d810b99bd59c799bab72e31f6aca971c195c09bc86bb994980",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/ironchests/upgrade_types/obsidian.json"
                   },
                   {
@@ -1648,7 +1673,7 @@
                   },
                   {
                       "path":  "config/patpat/patpat-client-stats.json5",
-                      "hash":  "6438f8f46dd3afdea6ec3a8baf06ac7cc1489343241b4924e9cab1a435801325",
+                      "hash":  "7e201607cf93750e3381bd892aa05503fc053d7783dc4917aed6b7464571b39f",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/patpat/patpat-client-stats.json5"
                   },
                   {
@@ -1665,6 +1690,11 @@
                       "path":  "config/patpat/patpat.json5",
                       "hash":  "3976038ba6a75a535ed0f6eb9860dd77390bb967982cc291648ebfc2beb2ae92",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/patpat/patpat.json5"
+                  },
+                  {
+                      "path":  "config/patpat/player-list-client.txt",
+                      "hash":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/patpat/player-list-client.txt"
                   },
                   {
                       "path":  "config/patpat/player-list.txt",
@@ -1722,13 +1752,18 @@
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/reborncore/misc.json"
                   },
                   {
+                      "path":  "config/roughlyenoughitems/changelog.txt",
+                      "hash":  "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/roughlyenoughitems/changelog.txt"
+                  },
+                  {
                       "path":  "config/roughlyenoughitems/collapsible.json5",
                       "hash":  "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/roughlyenoughitems/collapsible.json5"
                   },
                   {
                       "path":  "config/roughlyenoughitems/config.json5",
-                      "hash":  "73d846e3529d0e0fc2afa66af1d25b8a0c612b94ce3dd5ce93c7041be18f845d",
+                      "hash":  "50147153c725460501806b53a60401d7b60cbb5cda422036d56ae0ccadfc5873",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/roughlyenoughitems/config.json5"
                   },
                   {
@@ -1738,17 +1773,17 @@
                   },
                   {
                       "path":  "config/roughlyenoughitems/hints.json",
-                      "hash":  "4541c679c093672f8715de2f9716cfd90f944574423d308d833689984f6d8996",
+                      "hash":  "cd9d3c85b6f3414e0556639df30f8b0ea128b1c3f07ed1c4bd670afef543cdfc",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/roughlyenoughitems/hints.json"
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin.properties",
-                      "hash":  "6157e9c580ff8a4eefc84f4ace84d80e29ca7795f3b0bc2d9e318902ff79e74c",
+                      "hash":  "8014f3e4fc9b612f16a10f039854e6d5061d8a1c4d909f6543cb3d430719700e",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/roughlyenoughitems/pinyin.properties"
                   },
                   {
                       "path":  "config/roughlyenoughitems/pinyin_double.properties",
-                      "hash":  "b4ba89365ea0cc81cd8a474bf7489b14449de19287097a3bcf95aed0e46d692f",
+                      "hash":  "238bc1b6f9bd817461301ea689bb7a00f0a9af12493866969c8aaf6d87f294e8",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/roughlyenoughitems/pinyin_double.properties"
                   },
                   {
@@ -1897,11 +1932,6 @@
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/towns_and_towers/structure_rarity.json5"
                   },
                   {
-                      "path":  "config/towns_and_towers/resources/t_and_t_waystones_patch_1.19.2.zip",
-                      "hash":  "06f47bd0839fb1c2ab27a34d277fda83db1c67d2602c70a43aa7b8eb0a4d8915",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/towns_and_towers/resources/t_and_t_waystones_patch_1.19.2.zip"
-                  },
-                  {
                       "path":  "config/trade_cycling/trade_cycling.properties",
                       "hash":  "5610bec5a681bd00da2bd273f7eadc1cc03864b1059461860b8ece325db9341d",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/trade_cycling/trade_cycling.properties"
@@ -1913,7 +1943,7 @@
                   },
                   {
                       "path":  "config/voicechat/username-cache.json",
-                      "hash":  "4cce17bfe2fb1a1caedbfa8d282e74679f2c5857e3ed9cb181088a7d0949ee3a",
+                      "hash":  "f082186b926ea80737cdcb7c51ec51f3b7e71cc23b7225bce0eac59398f655f6",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/voicechat/username-cache.json"
                   },
                   {
