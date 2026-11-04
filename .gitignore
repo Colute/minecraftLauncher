@@ -1,3 +1,5 @@
+﻿*.zip
+!update.zip
 run.bat
 .fabric/
 .mixin.out/
