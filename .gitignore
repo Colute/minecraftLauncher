@@ -1,5 +1,5 @@
 ﻿*.zip
-!update.zip
+!CoLoader.zip
 run.bat
 .fabric/
 .mixin.out/
