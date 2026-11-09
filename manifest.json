@@ -1,5 +1,5 @@
 {
-    "modLoader":  "1.19.2-forge-43.5.1",
+    "modLoader":  "1",
     "files":  [
                   {
                       "path":  "config/abnormals_delight-common.toml",
@@ -19485,7 +19485,7 @@
                   },
                   {
                       "path":  "mods/EndlessBiomes 1.4s - 1.19.2 (Server-friendly).jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/EndlessBiomes%201.4s%20-%201.19.2%208Server-friendly9.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/EndlessBiomes%201.4s%20-%201.19.2%20(Server-friendly).jar",
                       "sha256":  "82c522bfcc2d1328803064512143ae4ef5fe8f99fbec9fb000f229a0293b5112",
                       "size":  2820092
                   },
@@ -20295,7 +20295,7 @@
                   },
                   {
                       "path":  "mods/smoothboot(reloaded)-mc1.19.2-0.0.4.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/smoothboot8reloaded9-mc1.19.2-0.0.4.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/smoothboot(reloaded)-mc1.19.2-0.0.4.jar",
                       "sha256":  "3418761fd5f711bd4a2311cc549d640a23bfc6bb7fa9b34daddf0e21a9767f2a",
                       "size":  40952
                   },
