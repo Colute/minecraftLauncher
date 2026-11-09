@@ -93,23 +93,35 @@ If your settings in this file seem to have to no effect on the generation of the
 				"weight": 0
 			},
 			{
-				"data": "promenade:tall_warped_forest",
+				"data": "incendium:volcanic_deltas",
 				"weight": 2
 			},
 			{
-				"data": "promenade:achromatopsian_gallery",
+				"data": "incendium:toxic_heap",
 				"weight": 2
 			},
 			{
-				"data": "promenade:tritanopian_gallery",
+				"data": "incendium:weeping_valley",
 				"weight": 2
 			},
 			{
-				"data": "promenade:tall_crimson_forest",
+				"data": "incendium:withered_forest",
 				"weight": 2
 			},
 			{
-				"data": "promenade:protanopian_gallery",
+				"data": "incendium:quartz_flats",
+				"weight": 2
+			},
+			{
+				"data": "incendium:inverted_forest",
+				"weight": 2
+			},
+			{
+				"data": "incendium:infernal_dunes",
+				"weight": 2
+			},
+			{
+				"data": "incendium:ash_barrens",
 				"weight": 2
 			}
 		]
@@ -201,23 +213,35 @@ If your settings in this file seem to have to no effect on the generation of the
 				"weight": 0
 			},
 			{
-				"data": "promenade:tall_warped_forest",
+				"data": "incendium:volcanic_deltas",
 				"weight": 2
 			},
 			{
-				"data": "promenade:achromatopsian_gallery",
+				"data": "incendium:toxic_heap",
 				"weight": 2
 			},
 			{
-				"data": "promenade:tritanopian_gallery",
+				"data": "incendium:weeping_valley",
 				"weight": 2
 			},
 			{
-				"data": "promenade:tall_crimson_forest",
+				"data": "incendium:withered_forest",
 				"weight": 2
 			},
 			{
-				"data": "promenade:protanopian_gallery",
+				"data": "incendium:quartz_flats",
+				"weight": 2
+			},
+			{
+				"data": "incendium:inverted_forest",
+				"weight": 2
+			},
+			{
+				"data": "incendium:infernal_dunes",
+				"weight": 2
+			},
+			{
+				"data": "incendium:ash_barrens",
 				"weight": 2
 			}
 		]

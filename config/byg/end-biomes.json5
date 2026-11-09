@@ -68,7 +68,7 @@ If your settings in this file seem to have to no effect on the generation of the
 			},
 			{
 				"data": "minecraft:small_end_islands",
-				"weight": 0
+				"weight": 2
 			},
 			{
 				"data": "byg:viscal_isles",

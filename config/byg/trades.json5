@@ -10,7 +10,49 @@ to make editing this file much easier.
 {
 	// Trades for a given villager profession. Trade levels are in the range of 1-5
 	"trades_by_profession": {
-		"ae2:fluix_researcher": {
+		"ars_nouveau:shady_wizard": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"blue_skies:alchemist": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"blue_skies:nightwatcher": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"blue_skies:shoveler": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"blue_skies:stargazer": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"blue_skies:summoner": {
+			"1": [],
+			"2": [],
+			"3": [],
+			"4": [],
+			"5": []
+		},
+		"blue_skies:wrangler": {
 			"1": [],
 			"2": [],
 			"3": [],
@@ -157,20 +199,6 @@ to make editing this file much easier.
 					"type": "corgilib:emerald_for_items"
 				}
 			]
-		},
-		"chefsdelight:delightchef": {
-			"1": [],
-			"2": [],
-			"3": [],
-			"4": [],
-			"5": []
-		},
-		"chefsdelight:delightcook": {
-			"1": [],
-			"2": [],
-			"3": [],
-			"4": [],
-			"5": []
 		},
 		"minecraft:armorer": {
 			"1": [],
@@ -454,13 +482,6 @@ to make editing this file much easier.
 			"4": [],
 			"5": []
 		},
-		"modern_industrialization:industrialist": {
-			"1": [],
-			"2": [],
-			"3": [],
-			"4": [],
-			"5": []
-		},
 		"morevillagers:enderian": {
 			"1": [],
 			"2": [],
@@ -517,21 +538,7 @@ to make editing this file much easier.
 			"4": [],
 			"5": []
 		},
-		"techreborn:electrician": {
-			"1": [],
-			"2": [],
-			"3": [],
-			"4": [],
-			"5": []
-		},
-		"techreborn:metallurgist": {
-			"1": [],
-			"2": [],
-			"3": [],
-			"4": [],
-			"5": []
-		},
-		"wizards:wizard_merchant": {
+		"vinery:winemaker": {
 			"1": [],
 			"2": [],
 			"3": [],

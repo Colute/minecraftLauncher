@@ -64,25 +64,6 @@
 	villager_range = 64
 	animal_range = 64
 
-# Allows you to modify individual mobcaps and their frequency of spawn attempts.
-[mob_spawning]
-	# The maximum amount of entities in the same category that can spawn near a player.
-	monster_mobcap = 70
-	creature_mobcap = 10
-	ambient_mobcap = 15
-	axolotls_mobcap = 5
-	underground_water_creature_mobcap = 5
-	water_creature_mobcap = 5
-	water_ambient_mobcap = 20
-	# The interval between spawn attempts in ticks. Higher values mean less frequent spawn attempts.
-	monster_spawn_interval = 1
-	creature_spawn_interval = 400
-	ambient_spawn_interval = 1
-	axolotls_spawn_interval = 1
-	underground_water_creature_spawn_interval = 1
-	water_creature_spawn_interval = 1
-	water_ambient_spawn_interval = 1
-
 # Allows you to toggle specific optimizations that don't have full vanilla parity.
 # These settings will only take effect after server restarts.
 [optimizations]
@@ -180,4 +161,23 @@
 	# Activation range settings for miscellaneous entities.
 	misc_activation_range = 16
 	misc_tick_inactive = true
+
+# Allows you to modify individual mobcaps and their frequency of spawn attempts.
+[mob_spawning]
+	# The maximum amount of entities in the same category that can spawn near a player.
+	monster_mobcap = 70
+	creature_mobcap = 10
+	ambient_mobcap = 15
+	axolotls_mobcap = 5
+	underground_water_creature_mobcap = 5
+	water_creature_mobcap = 5
+	water_ambient_mobcap = 20
+	# The interval between spawn attempts in ticks. Higher values mean less frequent spawn attempts.
+	monster_spawn_interval = 1
+	creature_spawn_interval = 400
+	ambient_spawn_interval = 1
+	axolotls_spawn_interval = 1
+	underground_water_creature_spawn_interval = 1
+	water_creature_spawn_interval = 1
+	water_ambient_spawn_interval = 1
 

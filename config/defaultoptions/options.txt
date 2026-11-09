@@ -1,11 +1,10 @@
 version:3120
-toggleCrawl:false
-autoJump:false
+autoJump:true
 autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:true
+enableVsync:false
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -15,32 +14,32 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
-darkMojangStudiosBackground:true
+darkMojangStudiosBackground:false
 hideLightningFlashes:false
 mouseSensitivity:0.5
-fov:0.5
+fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
 gamma:0.5
-renderDistance:12
-simulationDistance:12
+renderDistance:8
+simulationDistance:8
 entityDistanceScaling:1.0
-guiScale:3
-particles:0
+guiScale:0
+particles:1
 maxFps:120
-graphicsMode:1
+graphicsMode:0
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","Supplementaries Generated Pack","continuity/default","file/Tom\u0027s Simple Storage Revamped.zip","file/AOF6+Emissive+Ores+1.0+Statech+Addon.zip","file/Emissive_TXF_optifine_1.19.zip"]
-incompatibleResourcePacks:["file/Tom\u0027s Simple Storage Revamped.zip","file/Emissive_TXF_optifine_1.19.zip"]
-lastServer:
+resourcePacks:["builtin/towntalk","vanilla","mod_resources","STONEBORN - 1.19 - V3.2.1.zip","STONEBORN-+SBMC+-V3.1-Modded-Compatibility.zip","Better Hearts 1.16.5.zip","Supplementaries Generated Pack","quark:emote_resources"]
+incompatibleResourcePacks:["Better Hearts 1.16.5.zip","quark:emote_resources"]
+lastServer:192.168.0.1
 lang:en_us
 soundDevice:""
 chatVisibility:0
@@ -59,7 +58,7 @@ chatDelay:0.0
 chatHeightUnfocused:0.4375
 chatScale:1.0
 chatWidth:1.0
-mipmapLevels:4
+mipmapLevels:0
 useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
@@ -68,10 +67,10 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -79,7 +78,7 @@ allowServerListing:true
 chatPreview:1
 onlyShowSecureChat:false
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.10739437
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

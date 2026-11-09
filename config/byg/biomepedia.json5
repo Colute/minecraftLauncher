@@ -9,7 +9,7 @@ to make editing this file much easier.
 */
 {
 	// Whether to give the biomepedia book ITEM to new players for the first time.
-	"give_item": false,
+	"give_item": true,
 	// Whether the biomepedia inventory BUTTON is enabled or not in the player inventory for all users connected to this host.
-	"inventory_enabled": false
+	"inventory_enabled": true
 }

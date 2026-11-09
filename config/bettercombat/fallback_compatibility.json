@@ -27,8 +27,12 @@
       "weapon_attributes": "bettercombat:glaive"
     },
     {
-      "item_id_regex": "spear|lance",
+      "item_id_regex": "spear",
       "weapon_attributes": "bettercombat:spear"
+    },
+    {
+      "item_id_regex": "lance",
+      "weapon_attributes": "bettercombat:lance"
     },
     {
       "item_id_regex": "anchor",
@@ -67,7 +71,7 @@
       "weapon_attributes": "bettercombat:soul_knife"
     },
     {
-      "item_id_regex": "dagger|knife|nanosaber",
+      "item_id_regex": "dagger|knife",
       "weapon_attributes": "bettercombat:dagger"
     },
     {
