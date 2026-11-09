@@ -1,8 +1,4 @@
-﻿*.zip
-!shaderpacks/*.zip
-!resourcepacks/*.zip
-!CoLoader.zip
-run.bat
+﻿run.bat
 mods/rename.ps1
 generate_manifest.ps1
 .fabric/
