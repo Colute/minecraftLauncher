@@ -4269,7 +4269,7 @@
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco\u0027s Rpg Origins 1.1.2.zip",
-                      "url":  "https://githubusercontent.com/config/paxi/datapacks/Cisco7s%20Rpg%20Origins%201.1.2.zip",
+                      "url":  "https://githubusercontent.com/config/paxi/datapacks/Cisco\u0027s%20Rpg%20Origins%201.1.2.zip",
                       "sha256":  "805201bc637ab75b6842006ace8591f583c90ecea02ba6cae31780cc2ea674d3",
                       "size":  112897
                   },
@@ -4281,7 +4281,7 @@
                   },
                   {
                       "path":  "config/paxi/datapacks/Origins_Expanded_Foods_v2.3+1.19.2.zip",
-                      "url":  "https://githubusercontent.com/config/paxi/datapacks/Origins_Expanded_Foods_v2.3%2B1.19.2.zip",
+                      "url":  "https://githubusercontent.com/config/paxi/datapacks/Origins_Expanded_Foods_v2.3+1.19.2.zip",
                       "sha256":  "2c27baf13d3fd7608208898d8308c950d096aef4738702c95b14744bdb50a370",
                       "size":  17571
                   },
@@ -5907,7 +5907,7 @@
                   },
                   {
                       "path":  "config/paxi/resourcepacks/STONEBORN-+SBMC+-V3.1-Modded-Compatibility.zip",
-                      "url":  "https://githubusercontent.com/config/paxi/resourcepacks/STONEBORN-%2BSBMC%2B-V3.1-Modded-Compatibility.zip",
+                      "url":  "https://githubusercontent.com/config/paxi/resourcepacks/STONEBORN-+SBMC+-V3.1-Modded-Compatibility.zip",
                       "sha256":  "9a1e3ef65ed8a46909b99899ea997fb68be30058e48a24ec9e162cc17d18a26c",
                       "size":  7831299
                   },
@@ -7755,7 +7755,7 @@
                   },
                   {
                       "path":  "mods/bettercombat-forge-1.7.1+1.19.jar",
-                      "url":  "https://githubusercontent.com/mods/bettercombat-forge-1.7.1%2B1.19.jar",
+                      "url":  "https://githubusercontent.com/mods/bettercombat-forge-1.7.1+1.19.jar",
                       "sha256":  "a5f36a6bb3d8fb6c25439aa8e0c03248053f30e633c832a3ee29946580a5d72b",
                       "size":  904072
                   },
@@ -7911,7 +7911,7 @@
                   },
                   {
                       "path":  "mods/Clumps-forge-1.19.2-9.0.0+14.jar",
-                      "url":  "https://githubusercontent.com/mods/Clumps-forge-1.19.2-9.0.0%2B14.jar",
+                      "url":  "https://githubusercontent.com/mods/Clumps-forge-1.19.2-9.0.0+14.jar",
                       "sha256":  "ca3441d5f84212a9f7262afc5ea7521257b8b9b378e5882afa845448fe674421",
                       "size":  19083
                   },
@@ -7923,13 +7923,13 @@
                   },
                   {
                       "path":  "mods/combatroll-forge-1.1.5+1.19.jar",
-                      "url":  "https://githubusercontent.com/mods/combatroll-forge-1.1.5%2B1.19.jar",
+                      "url":  "https://githubusercontent.com/mods/combatroll-forge-1.1.5+1.19.jar",
                       "sha256":  "55701feeac67614605ae880be104919289fde7d326eccdd560c42bf9fff86338",
                       "size":  199326
                   },
                   {
                       "path":  "mods/comforts-forge-6.0.7+1.19.2.jar",
-                      "url":  "https://githubusercontent.com/mods/comforts-forge-6.0.7%2B1.19.2.jar",
+                      "url":  "https://githubusercontent.com/mods/comforts-forge-6.0.7+1.19.2.jar",
                       "sha256":  "56f7e3cc69dc7dd18b2eb73c8c9281387976f1bb930cabb9560c3340dca2fb4d",
                       "size":  331918
                   },
@@ -7947,7 +7947,7 @@
                   },
                   {
                       "path":  "mods/Controlling-forge-1.19.2-10.0+7.jar",
-                      "url":  "https://githubusercontent.com/mods/Controlling-forge-1.19.2-10.0%2B7.jar",
+                      "url":  "https://githubusercontent.com/mods/Controlling-forge-1.19.2-10.0+7.jar",
                       "sha256":  "183a25828decbbcf4aec72ff2c3e17e152edd9d54f7a206e39725c5cf1621de0",
                       "size":  117659
                   },
@@ -8151,7 +8151,7 @@
                   },
                   {
                       "path":  "mods/elytraslot-forge-6.1.2+1.19.2.jar",
-                      "url":  "https://githubusercontent.com/mods/elytraslot-forge-6.1.2%2B1.19.2.jar",
+                      "url":  "https://githubusercontent.com/mods/elytraslot-forge-6.1.2+1.19.2.jar",
                       "sha256":  "a432426d7f8ab7aef41dff39076bfe375bb62ae3721f0004e5a3c77bc38ec9a6",
                       "size":  88019
                   },
@@ -8163,13 +8163,13 @@
                   },
                   {
                       "path":  "mods/End\u0027s Phantasm - BETAv1.2.10.5 - 1.19.2.jar",
-                      "url":  "https://githubusercontent.com/mods/End7s%20Phantasm%20-%20BETAv1.2.10.5%20-%201.19.2.jar",
+                      "url":  "https://githubusercontent.com/mods/End\u0027s%20Phantasm%20-%20BETAv1.2.10.5%20-%201.19.2.jar",
                       "sha256":  "52d4f864f5c7e933042c54041f3e19dbe65d0e47b78796253337f5ef8bbb7472",
                       "size":  969929
                   },
                   {
                       "path":  "mods/EndlessBiomes 1.4s - 1.19.2 (Server-friendly).jar",
-                      "url":  "https://githubusercontent.com/mods/EndlessBiomes%201.4s%20-%201.19.2%208Server-friendly9.jar",
+                      "url":  "https://githubusercontent.com/mods/EndlessBiomes%201.4s%20-%201.19.2%20(Server-friendly).jar",
                       "sha256":  "82c522bfcc2d1328803064512143ae4ef5fe8f99fbec9fb000f229a0293b5112",
                       "size":  2820092
                   },
@@ -8373,19 +8373,19 @@
                   },
                   {
                       "path":  "mods/ImmediatelyFast-Forge-1.4.0+1.19.2.jar",
-                      "url":  "https://githubusercontent.com/mods/ImmediatelyFast-Forge-1.4.0%2B1.19.2.jar",
+                      "url":  "https://githubusercontent.com/mods/ImmediatelyFast-Forge-1.4.0+1.19.2.jar",
                       "sha256":  "177f7e2e08cee82c1b89fdda18f99c2c6ad7e7cbeb3b8bdcf804464951026ef6",
                       "size":  416424
                   },
                   {
                       "path":  "mods/immersive_armors-1.5.6+1.19.2-forge.jar",
-                      "url":  "https://githubusercontent.com/mods/immersive_armors-1.5.6%2B1.19.2-forge.jar",
+                      "url":  "https://githubusercontent.com/mods/immersive_armors-1.5.6+1.19.2-forge.jar",
                       "sha256":  "b01dc77c5dbe24d842aecc3fbf371b113323965444bd8724cc003515709bb4c2",
                       "size":  1237151
                   },
                   {
                       "path":  "mods/immersive_paintings-0.6.7+1.19.2-forge.jar",
-                      "url":  "https://githubusercontent.com/mods/immersive_paintings-0.6.7%2B1.19.2-forge.jar",
+                      "url":  "https://githubusercontent.com/mods/immersive_paintings-0.6.7+1.19.2-forge.jar",
                       "sha256":  "29abfda0058f1ec2bf5195ecd9689f9bf8d8c883959eca5175e5b55ae2712cbd",
                       "size":  4842105
                   },
@@ -8601,7 +8601,7 @@
                   },
                   {
                       "path":  "mods/mcsa-forge-3.1.4+1.19.jar",
-                      "url":  "https://githubusercontent.com/mods/mcsa-forge-3.1.4%2B1.19.jar",
+                      "url":  "https://githubusercontent.com/mods/mcsa-forge-3.1.4+1.19.jar",
                       "sha256":  "17ee7be8fd55b87df91dd9f63126cd9f73be33a883c58e70177b10baa410ab66",
                       "size":  208932
                   },
@@ -8625,7 +8625,7 @@
                   },
                   {
                       "path":  "mods/memoryleakfix-forge-1.17+-1.0.0.jar",
-                      "url":  "https://githubusercontent.com/mods/memoryleakfix-forge-1.17%2B-1.0.0.jar",
+                      "url":  "https://githubusercontent.com/mods/memoryleakfix-forge-1.17+-1.0.0.jar",
                       "sha256":  "27272de0683259d898c4141a86a1d08873ba86a72522fba94cb6331e955715d4",
                       "size":  155597
                   },
@@ -8643,7 +8643,7 @@
                   },
                   {
                       "path":  "mods/modernfix-forge-5.18.1+mc1.19.2.jar",
-                      "url":  "https://githubusercontent.com/mods/modernfix-forge-5.18.1%2Bmc1.19.2.jar",
+                      "url":  "https://githubusercontent.com/mods/modernfix-forge-5.18.1+mc1.19.2.jar",
                       "sha256":  "e14ea99b7341d7479e34e0dd6d96e0ee0b86914f2936eccbf23a5036f476580c",
                       "size":  777028
                   },
@@ -8751,7 +8751,7 @@
                   },
                   {
                       "path":  "mods/Oh_The_Biomes_You\u0027ll_Go-forge-1.19.2-2.0.1.6.jar",
-                      "url":  "https://githubusercontent.com/mods/Oh_The_Biomes_You7ll_Go-forge-1.19.2-2.0.1.6.jar",
+                      "url":  "https://githubusercontent.com/mods/Oh_The_Biomes_You\u0027ll_Go-forge-1.19.2-2.0.1.6.jar",
                       "sha256":  "07015e5aaa590bea5d30a58e9ec5eb522cf92b1754731c4850e7b61abd2f443a",
                       "size":  37211656
                   },
@@ -8805,7 +8805,7 @@
                   },
                   {
                       "path":  "mods/Pehkui-3.8.2+1.19.2-forge.jar",
-                      "url":  "https://githubusercontent.com/mods/Pehkui-3.8.2%2B1.19.2-forge.jar",
+                      "url":  "https://githubusercontent.com/mods/Pehkui-3.8.2+1.19.2-forge.jar",
                       "sha256":  "d339a56bcde96e8decd0935a0f83ea41dbc1f1df529fc18a8e63d683630596bb",
                       "size":  670815
                   },
@@ -8829,7 +8829,7 @@
                   },
                   {
                       "path":  "mods/polymorph-forge-0.46.6+1.19.2.jar",
-                      "url":  "https://githubusercontent.com/mods/polymorph-forge-0.46.6%2B1.19.2.jar",
+                      "url":  "https://githubusercontent.com/mods/polymorph-forge-0.46.6+1.19.2.jar",
                       "sha256":  "5608f979ac6c1c4f74a63cf386194e1efc0eef66c84912d5acf2584284890634",
                       "size":  257315
                   },
@@ -8889,7 +8889,7 @@
                   },
                   {
                       "path":  "mods/repurposed_structures_forge-6.3.29+1.19.2.jar",
-                      "url":  "https://githubusercontent.com/mods/repurposed_structures_forge-6.3.29%2B1.19.2.jar",
+                      "url":  "https://githubusercontent.com/mods/repurposed_structures_forge-6.3.29+1.19.2.jar",
                       "sha256":  "9c92215cd8eabbaf14668fbd22ff2860b0755d1318a72d03e561858603267bb6",
                       "size":  7696256
                   },
@@ -8901,7 +8901,7 @@
                   },
                   {
                       "path":  "mods/right-click-harvest-3.2.3+1.19.2-forge.jar",
-                      "url":  "https://githubusercontent.com/mods/right-click-harvest-3.2.3%2B1.19.2-forge.jar",
+                      "url":  "https://githubusercontent.com/mods/right-click-harvest-3.2.3+1.19.2-forge.jar",
                       "sha256":  "6cb7811120e87dc63c94b86e5569362f40dfb11f9e953727f059d1d72a5f1f82",
                       "size":  264091
                   },
@@ -8943,7 +8943,7 @@
                   },
                   {
                       "path":  "mods/servercore-forge-1.3.6+1.19.2.jar",
-                      "url":  "https://githubusercontent.com/mods/servercore-forge-1.3.6%2B1.19.2.jar",
+                      "url":  "https://githubusercontent.com/mods/servercore-forge-1.3.6+1.19.2.jar",
                       "sha256":  "8fdbb8d768d8888ac0229a72aa2809a439d8e9ff96b787318546bcbdf88a1c54",
                       "size":  1186247
                   },
@@ -8979,7 +8979,7 @@
                   },
                   {
                       "path":  "mods/smoothboot(reloaded)-mc1.19.2-0.0.4.jar",
-                      "url":  "https://githubusercontent.com/mods/smoothboot8reloaded9-mc1.19.2-0.0.4.jar",
+                      "url":  "https://githubusercontent.com/mods/smoothboot(reloaded)-mc1.19.2-0.0.4.jar",
                       "sha256":  "3418761fd5f711bd4a2311cc549d640a23bfc6bb7fa9b34daddf0e21a9767f2a",
                       "size":  40952
                   },
@@ -9015,7 +9015,7 @@
                   },
                   {
                       "path":  "mods/starlight-1.1.1+forge.cf5b10b.jar",
-                      "url":  "https://githubusercontent.com/mods/starlight-1.1.1%2Bforge.cf5b10b.jar",
+                      "url":  "https://githubusercontent.com/mods/starlight-1.1.1+forge.cf5b10b.jar",
                       "sha256":  "2bee70fa2bda5d7e938e421b94fbac8c00c6660927fa34e998a47f8f75e4c32d",
                       "size":  110720
                   },
@@ -9135,7 +9135,7 @@
                   },
                   {
                       "path":  "mods/transmog-forge-1.2.2+1.19.2.jar",
-                      "url":  "https://githubusercontent.com/mods/transmog-forge-1.2.2%2B1.19.2.jar",
+                      "url":  "https://githubusercontent.com/mods/transmog-forge-1.2.2+1.19.2.jar",
                       "sha256":  "52751268969dbeffc312185c27d3d5e8873f9e9863ec5823dfd4e37995317af6",
                       "size":  96198
                   },
@@ -9243,7 +9243,7 @@
                   },
                   {
                       "path":  "mods/yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar",
-                      "url":  "https://githubusercontent.com/mods/yeetusexperimentus-1.0.1-build.2%2Bmc1.19.1.jar",
+                      "url":  "https://githubusercontent.com/mods/yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar",
                       "sha256":  "2f8f1ba75d2177ddcf7586b22428898954f47086037800278225db0068dca6e4",
                       "size":  5869
                   },
@@ -9321,7 +9321,7 @@
                   },
                   {
                       "path":  "resourcepacks/Origins_Expanded_Foods_v2.1+1.19.2.zip",
-                      "url":  "https://githubusercontent.com/resourcepacks/Origins_Expanded_Foods_v2.1%2B1.19.2.zip",
+                      "url":  "https://githubusercontent.com/resourcepacks/Origins_Expanded_Foods_v2.1+1.19.2.zip",
                       "sha256":  "f27b5d6b6e77e63448ac48c849aa730abb5296775d47cd58c04a8f032bde84a6",
                       "size":  16854
                   },
@@ -9381,7 +9381,7 @@
                   },
                   {
                       "path":  "resourcepacks/STONEBORN-+SBMC+-V3.1-Modded-Compatibility.zip",
-                      "url":  "https://githubusercontent.com/resourcepacks/STONEBORN-%2BSBMC%2B-V3.1-Modded-Compatibility.zip",
+                      "url":  "https://githubusercontent.com/resourcepacks/STONEBORN-+SBMC+-V3.1-Modded-Compatibility.zip",
                       "sha256":  "9a1e3ef65ed8a46909b99899ea997fb68be30058e48a24ec9e162cc17d18a26c",
                       "size":  7831299
                   },
