@@ -1,5 +1,5 @@
 {
-    "modLoader":  "1",
+    "modLoader":  "1.19.2-forge-43.5.1",
     "files":  [
                   {
                       "path":  "config/abnormals_delight-common.toml",
@@ -4328,20 +4328,20 @@
                       "size":  21
                   },
                   {
-                      "path":  "config/paxi/datapacks/Cisco\u0027s Rpg Origins 1.1.2.zip",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco7s%20Rpg%20Origins%201.1.2.zip",
+                      "path":  "config/paxi/datapacks/Cisco's Rpg Origins 1.1.2.zip",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco's Rpg Origins 1.1.2.zip",
                       "sha256":  "805201bc637ab75b6842006ace8591f583c90ecea02ba6cae31780cc2ea674d3",
                       "size":  112897
                   },
                   {
                       "path":  "config/paxi/datapacks/EE Modded 1.18.zip",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/EE%20Modded%201.18.zip",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/EE Modded 1.18.zip",
                       "sha256":  "a1216a086666eea0fb16e6cf46aec087d135758eee58278a5af0c5aacb714e41",
                       "size":  18488
                   },
                   {
                       "path":  "config/paxi/datapacks/Origins_Expanded_Foods_v2.3+1.19.2.zip",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Origins_Expanded_Foods_v2.3%2B1.19.2.zip",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Origins_Expanded_Foods_v2.3+1.19.2.zip",
                       "sha256":  "2c27baf13d3fd7608208898d8308c950d096aef4738702c95b14744bdb50a370",
                       "size":  17571
                   },
@@ -4383,985 +4383,985 @@
                   },
                   {
                       "path":  "config/paxi/datapacks/betterwithmine recipe disable/pack.mcmeta",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/betterwithmine%20recipe%20disable/pack.mcmeta",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/betterwithmine recipe disable/pack.mcmeta",
                       "sha256":  "b58ac9ce69d686c9fe739017c6d1060a76f172b2d0e3c6dd76a47c4a64a77d16",
                       "size":  208
                   },
                   {
                       "path":  "config/paxi/datapacks/betterwithmine recipe disable/data/betterwithminecolonies/recipes/create/stupid_blaze_powder.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/betterwithmine%20recipe%20disable/data/betterwithminecolonies/recipes/create/stupid_blaze_powder.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/betterwithmine recipe disable/data/betterwithminecolonies/recipes/create/stupid_blaze_powder.json",
                       "sha256":  "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
                       "size":  2
                   },
                   {
                       "path":  "config/paxi/datapacks/betterwithmine recipe disable/data/betterwithminecolonies/recipes/create/stupid_chorus_fruit.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/betterwithmine%20recipe%20disable/data/betterwithminecolonies/recipes/create/stupid_chorus_fruit.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/betterwithmine recipe disable/data/betterwithminecolonies/recipes/create/stupid_chorus_fruit.json",
                       "sha256":  "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
                       "size":  2
                   },
                   {
                       "path":  "config/paxi/datapacks/betterwithmine recipe disable/data/betterwithminecolonies/recipes/create/stupid_dragon_breath.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/betterwithmine%20recipe%20disable/data/betterwithminecolonies/recipes/create/stupid_dragon_breath.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/betterwithmine recipe disable/data/betterwithminecolonies/recipes/create/stupid_dragon_breath.json",
                       "sha256":  "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
                       "size":  2
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/pack.mcmeta",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/pack.mcmeta",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/pack.mcmeta",
                       "sha256":  "4d1b901dd912d205cdb9bf32c987995bf388e1080e96d490a88562355ae990b8",
                       "size":  129
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/ballast.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/core/ballast.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/ballast.json",
                       "sha256":  "3703095923afbeb794aeb40e2205153d138e535547744ac8b1248cd7721c39dd",
                       "size":  2299
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/brawlers.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/core/brawlers.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/brawlers.json",
                       "sha256":  "469653cdd6ae48782a292eb5114b4eaba5210d8ce89af1d647290847590756c6",
                       "size":  2311
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/breach.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/core/breach.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/breach.json",
                       "sha256":  "add7e28fdc453466e44b27617319e14e1b1f7c8a0c62f710e248a178a3a24909",
                       "size":  2284
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/combatant.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/core/combatant.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/combatant.json",
                       "sha256":  "ca5ec113f3bcad3b7d2fcc45a64861c61d76b73098561cd54c04baf2b0a32215",
                       "size":  1920
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/guardian.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/core/guardian.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/guardian.json",
                       "sha256":  "8fca60b51226768e9af9695403701737c1ab65d857d6f3a8822db48d563a3608",
                       "size":  2332
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/lightning.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/core/lightning.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/lightning.json",
                       "sha256":  "a05e7d883b9511bb98045fc018b265ef12878657139ae42a3e635d15faddea2a",
                       "size":  2036
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/lunar.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/core/lunar.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/lunar.json",
                       "sha256":  "f8b6542eab5e863c0746c7e9a9d1f166451b4b94dad3153a9fbfd265dee23547",
                       "size":  1952
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/samurai.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/core/samurai.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/samurai.json",
                       "sha256":  "c7dcd0be43e61776c53bd97fb73c393793695567f3230d822d482daca6f00cff",
                       "size":  2725
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/slipstream.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/core/slipstream.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/slipstream.json",
                       "sha256":  "8681993e8c2252f7d8ff9a4efbb298d4ca9382d071daacae8c4009a44d71fc62",
                       "size":  2009
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/solar.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/core/solar.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/solar.json",
                       "sha256":  "f1588687d0e850e2b28520bfb376f288a8c9a64da254f5d88d54ff6c1f847dee",
                       "size":  1940
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/splendor.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/core/splendor.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/splendor.json",
                       "sha256":  "b1244f22ae522d0b3dd05b81c1f355051bdbdaf3cb44d0192e6d9c3040d9e0ce",
                       "size":  2064
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/tyrannical.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/core/tyrannical.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/tyrannical.json",
                       "sha256":  "7113f6d972f564e16e3de1d89f4356a9c407bb18661d1d95abd04fd94ec1c9a9",
                       "size":  2374
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/warlord.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/core/warlord.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/core/warlord.json",
                       "sha256":  "81d8b3e197a9a582fd19b5a61c9c2ce7a9494dd11204878b360763879d9f63b1",
                       "size":  2360
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/overworld/earth.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/overworld/earth.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/overworld/earth.json",
                       "sha256":  "d0425ba1d79791606d19bd9435efb9c510e185cddc072591b2af57947f3656fd",
                       "size":  1902
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/overworld/royalty.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/overworld/royalty.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/overworld/royalty.json",
                       "sha256":  "e25d5fafad672d78c1d1392d570c5a63a0f300208aa86b2b6abf2ba497ea2a3c",
                       "size":  44
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/the_nether/blood_lord.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/the_nether/blood_lord.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/the_nether/blood_lord.json",
                       "sha256":  "b1337539602fef1fa2f34b7c3ce54343bb77b08368f4483f6fa97963bb88946c",
                       "size":  3311
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/the_nether/inferno.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/the_nether/inferno.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/the_nether/inferno.json",
                       "sha256":  "61f3490dce8da57ee07aca9bd233a3d0e0437c732a4642fcc4bd1f0df461e2af",
                       "size":  2570
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/twilight/queen.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheosis/gems/twilight/queen.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheosis/gems/twilight/queen.json",
                       "sha256":  "7b8b537369410ba5b8fe9e02aed83179bfac9a97e40f7f9839238b093a57cabe",
                       "size":  2466
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/aether/aether.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/aether/aether.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/aether/aether.json",
                       "sha256":  "0de0215af8ceb0c293f7f0a4aa983ff2b814d676820c6b64ef68750d4d7b9ae5",
                       "size":  1727
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/aether/purity.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/aether/purity.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/aether/purity.json",
                       "sha256":  "1aa6b5e334d37d2869faeb0edc366349ff431b6905ec070613ce5e3869bdd916",
                       "size":  1197
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/aether/zanite_alchemist.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/aether/zanite_alchemist.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/aether/zanite_alchemist.json",
                       "sha256":  "f03ac62f422cb727215fcd547134f996f7cc45b6159681dfe1c96cf66b7ab749",
                       "size":  622
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/blue_skies/blue_skies.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/blue_skies/blue_skies.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/blue_skies/blue_skies.json",
                       "sha256":  "4eb5798fa83d9f98d5bf94ed3190aa69083da14098c5aacb5d403775893f86ed",
                       "size":  2176
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/curios/reinforced.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/curios/reinforced.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/curios/reinforced.json",
                       "sha256":  "fe3d225594f862ab1878072d42eaa1e61c406daf7c2dec5756be65d001e2845e",
                       "size":  1060
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/curios/twisted.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/curios/twisted.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/curios/twisted.json",
                       "sha256":  "b22ec94463c22d54cb98514b1d68c9cc786a432782216d315f27dfc5397d6f83",
                       "size":  1711
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/curios/vitalic.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/curios/vitalic.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/curios/vitalic.json",
                       "sha256":  "82a7e12c8cef7251716c75ba6f9894bbe5e877b4c06f2e4570c05ebb4c8b7135",
                       "size":  731
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/modded/armor.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/modded/armor.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/modded/armor.json",
                       "sha256":  "19d0654a29dd9b0b7c87b721a43ed9da7e6a66d5ee7d05545d19375169262374",
                       "size":  1648
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/modded/ars_mana.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/modded/ars_mana.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/modded/ars_mana.json",
                       "sha256":  "ee82d789c1b3677f2edb92f28055af8530463b4732de92fa942f6a55437e9f4c",
                       "size":  2321
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/modded/bloodcaster.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/modded/bloodcaster.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/modded/bloodcaster.json",
                       "sha256":  "fbae775224c3a0251917d9354525760010b21c2439c30bdbbed5e450c2661773",
                       "size":  2770
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/modded/hearty.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/modded/hearty.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/modded/hearty.json",
                       "sha256":  "783864c2d5ea6ef52a940a5d09cbb78a04e5950cbf2473bbc555ef355423f169",
                       "size":  1649
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/modded/mystic.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/modded/mystic.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/modded/mystic.json",
                       "sha256":  "ec8907b0d22c1eedf6d886aa032d5d571ae4e8bae32186b5d8a931150a7b81ef",
                       "size":  2448
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/modded/safari.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/modded/safari.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/modded/safari.json",
                       "sha256":  "40df9eb8a6c91ee84187edbbbc51c14a2d9bd4c4e2bb399ee87b7ba0e0b62993",
                       "size":  3249
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/twilight/umbral_matrimony.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/twilight/umbral_matrimony.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/twilight/umbral_matrimony.json",
                       "sha256":  "774dd2236a29f5fc85bec7e497b115936e33a64fa02738a9b062842842adfe56",
                       "size":  1902
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/twilight/wildheart.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/twilight/wildheart.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/twilight/wildheart.json",
                       "sha256":  "14467e31ea3921e13885d2300f23c7404360e4a819b2c68319e3627ea84d07de",
                       "size":  2159
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/undergarden/decay.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/undergarden/decay.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/undergarden/decay.json",
                       "sha256":  "cd7dbd51b052c8aae710c72d876a13b426f471fa97cd1b9d837aef9bcc6bef1f",
                       "size":  2122
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/undergarden/undergarden.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apotheotic_additions/gems/undergarden/undergarden.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apotheotic_additions/gems/undergarden/undergarden.json",
                       "sha256":  "73156cf91416ad8c33bf9af1a3865889a119694c232f485542b78fdd8b607c54",
                       "size":  2241
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/agile.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/agile.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/agile.json",
                       "sha256":  "2a1c765ea1da18331bc07922a713abf3d6c500c131b41ffac63961918641afd7",
                       "size":  1241
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/berserking.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/berserking.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/berserking.json",
                       "sha256":  "0e654dc71d1e5c60d9cfedf95d581028eeb9d21625ff3fb7f22a0b499dce6abc",
                       "size":  1243
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/blessed.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/blessed.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/blessed.json",
                       "sha256":  "e12764c333bbc216364d29feec25a9a2576b36601c21c722bd74a81df3acd02e",
                       "size":  1169
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/destructive.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/destructive.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/destructive.json",
                       "sha256":  "3c246cd25148e96d1d14fa2727686aa3eca91788a2b0ea090c9c9f8f2cab3cbc",
                       "size":  1251
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/elven.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/elven.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/elven.json",
                       "sha256":  "4b829b2f4f6e7ec6bf2bdc331fbe4250e74851830407b37541d12967d4e95a10",
                       "size":  1254
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/experienced.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/experienced.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/experienced.json",
                       "sha256":  "683a6585b95a8c0fa3ed163e87893007c611f7e4273bb9b811c0f06780de5304",
                       "size":  1256
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/fortunate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/fortunate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/fortunate.json",
                       "sha256":  "0b943b1de06ea74d70dfb36dc4cfa4e936c08277b9c47df232e485b140b289b2",
                       "size":  1098
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/glacial.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/glacial.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/glacial.json",
                       "sha256":  "4cb42becc87a2e4ce5706fe5a2c81fcf53d62b0734deb69cf256bc8161169f7b",
                       "size":  1164
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/immortal.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/immortal.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/immortal.json",
                       "sha256":  "51668db7dba33d9babb677425a6e09c6e9982f58fa1a2fd8167d722ddc38d6f8",
                       "size":  1622
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/infernal.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/infernal.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/infernal.json",
                       "sha256":  "48a7f33e110809530c3979e014fd7736a24a000f360eeb31f0acce3301db31aa",
                       "size":  1164
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/intricate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/intricate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/intricate.json",
                       "sha256":  "41d0e0b1612a37c19157e09be87ef9d4fb69ea6898c2501b10ccfa1936d744dc",
                       "size":  1250
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/ironforged.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/ironforged.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/ironforged.json",
                       "sha256":  "d2dfd2e83812945a0e708a2507b21f9dba178de31b95bb61fff6227e9072353d",
                       "size":  1219
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/lacerating.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/lacerating.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/lacerating.json",
                       "sha256":  "6c99988ce1f1e12d83c071b3e0d181e6d983af0d510c73f94b0a82a083b316b3",
                       "size":  1245
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/piercing.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/piercing.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/piercing.json",
                       "sha256":  "d9c68593013ded7ed4e39423980709b6df8c0a03557cd70bc3b6f4fb55197473",
                       "size":  1227
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/power_blood.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/power_blood.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/power_blood.json",
                       "sha256":  "04aff9df0736454b05e03a817911ae8fd0a1fef4b2ba698a23781e25c8ab9f53",
                       "size":  1444
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/power_ender.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/power_ender.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/power_ender.json",
                       "sha256":  "ee8e50eccdbbec5a1a0f034ac95d4b11e8aa775a001be0ef6c22e26b2301c7d2",
                       "size":  1444
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/power_evocation.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/power_evocation.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/power_evocation.json",
                       "sha256":  "8691b511d0af503fe63e5515d2104746c62299bc6ae008614e6c67a69cc73bff",
                       "size":  1448
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/power_fire.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/power_fire.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/power_fire.json",
                       "sha256":  "b42398d4230b66ca048994c91dd6720b4a7a248fc80a1e95f1cd88e5899c1cfe",
                       "size":  1443
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/power_holy.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/power_holy.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/power_holy.json",
                       "sha256":  "345d7b1f7965cc5069df5bc96ad1e0305398d860f50f387191b161cb75205410",
                       "size":  1443
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/power_ice.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/power_ice.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/power_ice.json",
                       "sha256":  "ca3e8f8a1d7b6273d6a649b6920216b1d505218a4dfc7d49ddc9a079db22c8c9",
                       "size":  1442
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/power_lightning.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/power_lightning.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/power_lightning.json",
                       "sha256":  "000bc441112f6f88ef903fdee2ae28f48ffb66c8f3562d8a14166771307b5f2b",
                       "size":  1448
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/power_nature.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/power_nature.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/power_nature.json",
                       "sha256":  "5190b1290ddb844365a8b579330525ea552aba9186ad8f992bfe5503e0b092d6",
                       "size":  1445
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/sourcetouched.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/sourcetouched.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/sourcetouched.json",
                       "sha256":  "d8ade7d40fc665a7c86aa577ea35c7fabcfb8443e73f0bad3538203c8261c867",
                       "size":  1312
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/spellbreaking.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/spellbreaking.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/spellbreaking.json",
                       "sha256":  "9a3cabbce55cccda8ca7b481da4e9bbad3f15acfd52d03c7737bb133aec6f34d",
                       "size":  1096
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/spiritual.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/spiritual.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/spiritual.json",
                       "sha256":  "73987fdecf81f942c7605b4baced31089f77702152ab575b5e16159d5c980da3",
                       "size":  1121
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/steel_touched.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/steel_touched.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/steel_touched.json",
                       "sha256":  "7eef1a80249781ee16875dba58a69fdcf3af9332ffe572569f34dfe32f79d81d",
                       "size":  1105
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/streamlined.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/streamlined.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/streamlined.json",
                       "sha256":  "114d5927e7d7cadad01ea04892f51c7958b04100250a6db04869a3fc489da2cb",
                       "size":  1257
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/summon.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/summon.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/summon.json",
                       "sha256":  "a3bb00610a4a08838cf1b9f0ecb131b6c987361d00b201c2f05e944e836a5661",
                       "size":  1421
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/violent.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/attribute/violent.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/attribute/violent.json",
                       "sha256":  "be4f0b75a60d4f9e60eff0bebcba9a58eeeca31cca2bbd1e7990a590932cab1a",
                       "size":  1233
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/dmg_reduction/blockading.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/dmg_reduction/blockading.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/dmg_reduction/blockading.json",
                       "sha256":  "4f98a09c641941ab749b1d1052ed63c23448aaa289ca66a449f98c2202e4b402",
                       "size":  1074
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/dmg_reduction/dwarven.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/dmg_reduction/dwarven.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/dmg_reduction/dwarven.json",
                       "sha256":  "9f0b2a231dda08b7d3f57699dc05e344d707f3880ee213a3b36a0edb02f38e18",
                       "size":  1072
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/dmg_reduction/runed.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/dmg_reduction/runed.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/dmg_reduction/runed.json",
                       "sha256":  "6b8db6dfa05690e4102486b1839a324c5b3744e854933c68d1688233a5f7c971",
                       "size":  1071
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/abyssal_curse.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/mob_effect/abyssal_curse.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/abyssal_curse.json",
                       "sha256":  "36e4a36582aacbd3220bbaccce9758322e76266bcc839dfa96d987f858f6076c",
                       "size":  1479
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/acidic.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/mob_effect/acidic.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/acidic.json",
                       "sha256":  "c608b892b22f30aeb924c838a92d90810ae2867cbaf2182ccbb7cc2c8d3b050d",
                       "size":  1150
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/blazing_brand.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/mob_effect/blazing_brand.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/blazing_brand.json",
                       "sha256":  "8f3f07a7fe98fbeaf09f94fe03b1f9c87e6ff5ef8289406d2a0a3ec1bf075567",
                       "size":  1479
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/bolstering.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/mob_effect/bolstering.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/bolstering.json",
                       "sha256":  "39733bfe14f06b47848bd21d5b7cecc69cbe1768e3eabadac72a019bede91714",
                       "size":  1497
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/ensnaring.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/mob_effect/ensnaring.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/ensnaring.json",
                       "sha256":  "c617b721d55106214df4fb365b571725aef06fb854f12279946748e0f242595e",
                       "size":  1448
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/ivy_laced.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/mob_effect/ivy_laced.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/ivy_laced.json",
                       "sha256":  "fb2ac4b406db3a5a1350999be352ed3cf44a7f7588a4a2c02384e96012fec0d2",
                       "size":  1345
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/nimble.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/mob_effect/nimble.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/nimble.json",
                       "sha256":  "d69d14c1d3c04dffe02746737af9c88247543655c598c23ac836d3b6917dccb3",
                       "size":  1471
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/revitalizing.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/mob_effect/revitalizing.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/revitalizing.json",
                       "sha256":  "e0fc333909a7432ef2d397f13c86a976735493dd50fca21de62cf92df9504a50",
                       "size":  1268
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/satanic.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Affix%20settings/data/apothiccurios/affixes/apothcurios/mob_effect/satanic.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Affix settings/data/apothiccurios/affixes/apothcurios/mob_effect/satanic.json",
                       "sha256":  "8c065a4e657705a316824b4271f48b1c11809da8092036073e5ad5c022c8cfa9",
                       "size":  1148
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Gateways/pack.mcmeta",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Gateways/pack.mcmeta",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Gateways/pack.mcmeta",
                       "sha256":  "9bf45903ea663a3f27ecea91c9acd6fcbe6d08acca12ca328639d3de7e8932b4",
                       "size":  92
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Gateways/data/gateways/large_cataclysm_gate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Gateways/data/gateways/large_cataclysm_gate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Gateways/data/gateways/large_cataclysm_gate.json",
                       "sha256":  "6dde052ba229e895256e963a3ed223c44ea6a015e558f132f0113bcf4150ea37",
                       "size":  7625
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Gateways/data/gateways/gateways/cisco_ultra_gate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Gateways/data/gateways/gateways/cisco_ultra_gate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Gateways/data/gateways/gateways/cisco_ultra_gate.json",
                       "sha256":  "2867ef979d39a574a36bdc29a74bf0120450d3166d9cf1cf7b2861d67138bdba",
                       "size":  4279
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Gateways/data/gateways/gateways/large_cataclysm_gate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Gateways/data/gateways/gateways/large_cataclysm_gate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Gateways/data/gateways/gateways/large_cataclysm_gate.json",
                       "sha256":  "5f7e9a20ff4f6b5011698a5661b8772ef7246bdb0daa81c5f50ad1d9e7f30911",
                       "size":  7658
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Gateways/data/gateways/recipes/cisco_ultra_gate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Gateways/data/gateways/recipes/cisco_ultra_gate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Gateways/data/gateways/recipes/cisco_ultra_gate.json",
                       "sha256":  "694d892038bc600cd2edadcece68a1e2a61635e36a5d5bb9579cbbac6b3db291",
                       "size":  335
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Gateways/data/gateways/recipes/large_cataclysm_gate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Gateways/data/gateways/recipes/large_cataclysm_gate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Gateways/data/gateways/recipes/large_cataclysm_gate.json",
                       "sha256":  "18a6b71f12fbd03c86247fa7ef6c2f1bd97e3ce2363365e2bd0b40d1a8399843",
                       "size":  342
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Gem Addition/pack.mcmeta",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Gem%20Addition/pack.mcmeta",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Gem Addition/pack.mcmeta",
                       "sha256":  "bdea1f1ec65214ff3fed0b161eb6589393ae7721ddf005837f491e94e2b23aca",
                       "size":  147
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Gem Addition/data/apotheosis/gems/divinity.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Gem%20Addition/data/apotheosis/gems/divinity.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Gem Addition/data/apotheosis/gems/divinity.json",
                       "sha256":  "7dade1757df957a1123446ed98b345911fb35eff028582c69c2ed54d493a01bd",
                       "size":  1540
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Gem Addition/data/apotheosis/gems/fell_corruption.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Gem%20Addition/data/apotheosis/gems/fell_corruption.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Gem Addition/data/apotheosis/gems/fell_corruption.json",
                       "sha256":  "6f8facc39d2096044fcbf96f195a75d01ca66428f93977c68fa39bf98a11585c",
                       "size":  1545
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Gem Addition/data/irons_spellbooks/gems/eldritch.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Gem%20Addition/data/irons_spellbooks/gems/eldritch.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Gem Addition/data/irons_spellbooks/gems/eldritch.json",
                       "sha256":  "245f38032f1e03771f28d534981f272283d20f96e4facb49da5b29e7a7c4f1ac",
                       "size":  1515
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Leveling Loot/pack.mcmeta",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Leveling%20Loot/pack.mcmeta",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Leveling Loot/pack.mcmeta",
                       "sha256":  "a711431f5f002c48010fc04131cd461bb1aa9dca7df7be6a1b020bba1280a5a5",
                       "size":  106
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Leveling Loot/data/autoleveling/loot_tables/gameplay/leveled_mobs.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Leveling%20Loot/data/autoleveling/loot_tables/gameplay/leveled_mobs.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Leveling Loot/data/autoleveling/loot_tables/gameplay/leveled_mobs.json",
                       "sha256":  "6b714cf879b84a1a99cd0aa1a4d7134db5379c35dfdeb45e2f7384f17130e178",
                       "size":  3182
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/pack.mcmeta",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/pack.mcmeta",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/pack.mcmeta",
                       "sha256":  "ee1e568d132bf69b21db879ee9e060934590dd82e8ba0ad224166ed525f954fb",
                       "size":  114
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/aether/aether.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/aether/aether.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/aether/aether.json",
                       "sha256":  "8b698dc78f591c94b189f63cc48c9d410242835749f2d090edc95f9a8c4cb3db",
                       "size":  713
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/aether/purity.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/aether/purity.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/aether/purity.json",
                       "sha256":  "3ede62f4270ab31a97bf84165bb39b0cebf13ffed923fdf7b118eeeafd7275ce",
                       "size":  1192
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/aether/zanite_alchemist.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/aether/zanite_alchemist.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/aether/zanite_alchemist.json",
                       "sha256":  "f03ac62f422cb727215fcd547134f996f7cc45b6159681dfe1c96cf66b7ab749",
                       "size":  622
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/blue_skies/blue_skies.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/blue_skies/blue_skies.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/blue_skies/blue_skies.json",
                       "sha256":  "fea7494a9c72d10f3cae5ad224f3fbfb4be28744766749e65be148ee471c9d15",
                       "size":  1117
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/blue_skies/horizonite_alchemist.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/blue_skies/horizonite_alchemist.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/blue_skies/horizonite_alchemist.json",
                       "sha256":  "71a4adea3f62e9b23de369ea28e1edc07ad31d9df39cc90529f03e9fa55a38ee",
                       "size":  657
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/blue_skies/ventium_alchemist.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/blue_skies/ventium_alchemist.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/blue_skies/ventium_alchemist.json",
                       "sha256":  "caab98d41a53870172fcaa2b15b4c3b6e1d7cef1ca048731a38dda3d5c0c8960",
                       "size":  654
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/archmage.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/modded/archmage.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/archmage.json",
                       "sha256":  "548e236b53d5ec90011d8487aa1b6bc3ced84ee249b55c6d32a30c9c98688155",
                       "size":  1498
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/armor.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/modded/armor.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/armor.json",
                       "sha256":  "0876464c181ff9acfad1f12469da628820bf9947c776e0f8677ef688d6cad687",
                       "size":  552
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/ars_mana.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/modded/ars_mana.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/ars_mana.json",
                       "sha256":  "b5aa1ee7fdcec92b229e99c3b011eae2bff2c1058a76883568f1cbc335e8b692",
                       "size":  1214
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/bloodcaster.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/modded/bloodcaster.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/bloodcaster.json",
                       "sha256":  "242343ace7ecc1e9ad501977da25ad71b7c2f1320b5176521e3af40ad073f299",
                       "size":  1716
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/cataclysm.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/modded/cataclysm.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/cataclysm.json",
                       "sha256":  "5c9910abf7c7b2e26a4219b847e0b582640f4f764f1a2289b2a8d1c02aedbbb7",
                       "size":  1934
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/corrupted.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/modded/corrupted.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/corrupted.json",
                       "sha256":  "a36d16c662f55e5d59714914478798b49c7088e59936b12063e4c814a1718ba5",
                       "size":  1172
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/dracula.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/modded/dracula.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/dracula.json",
                       "sha256":  "c76cfb86497289e11f20b570a2a4b2586b19f0cac3ca9f9657ef707ab23f2ca3",
                       "size":  2354
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/felfire.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/modded/felfire.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/felfire.json",
                       "sha256":  "9271feb74589334571299871342d45f6235cda70f41d383a91b71428ce4f28b4",
                       "size":  2630
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/hearty.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/modded/hearty.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/hearty.json",
                       "sha256":  "58603e6d65c1929ac2f8c481369642dd2dee71efd22cc08e29f0c67dd262d769",
                       "size":  558
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/mystic.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/modded/mystic.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/mystic.json",
                       "sha256":  "99514b8db57b40f2f14897040576ffa199e966d8fe377f44c3a85774629d1741",
                       "size":  1460
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/rat_chef.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/modded/rat_chef.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/rat_chef.json",
                       "sha256":  "0c0ed704216fd0d0cbfb9fbfe0d70ad99cd305a258cc11539ffd862f188fe5a1",
                       "size":  3864
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/safari.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/modded/safari.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/safari.json",
                       "sha256":  "aea7c25b284b11fdae113b9f7fac75a4ff868c73cdc7874aace51412cbd9889c",
                       "size":  2194
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/soultwisted.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/modded/soultwisted.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/soultwisted.json",
                       "sha256":  "1754f6eabaceb0b0f9e4e7ed37d9410b6633c55f23e879090e1820dee9f62bd8",
                       "size":  3168
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/witherstorm.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/modded/witherstorm.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/modded/witherstorm.json",
                       "sha256":  "ea4f45cae573ea799be88f196cce3847bd6d93e810049140a3b61b7d55a3034c",
                       "size":  2380
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/undergarden/decay.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/undergarden/decay.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/undergarden/decay.json",
                       "sha256":  "927ce189507868cca85ea9a1bb7aebf00ee8cc329c86523fd5bed56990e0a195",
                       "size":  1197
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/undergarden/undergarden.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Buff/data/apotheotic_additions/gems/undergarden/undergarden.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Buff/data/apotheotic_additions/gems/undergarden/undergarden.json",
                       "sha256":  "660927013dfbf2c4cbbb93ccd01a28ea5b69db58b0c6ea2cdf1f6cc1afe62182",
                       "size":  1235
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/pack.mcmeta",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Iron%20Spells/pack.mcmeta",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/pack.mcmeta",
                       "sha256":  "fdc1cb0aa494abf3fe2f57d673126b92c011411c18bfb88bbdbb10fe9bf11e5c",
                       "size":  126
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/blood.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Iron%20Spells/data/irons_spellbooks/gems/blood.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/blood.json",
                       "sha256":  "85c6759b0b34c50cc7d4fb320b8e2a6b1c5ca25eb165ec457c484e784f99f392",
                       "size":  1509
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/cast_time.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Iron%20Spells/data/irons_spellbooks/gems/cast_time.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/cast_time.json",
                       "sha256":  "e78107c18475d28070746481832a986c569d37054f00cd976f71943be1b8560c",
                       "size":  1519
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/cooldown.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Iron%20Spells/data/irons_spellbooks/gems/cooldown.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/cooldown.json",
                       "sha256":  "dfbd68906f23eaa5f8a42cce108be870a46af60e41ede7421246bac06279d03e",
                       "size":  1517
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/ender.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Iron%20Spells/data/irons_spellbooks/gems/ender.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/ender.json",
                       "sha256":  "bd95812d662100b6af25a257bac1e1da6dbda19a7d718646c6938c490c29bdee",
                       "size":  1509
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/evocation.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Iron%20Spells/data/irons_spellbooks/gems/evocation.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/evocation.json",
                       "sha256":  "bdbc148845b898f174aa0d57d861594165655a868515af04c7cd9e0fbb6a34df",
                       "size":  1517
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/fire.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Iron%20Spells/data/irons_spellbooks/gems/fire.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/fire.json",
                       "sha256":  "b6309acb158e31dfbf94e858f6fbf0085c9ce0425b6a254e79e23aba78ea383e",
                       "size":  1507
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/holy.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Iron%20Spells/data/irons_spellbooks/gems/holy.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/holy.json",
                       "sha256":  "9aeef8a0a0a89d3b3d1b2b3d41243c3a70ff36f9fd06788185aa96dcbcb34aaf",
                       "size":  1507
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/ice.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Iron%20Spells/data/irons_spellbooks/gems/ice.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/ice.json",
                       "sha256":  "85863aaa3480af4cbee0257233320fde0f2a5fe0a4a0f923b8b4364daf604655",
                       "size":  1505
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/intelligent.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Iron%20Spells/data/irons_spellbooks/gems/intelligent.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/intelligent.json",
                       "sha256":  "6fb30fc19ff555d598f8875f32a70cb1c89931cea656c662041631d10fb72368",
                       "size":  1497
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/lightning.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Iron%20Spells/data/irons_spellbooks/gems/lightning.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/lightning.json",
                       "sha256":  "e2bc8094450b84321c9862f44774c7d88d6b936bcb90c922813c02154fe7331e",
                       "size":  1517
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/nature.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Iron%20Spells/data/irons_spellbooks/gems/nature.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/nature.json",
                       "sha256":  "7a96aaee9729a083282347bdfd13031ae946082b7dfee506040de442eccd0949",
                       "size":  1511
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/spell_resist.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Iron%20Spells/data/irons_spellbooks/gems/spell_resist.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/spell_resist.json",
                       "sha256":  "9467108cf6b97507c1f32322f9e6609688ba3a54948fb07458cc623cdbad4761",
                       "size":  1492
                   },
                   {
                       "path":  "config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/summoning.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco%20Rpg%20Spell%20Power%20Iron%20Spells/data/irons_spellbooks/gems/summoning.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Cisco Rpg Spell Power Iron Spells/data/irons_spellbooks/gems/summoning.json",
                       "sha256":  "207e2c31179d9fee55b75acefef59726c9b6587f892a19d672806a4f42f2aec6",
                       "size":  1511
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/pack.mcmeta",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/pack.mcmeta",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/pack.mcmeta",
                       "sha256":  "f590f550797911a73495b580d0d42bf8672f4602e391af308e392f104123c090",
                       "size":  218
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/blaze_gate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/blaze_gate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/blaze_gate.json",
                       "sha256":  "e44751a58177b98993984e9eab78b59057ebad67102f0e3d93595951bf745783",
                       "size":  7187
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/blaze_gate_large.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/blaze_gate_large.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/blaze_gate_large.json",
                       "sha256":  "bccfd4ffa3fe008995aa9297f7443f16cb89045bde2a7309952adf13b2f4abce",
                       "size":  8943
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/blaze_gate_small.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/blaze_gate_small.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/blaze_gate_small.json",
                       "sha256":  "0d7a4342187c52bc0037d169328f8debe98ab1f7aefc7c59b14a8271a0f9791a",
                       "size":  6625
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/creeper_gate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/creeper_gate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/creeper_gate.json",
                       "sha256":  "709ca61066e6cac960cef5a339709580cfcfd980f0abda37ee83656db0a5a540",
                       "size":  7244
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/creeper_gate_large.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/creeper_gate_large.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/creeper_gate_large.json",
                       "sha256":  "a7311783fc252260a885acf5ca5134879868ce5099fdc992a7b303f18ded2a9e",
                       "size":  9215
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/creeper_gate_small.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/creeper_gate_small.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/creeper_gate_small.json",
                       "sha256":  "cdce768a924b0ef4cf8f9d8f298f560906b1289fef4ad048f3668e69e890cbe3",
                       "size":  6668
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/enderman_gate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/enderman_gate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/enderman_gate.json",
                       "sha256":  "16fe226ed2283ee841b0122d35e50901385a1c5923febbc19d61a90ef38eb8aa",
                       "size":  7297
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/enderman_gate_large.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/enderman_gate_large.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/enderman_gate_large.json",
                       "sha256":  "402ead9b6e191b318cdd2b55f5646d4d4d00a8bc97e8e03be1f7c1fc1922e37d",
                       "size":  9113
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/enderman_gate_small.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/enderman_gate_small.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/enderman_gate_small.json",
                       "sha256":  "5b540b15e6362adf99c7c1f05470bb198c9f7066bf5da2706d59d50ce18bf222",
                       "size":  6714
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/ghast_gate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/ghast_gate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/ghast_gate.json",
                       "sha256":  "8dd49c29157de827d0765585f983ee153f19faa75e96464dc7c32c220920190b",
                       "size":  7207
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/ghast_gate_large.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/ghast_gate_large.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/ghast_gate_large.json",
                       "sha256":  "b361e31622312a1948ba155edc806b0698317696a4ed20624eaa7989429477f1",
                       "size":  8963
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/ghast_gate_small.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/ghast_gate_small.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/ghast_gate_small.json",
                       "sha256":  "74712a00d88985ac4d181f289710193c3ae85dc5bbf8abe384b054d0cdbc10a4",
                       "size":  6645
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/magma_cube_gate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/magma_cube_gate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/magma_cube_gate.json",
                       "sha256":  "915f176e25d9a42381e5a063751849ec0f38d590dca11adbb3c934f293386cb4",
                       "size":  7503
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/magma_cube_gate_large.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/magma_cube_gate_large.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/magma_cube_gate_large.json",
                       "sha256":  "65073e2fd7f9e9f59e6d4a4b6479ce697354448c57e50faf4af81e2f31d9ba37",
                       "size":  9359
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/magma_cube_gate_small.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/magma_cube_gate_small.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/magma_cube_gate_small.json",
                       "sha256":  "463471a9c5caa3b52be7c14c7a721796cb3c800c62973e5993e073a20a06e790",
                       "size":  6906
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/shulker_gate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/shulker_gate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/shulker_gate.json",
                       "sha256":  "cb81c2a2597e5b0ac09ea2b68360ab05ab997d990bbae4edf2da9facd2ed43d6",
                       "size":  7247
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/shulker_gate_large.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/shulker_gate_large.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/shulker_gate_large.json",
                       "sha256":  "81352f0a98fe0a1d4f570fd989d7eb3d1ba678fedca85bacc764694fa91abaf8",
                       "size":  9043
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/shulker_gate_small.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/shulker_gate_small.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/shulker_gate_small.json",
                       "sha256":  "a7ecd8d15021726b59831c706d4bb253d8c122d2294975c1a556f1acbfb35142",
                       "size":  6671
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/skeleton_gate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/skeleton_gate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/skeleton_gate.json",
                       "sha256":  "1cf41aa9d9e756cf8ca97f1c5cc155fc798c7f3cf14e420f430ee7ece2bc75f8",
                       "size":  7277
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/skeleton_gate_large.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/skeleton_gate_large.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/skeleton_gate_large.json",
                       "sha256":  "9dab2901cc85da47df5bba97505e37095ea5d3ced6e7d970b3bc3d7a08e2516c",
                       "size":  9093
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/skeleton_gate_small.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/skeleton_gate_small.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/skeleton_gate_small.json",
                       "sha256":  "46e0ef3a2ed37db919096d18d4c28600d7c52821c145c30fe18be1b8703c21e4",
                       "size":  6694
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/slime_gate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/slime_gate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/slime_gate.json",
                       "sha256":  "7f842c1ee8f2c25220ae044e862bd9e7249000f2d35b4adcee36d7b64b6d59c9",
                       "size":  7353
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/slime_gate_large.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/slime_gate_large.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/slime_gate_large.json",
                       "sha256":  "adc3f20bd3caa5b7330d419eb136ee69c62a92cd72708499013b41d86043f2cb",
                       "size":  9138
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/slime_gate_small.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/slime_gate_small.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/slime_gate_small.json",
                       "sha256":  "ad2b86051e6cb06ec6d455067d8c8d1eff8d84bdf98448308bc75d6bc044c607",
                       "size":  6791
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/spider_gate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/spider_gate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/spider_gate.json",
                       "sha256":  "04b3bf02f38173bd9e6389c7ba58bed221ff6b997561e65325a837970b460897",
                       "size":  7217
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/spider_gate_large.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/spider_gate_large.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/spider_gate_large.json",
                       "sha256":  "af740397491cc1ec9a2b5214a13d7568039408c4fd02e443e67d26f23ee5f60b",
                       "size":  8993
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/spider_gate_small.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/spider_gate_small.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/spider_gate_small.json",
                       "sha256":  "a2c31559c8310eb36308edc3422a45b5b03434c3bf7d5cc56c000c6cdc364d70",
                       "size":  6648
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/witch_gate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/witch_gate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/witch_gate.json",
                       "sha256":  "884bd7bb291b16132492182c0ff85a085e8d1a9bd4943450cd67185503d2464d",
                       "size":  7187
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/witch_gate_large.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/witch_gate_large.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/witch_gate_large.json",
                       "sha256":  "6f13a8334a5baf623094e7b03583c5f5289831e3852da63eef63f460000650b2",
                       "size":  8943
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/witch_gate_small.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/witch_gate_small.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/witch_gate_small.json",
                       "sha256":  "e6c7037f45042d8dd944362debaaed2f5bd754580be8f79e9bd1efa582b54820",
                       "size":  6625
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/zombie_gate.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/zombie_gate.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/zombie_gate.json",
                       "sha256":  "2a4082e2d23718e9be83217a5aeede4d2058b1fb9d6cec3497b5d03252e24643",
                       "size":  7195
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/zombie_gate_large.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/zombie_gate_large.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/zombie_gate_large.json",
                       "sha256":  "dffd69da58b346021aae54b2964f07555117fec75ba3026809cee8a2cf3fa545",
                       "size":  8955
                   },
                   {
                       "path":  "config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/zombie_gate_small.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg%20Gateway%20Fix/data/gateways/gateways/zombie_gate_small.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/CiscoRpg Gateway Fix/data/gateways/gateways/zombie_gate_small.json",
                       "sha256":  "6b3eaeb2d0cb12e259269a48fcb9ff757a60e21393599a8263ef6386f549f45a",
                       "size":  6644
                   },
@@ -5799,37 +5799,37 @@
                   },
                   {
                       "path":  "config/paxi/datapacks/Gem of the Royal Fam Anti OP/pack.mcmeta",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Gem%20of%20the%20Royal%20Fam%20Anti%20OP/pack.mcmeta",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Gem of the Royal Fam Anti OP/pack.mcmeta",
                       "sha256":  "1f4fd5b46eca2ba3bd8eab2c900c3bd83d73fb8ee35493f17255b9313577fa9d",
                       "size":  110
                   },
                   {
                       "path":  "config/paxi/datapacks/Gem of the Royal Fam Anti OP/pack.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Gem%20of%20the%20Royal%20Fam%20Anti%20OP/pack.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Gem of the Royal Fam Anti OP/pack.png",
                       "sha256":  "178352f176d7e68a062a95e5c6240ee6b1a7ee1bd9378b925a0bc071b6845814",
                       "size":  9477
                   },
                   {
                       "path":  "config/paxi/datapacks/Gem of the Royal Fam Anti OP/data/apotheosis/gems/core/tyrannical.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Gem%20of%20the%20Royal%20Fam%20Anti%20OP/data/apotheosis/gems/core/tyrannical.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Gem of the Royal Fam Anti OP/data/apotheosis/gems/core/tyrannical.json",
                       "sha256":  "e25d5fafad672d78c1d1392d570c5a63a0f300208aa86b2b6abf2ba497ea2a3c",
                       "size":  44
                   },
                   {
                       "path":  "config/paxi/datapacks/Gem of the Royal Fam Anti OP/data/apotheosis/gems/overworld/royalty.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Gem%20of%20the%20Royal%20Fam%20Anti%20OP/data/apotheosis/gems/overworld/royalty.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Gem of the Royal Fam Anti OP/data/apotheosis/gems/overworld/royalty.json",
                       "sha256":  "e25d5fafad672d78c1d1392d570c5a63a0f300208aa86b2b6abf2ba497ea2a3c",
                       "size":  44
                   },
                   {
                       "path":  "config/paxi/datapacks/Gem of the Royal Fam Anti OP/data/apotheotic_additions/gems/aether/aether.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Gem%20of%20the%20Royal%20Fam%20Anti%20OP/data/apotheotic_additions/gems/aether/aether.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Gem of the Royal Fam Anti OP/data/apotheotic_additions/gems/aether/aether.json",
                       "sha256":  "0de0215af8ceb0c293f7f0a4aa983ff2b814d676820c6b64ef68750d4d7b9ae5",
                       "size":  1727
                   },
                   {
                       "path":  "config/paxi/datapacks/Gem of the Royal Fam Anti OP/data/apotheotic_additions/gems/aether/purity.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Gem%20of%20the%20Royal%20Fam%20Anti%20OP/data/apotheotic_additions/gems/aether/purity.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Gem of the Royal Fam Anti OP/data/apotheotic_additions/gems/aether/purity.json",
                       "sha256":  "e25d5fafad672d78c1d1392d570c5a63a0f300208aa86b2b6abf2ba497ea2a3c",
                       "size":  44
                   },
@@ -5907,43 +5907,43 @@
                   },
                   {
                       "path":  "config/paxi/datapacks/Lore - Datapack Carpg/pack.mcmeta",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Lore%20-%20Datapack%20Carpg/pack.mcmeta",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Lore - Datapack Carpg/pack.mcmeta",
                       "sha256":  "088ed3e76ae43ebbf980aaff7f51dbb8d06525388b81a2b1085102ba73815032",
                       "size":  178
                   },
                   {
                       "path":  "config/paxi/datapacks/Lore - Datapack Carpg/data/lore/lore_pages/example_book_1.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Lore%20-%20Datapack%20Carpg/data/lore/lore_pages/example_book_1.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Lore - Datapack Carpg/data/lore/lore_pages/example_book_1.json",
                       "sha256":  "568ec30c68a8e44d8e387c0ef122ac9420e6dd0f4f293ef0176acd71a95fc53a",
                       "size":  55
                   },
                   {
                       "path":  "config/paxi/datapacks/Towns and towers structure fix/pack.mcmeta",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Towns%20and%20towers%20structure%20fix/pack.mcmeta",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Towns and towers structure fix/pack.mcmeta",
                       "sha256":  "fc8d23c780a4202943f9bfdaf0959315d33d7300a4793c99fbe11c5ac39740bc",
                       "size":  124
                   },
                   {
                       "path":  "config/paxi/datapacks/Towns and towers structure fix/data/towns_and_towers/worldgen/structure_set/other.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Towns%20and%20towers%20structure%20fix/data/towns_and_towers/worldgen/structure_set/other.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Towns and towers structure fix/data/towns_and_towers/worldgen/structure_set/other.json",
                       "sha256":  "945ce9b457217ecd0b8d7e3cc3ac8b409b640fa63e243259197d10974549372c",
                       "size":  315
                   },
                   {
                       "path":  "config/paxi/datapacks/Towns and towers structure fix/data/towns_and_towers/worldgen/structure_set/towers.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Towns%20and%20towers%20structure%20fix/data/towns_and_towers/worldgen/structure_set/towers.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Towns and towers structure fix/data/towns_and_towers/worldgen/structure_set/towers.json",
                       "sha256":  "74cb13e6b82be3446a6723a732da5553a99fdeecab2acbd89622233120934ffb",
                       "size":  3212
                   },
                   {
                       "path":  "config/paxi/datapacks/Towns and towers structure fix/data/towns_and_towers/worldgen/structure_set/towns.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Towns%20and%20towers%20structure%20fix/data/towns_and_towers/worldgen/structure_set/towns.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/datapacks/Towns and towers structure fix/data/towns_and_towers/worldgen/structure_set/towns.json",
                       "sha256":  "d3cf3fd212cf1c1c4a0efa014d7704802c3af7724cfa454aaf4d2d45143863e4",
                       "size":  2436
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Better Hearts 1.16.5.zip",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Better%20Hearts%201.16.5.zip",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Better Hearts 1.16.5.zip",
                       "sha256":  "c8eda436796f040af4448e5e5c7b1c397f5c26c97649ee0e6059695d46d253c9",
                       "size":  14459
                   },
@@ -5961,361 +5961,361 @@
                   },
                   {
                       "path":  "config/paxi/resourcepacks/STONEBORN - 1.19 - V3.2.1.zip",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/STONEBORN%20-%201.19%20-%20V3.2.1.zip",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/STONEBORN - 1.19 - V3.2.1.zip",
                       "sha256":  "5a692d748b43ff3134f6c6f5b6a61fec16e3e3ba1e697ff2c7175a5d70757d75",
                       "size":  5185397
                   },
                   {
                       "path":  "config/paxi/resourcepacks/STONEBORN-+SBMC+-V3.1-Modded-Compatibility.zip",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/STONEBORN-%2BSBMC%2B-V3.1-Modded-Compatibility.zip",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/STONEBORN-+SBMC+-V3.1-Modded-Compatibility.zip",
                       "sha256":  "9a1e3ef65ed8a46909b99899ea997fb68be30058e48a24ec9e162cc17d18a26c",
                       "size":  7831299
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/pack.mcmeta",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/pack.mcmeta",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/pack.mcmeta",
                       "sha256":  "9bf45903ea663a3f27ecea91c9acd6fcbe6d08acca12ca328639d3de7e8932b4",
                       "size":  92
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/pack.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/pack.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/pack.png",
                       "sha256":  "87d7e85aa5ffddb663df19d8d043d7113ba0d5c3dba00ed47721bea16178eace",
                       "size":  12257
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/models/item/gems/abyssal.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/models/item/gems/abyssal.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/models/item/gems/abyssal.json",
                       "sha256":  "97bd66823dcb87409f9dba7c36390ca5acf719d05cd84a6ea8311b7f516a84d8",
                       "size":  104
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/models/item/gems/divinity.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/models/item/gems/divinity.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/models/item/gems/divinity.json",
                       "sha256":  "dacdd616ac587d73f0fe7c85c42fa2861d0c32a53de081819387d17c8c78d6f7",
                       "size":  105
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/models/item/gems/eldritch.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/models/item/gems/eldritch.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/models/item/gems/eldritch.json",
                       "sha256":  "d7eba29d6ddfd18042ea7573873823fa9f2fce15b340a0e836c98c3504cec1b9",
                       "size":  105
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/models/item/gems/fell_corruption.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/models/item/gems/fell_corruption.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/models/item/gems/fell_corruption.json",
                       "sha256":  "d109424dda19b37cb3ce43904b6b5d74ed5c4bd45d60fb18015f09bc1a9018fd",
                       "size":  112
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/abyssal.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/abyssal.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/abyssal.png",
                       "sha256":  "56e17d5303b5b9f26ac3830995945e3220e260f8e7e37d9df607ed5f66ab8f40",
                       "size":  244
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/blood.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/blood.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/blood.png",
                       "sha256":  "958b07dfc0972a7e863cf1ee257421ed546318a209848c9dc3d9f938dd3ccb4f",
                       "size":  2114
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/cast_time.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/cast_time.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/cast_time.png",
                       "sha256":  "821a0bea622ca3a9ccd4d0a8773ff1f6179bf9cf3e9d9703d151e42f20d63809",
                       "size":  3699
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/cooldown.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/cooldown.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/cooldown.png",
                       "sha256":  "31a092e749532a3e8809010eb8939b331470f7fa9d48b29d6bbf664bbcc07ee0",
                       "size":  3942
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/divinity.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/divinity.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/divinity.png",
                       "sha256":  "f5ff1dddc44522a7a717c1be241863251deefffb83d11b2af8f1e2671786a1e2",
                       "size":  327
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/eldritch.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/eldritch.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/eldritch.png",
                       "sha256":  "649eeb1c7d6737655bbb8197901f85fefe0a8cd87de8c372a586152fa75798c3",
                       "size":  261
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/ender.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/ender.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/ender.png",
                       "sha256":  "d9436ee2a3d1e568130e7555272b6e6118aa235d362ebbfcac70699da313ac76",
                       "size":  3676
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/evocation.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/evocation.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/evocation.png",
                       "sha256":  "29236f7138feea1a8aae55b6c60ced037b82093650c9cf05ddcc5e7b60585e5c",
                       "size":  3703
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/fell_corruption.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/fell_corruption.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/fell_corruption.png",
                       "sha256":  "2cd3ce09b7c8d4c614eea6039ee78211e42daa69d693c16947fb6aa829ba7c4b",
                       "size":  431
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/fire.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/fire.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/fire.png",
                       "sha256":  "85d0b3559d9332a9e43febaece3cb8242aee0abe02f5feb0f3032191dcfb6f87",
                       "size":  3669
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/holy.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/holy.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/holy.png",
                       "sha256":  "329c7c67d95b9556f0eca726bdde1ae8c67528ab1df16b21d29d987da21aee38",
                       "size":  3697
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/ice.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/ice.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/ice.png",
                       "sha256":  "5a11f05c4c7345578b6f339524dca511dafc82cc5761e945a97b827b07dc5276",
                       "size":  2126
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/intelligent.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/intelligent.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/intelligent.png",
                       "sha256":  "f6ba98833d90e6cd198cd94e981c9a3d85ab648d2954e550eb4ba9f0d079ad10",
                       "size":  1937
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/lightning.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/lightning.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/lightning.png",
                       "sha256":  "6d918fbb55258c404ad11d3961451eebda6d71b57a7de5d7459e333b7a5e1521",
                       "size":  3686
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/nature.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/nature.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/nature.png",
                       "sha256":  "8139864c097ed0b484646db8f699a4ac59cf94ba43659d9fcd82b635f2cac86a",
                       "size":  4020
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/spell_resist.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/spell_resist.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/spell_resist.png",
                       "sha256":  "7fa2fdc4f877d5f0d20666e396b74efc84c75b87b7082a008c41360b07a5304d",
                       "size":  3805
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/summoning.png",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheosis/textures/items/gems/summoning.png",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheosis/textures/items/gems/summoning.png",
                       "sha256":  "6dbdafdf9d1265f219b21860ad70e804d5a2c5be29759528a330a8125ea01170",
                       "size":  3882
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apotheotic_additions/lang/en_us.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apotheotic_additions/lang/en_us.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apotheotic_additions/lang/en_us.json",
                       "sha256":  "fb7be4f867142745594316adfcffba1add39e060c3aae42d3b54cb5b733c703e",
                       "size":  51894
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/apothic_curios/lang/en_us.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/apothic_curios/lang/en_us.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/apothic_curios/lang/en_us.json",
                       "sha256":  "963ad9f9f5b9dc001e7d2777c5ed48018d2f658f5e47a53169f7302518f15bf0",
                       "size":  10175
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/af_za.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/af_za.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/af_za.json",
                       "sha256":  "67814f873d051789649a0f9163135683aaa64e58bb63f4d0ad56ae3634325450",
                       "size":  166400
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/ar_sa.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/ar_sa.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/ar_sa.json",
                       "sha256":  "00c63951daf87d304469ade4f817881d83fb800b5226d4163f3434268678f671",
                       "size":  207814
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/ca_es.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/ca_es.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/ca_es.json",
                       "sha256":  "f18624dc1fcc52229dcd561bbe4ca68b3c6658540a27dbcc99323050565d1837",
                       "size":  172509
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/cs_cz.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/cs_cz.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/cs_cz.json",
                       "sha256":  "db05bd98176244f000c9b93356d4cf4a34995efd49c7c686d57a22e9b608121e",
                       "size":  168859
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/da_dk.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/da_dk.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/da_dk.json",
                       "sha256":  "ef66bc98d72a611ab0fdbc3a66169e2180347e4fdd9d8a8286269c4de1763a56",
                       "size":  166607
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/de_de.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/de_de.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/de_de.json",
                       "sha256":  "545f13b569915f4ec0224453cc8de9eb850a50d08f8e4c5c30c37930730e147f",
                       "size":  183053
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/el_gr.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/el_gr.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/el_gr.json",
                       "sha256":  "ad14759b655b5b2a7bd81cd9324b5d2a2b34cded42877df8852ceb53be82f416",
                       "size":  251017
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/en_us.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/en_us.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/en_us.json",
                       "sha256":  "10b58f73a8e12a25458007d195f2999d4fb28b6416fd36dbd8afe95439ecdcf0",
                       "size":  161797
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/es_es.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/es_es.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/es_es.json",
                       "sha256":  "bde91ef2728cf96e8a95020cd7fb07e3e94ae080e7e5ad801f19282119f1e361",
                       "size":  176041
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/fi_fi.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/fi_fi.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/fi_fi.json",
                       "sha256":  "8d41b38dc1f1e9e6edd60d2ac7b9bf7b97862efb90b7d13772592745ec4b12d9",
                       "size":  166855
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/fr_fr.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/fr_fr.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/fr_fr.json",
                       "sha256":  "125837a86315152b698e5eff8f095e4c6d01c4c8ad34cdfcda17152ccd4f68aa",
                       "size":  180780
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/he_il.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/he_il.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/he_il.json",
                       "sha256":  "3e90ca4cbb62eaaaf1f607d8aaa4b1b6b5ee9c05cdfad173dbcdfd4ff1cc5ed9",
                       "size":  191383
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/hu_hu.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/hu_hu.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/hu_hu.json",
                       "sha256":  "c2d5e63627d9e59f8859d18d50877299c99b9618e522f1124c717f821fdec74c",
                       "size":  177070
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/it_it.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/it_it.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/it_it.json",
                       "sha256":  "61790412569beed1f669c7ce71ecd4e2a3ca726a165af654902c4cb10d60e6af",
                       "size":  175903
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/ja_jp.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/ja_jp.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/ja_jp.json",
                       "sha256":  "ba5c7f005f45de3f28335c8bfd34ff9417e5081339b75d459cd3521b8573c023",
                       "size":  200160
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/ko_kr.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/ko_kr.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/ko_kr.json",
                       "sha256":  "8832dd569c31d6458253ceea5b4d8da681a2a6118ed20084d9c7d265f70024b5",
                       "size":  181893
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/nl_nl.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/nl_nl.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/nl_nl.json",
                       "sha256":  "41b215a5dd5088bd3de6aba9e073ec23c3203d40a3db954f7de8e056febe5bdd",
                       "size":  173125
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/no_no.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/no_no.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/no_no.json",
                       "sha256":  "c38e8fd741e3d6f9c2a349c366404f8e111c2bcd0a7ac3af9b7bbcf09a63e59f",
                       "size":  164361
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/pl_pl.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/pl_pl.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/pl_pl.json",
                       "sha256":  "cb9c4f391c99635c88ca64f54124f98586c5c76cbaef08cbffb4c015d56a491c",
                       "size":  173961
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/pt_br.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/pt_br.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/pt_br.json",
                       "sha256":  "7e615877696fa9d73f13ebb68b8f328d693823609f47698f9f45139dec3e6e7e",
                       "size":  173567
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/pt_pt.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/pt_pt.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/pt_pt.json",
                       "sha256":  "d4b6a3285931b189c1969c87b5288159a4fbb363448851485fcd643649844247",
                       "size":  171113
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/ro_ro.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/ro_ro.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/ro_ro.json",
                       "sha256":  "a8c12f701d87c74601815e56ba6947dc5d4a360d86a4f82d1cedeb1da63eaf7b",
                       "size":  174651
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/ru_ru.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/ru_ru.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/ru_ru.json",
                       "sha256":  "52fbfe3cf549e497c7f4c150bbba28decece18369f7f609b1f611a490458ef02",
                       "size":  258172
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/sr_sp.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/sr_sp.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/sr_sp.json",
                       "sha256":  "d94ad67061f7e70c7ba1e62fa09c2860f7b509b4b86b94085b59b9424e25b9cf",
                       "size":  230536
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/sv_se.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/sv_se.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/sv_se.json",
                       "sha256":  "0a4edebae22af7447a8923d50cf12b8e833cf30de810d5f6d5f50bc254ef2b88",
                       "size":  169423
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/tr_tr.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/tr_tr.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/tr_tr.json",
                       "sha256":  "a64373050a593e94897bb5cf8993f83500f415454537c43905201014bc0f0745",
                       "size":  172343
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/uk_ua.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/uk_ua.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/uk_ua.json",
                       "sha256":  "501921e6e7aadb723326185f70ee733a0428743f07e6b1cffcdaacf814f26d8e",
                       "size":  227108
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/vi_vn.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/vi_vn.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/vi_vn.json",
                       "sha256":  "1882e4beeb836c7895cc0fd5b2fc8c18f22ab79483a4ab53b629698f8d280b62",
                       "size":  196837
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/zh_cn.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/zh_cn.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/zh_cn.json",
                       "sha256":  "6f3ccf6d93b17a08cfcddf87fc9d478ad7862d2830a5c700c014af69cdb68c2a",
                       "size":  152801
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/zh_tw.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/ars_nouveau/lang/zh_tw.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/ars_nouveau/lang/zh_tw.json",
                       "sha256":  "7a44bbab5361485081e22db099c65fb16de064d42b72a507a3b345b62cd12e17",
                       "size":  151433
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Carpg Translations/assets/gateways/lang/en_us.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg%20Translations/assets/gateways/lang/en_us.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Carpg Translations/assets/gateways/lang/en_us.json",
                       "sha256":  "a0d9c0359b6a651f84a2ec88d1b88cabaa45a6049aa3b3028b0f6ddd46795950",
                       "size":  4198
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Lore - Resourcepack Carpg/pack.mcmeta",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Lore%20-%20Resourcepack%20Carpg/pack.mcmeta",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Lore - Resourcepack Carpg/pack.mcmeta",
                       "sha256":  "17248923c76cdb5ab0e3401ddabce11b7b34a57c63a0e25b98f0296e2f24438f",
                       "size":  187
                   },
                   {
                       "path":  "config/paxi/resourcepacks/Lore - Resourcepack Carpg/assets/dalore/lang/en_us.json",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Lore%20-%20Resourcepack%20Carpg/assets/dalore/lang/en_us.json",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/config/paxi/resourcepacks/Lore - Resourcepack Carpg/assets/dalore/lang/en_us.json",
                       "sha256":  "2f1c083fb3efa5408c11fc430fb01f19220f48fd0db35f6aad94b1ba1b09e65d",
                       "size":  220
                   },
@@ -19071,7 +19071,7 @@
                   },
                   {
                       "path":  "mods/bettercombat-forge-1.7.1+1.19.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/bettercombat-forge-1.7.1%2B1.19.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/bettercombat-forge-1.7.1+1.19.jar",
                       "sha256":  "a5f36a6bb3d8fb6c25439aa8e0c03248053f30e633c832a3ee29946580a5d72b",
                       "size":  904072
                   },
@@ -19227,7 +19227,7 @@
                   },
                   {
                       "path":  "mods/Clumps-forge-1.19.2-9.0.0+14.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/Clumps-forge-1.19.2-9.0.0%2B14.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/Clumps-forge-1.19.2-9.0.0+14.jar",
                       "sha256":  "ca3441d5f84212a9f7262afc5ea7521257b8b9b378e5882afa845448fe674421",
                       "size":  19083
                   },
@@ -19239,13 +19239,13 @@
                   },
                   {
                       "path":  "mods/combatroll-forge-1.1.5+1.19.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/combatroll-forge-1.1.5%2B1.19.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/combatroll-forge-1.1.5+1.19.jar",
                       "sha256":  "55701feeac67614605ae880be104919289fde7d326eccdd560c42bf9fff86338",
                       "size":  199326
                   },
                   {
                       "path":  "mods/comforts-forge-6.0.7+1.19.2.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/comforts-forge-6.0.7%2B1.19.2.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/comforts-forge-6.0.7+1.19.2.jar",
                       "sha256":  "56f7e3cc69dc7dd18b2eb73c8c9281387976f1bb930cabb9560c3340dca2fb4d",
                       "size":  331918
                   },
@@ -19263,7 +19263,7 @@
                   },
                   {
                       "path":  "mods/Controlling-forge-1.19.2-10.0+7.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/Controlling-forge-1.19.2-10.0%2B7.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/Controlling-forge-1.19.2-10.0+7.jar",
                       "sha256":  "183a25828decbbcf4aec72ff2c3e17e152edd9d54f7a206e39725c5cf1621de0",
                       "size":  117659
                   },
@@ -19335,7 +19335,7 @@
                   },
                   {
                       "path":  "mods/Decorative Blocks-forge-1.19.2-3.0.0.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/Decorative%20Blocks-forge-1.19.2-3.0.0.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/Decorative Blocks-forge-1.19.2-3.0.0.jar",
                       "sha256":  "e18b16562f62d30ec7772d388fd2aebb82c6ab5f337f5beb7b844b995c302028",
                       "size":  512221
                   },
@@ -19413,7 +19413,7 @@
                   },
                   {
                       "path":  "mods/dungeons-and-taverns-2.0.2 forge.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/dungeons-and-taverns-2.0.2%20forge.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/dungeons-and-taverns-2.0.2 forge.jar",
                       "sha256":  "b90796e42eb28afb4963700ff0d1f6675a23379e2e6e3a2e7ea3c9a36094c94b",
                       "size":  7794083
                   },
@@ -19467,7 +19467,7 @@
                   },
                   {
                       "path":  "mods/elytraslot-forge-6.1.2+1.19.2.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/elytraslot-forge-6.1.2%2B1.19.2.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/elytraslot-forge-6.1.2+1.19.2.jar",
                       "sha256":  "a432426d7f8ab7aef41dff39076bfe375bb62ae3721f0004e5a3c77bc38ec9a6",
                       "size":  88019
                   },
@@ -19478,14 +19478,14 @@
                       "size":  63128
                   },
                   {
-                      "path":  "mods/End\u0027s Phantasm - BETAv1.2.10.5 - 1.19.2.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/End7s%20Phantasm%20-%20BETAv1.2.10.5%20-%201.19.2.jar",
+                      "path":  "mods/End's Phantasm - BETAv1.2.10.5 - 1.19.2.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/End's Phantasm - BETAv1.2.10.5 - 1.19.2.jar",
                       "sha256":  "52d4f864f5c7e933042c54041f3e19dbe65d0e47b78796253337f5ef8bbb7472",
                       "size":  969929
                   },
                   {
                       "path":  "mods/EndlessBiomes 1.4s - 1.19.2 (Server-friendly).jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/EndlessBiomes%201.4s%20-%201.19.2%20(Server-friendly).jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/EndlessBiomes 1.4s - 1.19.2 (Server-friendly).jar",
                       "sha256":  "82c522bfcc2d1328803064512143ae4ef5fe8f99fbec9fb000f229a0293b5112",
                       "size":  2820092
                   },
@@ -19533,7 +19533,7 @@
                   },
                   {
                       "path":  "mods/Explorify v1.6.3 f10-88.mod.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/Explorify%20v1.6.3%20f10-88.mod.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/Explorify v1.6.3 f10-88.mod.jar",
                       "sha256":  "1f1d375d6694de42a2d77d51377585eff5e0e69169bdf8c9c0d8827d2708cf36",
                       "size":  756976
                   },
@@ -19671,7 +19671,7 @@
                   },
                   {
                       "path":  "mods/HopoBetterRuinedPortals-[1.19-1.19.3]-1.3.3b.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/HopoBetterRuinedPortals-%5B1.19-1.19.3%5D-1.3.3b.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/HopoBetterRuinedPortals-[1.19-1.19.3]-1.3.3b.jar",
                       "sha256":  "adf309be2641e7f0b4bc764f7caa4f8308c44dde477448b60dc08c7b395dd5df",
                       "size":  330320
                   },
@@ -19689,19 +19689,19 @@
                   },
                   {
                       "path":  "mods/ImmediatelyFast-Forge-1.4.0+1.19.2.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/ImmediatelyFast-Forge-1.4.0%2B1.19.2.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/ImmediatelyFast-Forge-1.4.0+1.19.2.jar",
                       "sha256":  "177f7e2e08cee82c1b89fdda18f99c2c6ad7e7cbeb3b8bdcf804464951026ef6",
                       "size":  416424
                   },
                   {
                       "path":  "mods/immersive_armors-1.5.6+1.19.2-forge.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/immersive_armors-1.5.6%2B1.19.2-forge.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/immersive_armors-1.5.6+1.19.2-forge.jar",
                       "sha256":  "b01dc77c5dbe24d842aecc3fbf371b113323965444bd8724cc003515709bb4c2",
                       "size":  1237151
                   },
                   {
                       "path":  "mods/immersive_paintings-0.6.7+1.19.2-forge.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/immersive_paintings-0.6.7%2B1.19.2-forge.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/immersive_paintings-0.6.7+1.19.2-forge.jar",
                       "sha256":  "29abfda0058f1ec2bf5195ecd9689f9bf8d8c883959eca5175e5b55ae2712cbd",
                       "size":  4842105
                   },
@@ -19917,7 +19917,7 @@
                   },
                   {
                       "path":  "mods/mcsa-forge-3.1.4+1.19.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/mcsa-forge-3.1.4%2B1.19.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/mcsa-forge-3.1.4+1.19.jar",
                       "sha256":  "17ee7be8fd55b87df91dd9f63126cd9f73be33a883c58e70177b10baa410ab66",
                       "size":  208932
                   },
@@ -19941,7 +19941,7 @@
                   },
                   {
                       "path":  "mods/memoryleakfix-forge-1.17+-1.0.0.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/memoryleakfix-forge-1.17%2B-1.0.0.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/memoryleakfix-forge-1.17+-1.0.0.jar",
                       "sha256":  "27272de0683259d898c4141a86a1d08873ba86a72522fba94cb6331e955715d4",
                       "size":  155597
                   },
@@ -19959,7 +19959,7 @@
                   },
                   {
                       "path":  "mods/modernfix-forge-5.18.1+mc1.19.2.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/modernfix-forge-5.18.1%2Bmc1.19.2.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/modernfix-forge-5.18.1+mc1.19.2.jar",
                       "sha256":  "e14ea99b7341d7479e34e0dd6d96e0ee0b86914f2936eccbf23a5036f476580c",
                       "size":  777028
                   },
@@ -20066,8 +20066,8 @@
                       "size":  3503720
                   },
                   {
-                      "path":  "mods/Oh_The_Biomes_You\u0027ll_Go-forge-1.19.2-2.0.1.6.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/Oh_The_Biomes_You7ll_Go-forge-1.19.2-2.0.1.6.jar",
+                      "path":  "mods/Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar",
                       "sha256":  "07015e5aaa590bea5d30a58e9ec5eb522cf92b1754731c4850e7b61abd2f443a",
                       "size":  37211656
                   },
@@ -20121,7 +20121,7 @@
                   },
                   {
                       "path":  "mods/Pehkui-3.8.2+1.19.2-forge.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/Pehkui-3.8.2%2B1.19.2-forge.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/Pehkui-3.8.2+1.19.2-forge.jar",
                       "sha256":  "d339a56bcde96e8decd0935a0f83ea41dbc1f1df529fc18a8e63d683630596bb",
                       "size":  670815
                   },
@@ -20145,7 +20145,7 @@
                   },
                   {
                       "path":  "mods/polymorph-forge-0.46.6+1.19.2.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/polymorph-forge-0.46.6%2B1.19.2.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/polymorph-forge-0.46.6+1.19.2.jar",
                       "sha256":  "5608f979ac6c1c4f74a63cf386194e1efc0eef66c84912d5acf2584284890634",
                       "size":  257315
                   },
@@ -20205,7 +20205,7 @@
                   },
                   {
                       "path":  "mods/repurposed_structures_forge-6.3.29+1.19.2.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/repurposed_structures_forge-6.3.29%2B1.19.2.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/repurposed_structures_forge-6.3.29+1.19.2.jar",
                       "sha256":  "9c92215cd8eabbaf14668fbd22ff2860b0755d1318a72d03e561858603267bb6",
                       "size":  7696256
                   },
@@ -20217,7 +20217,7 @@
                   },
                   {
                       "path":  "mods/right-click-harvest-3.2.3+1.19.2-forge.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/right-click-harvest-3.2.3%2B1.19.2-forge.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/right-click-harvest-3.2.3+1.19.2-forge.jar",
                       "sha256":  "6cb7811120e87dc63c94b86e5569362f40dfb11f9e953727f059d1d72a5f1f82",
                       "size":  264091
                   },
@@ -20229,7 +20229,7 @@
                   },
                   {
                       "path":  "mods/royal_variations_[Forge]_1.19.2_1.0.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/royal_variations_%5BForge%5D_1.19.2_1.0.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/royal_variations_[Forge]_1.19.2_1.0.jar",
                       "sha256":  "ab6a7123e30d7e0f38a77eb412f479d30d310575aff632ced0eac7162386ad65",
                       "size":  211898
                   },
@@ -20259,7 +20259,7 @@
                   },
                   {
                       "path":  "mods/servercore-forge-1.3.6+1.19.2.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/servercore-forge-1.3.6%2B1.19.2.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/servercore-forge-1.3.6+1.19.2.jar",
                       "sha256":  "8fdbb8d768d8888ac0229a72aa2809a439d8e9ff96b787318546bcbdf88a1c54",
                       "size":  1186247
                   },
@@ -20331,7 +20331,7 @@
                   },
                   {
                       "path":  "mods/starlight-1.1.1+forge.cf5b10b.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/starlight-1.1.1%2Bforge.cf5b10b.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/starlight-1.1.1+forge.cf5b10b.jar",
                       "sha256":  "2bee70fa2bda5d7e938e421b94fbac8c00c6660927fa34e998a47f8f75e4c32d",
                       "size":  110720
                   },
@@ -20451,7 +20451,7 @@
                   },
                   {
                       "path":  "mods/transmog-forge-1.2.2+1.19.2.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/transmog-forge-1.2.2%2B1.19.2.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/transmog-forge-1.2.2+1.19.2.jar",
                       "sha256":  "52751268969dbeffc312185c27d3d5e8873f9e9863ec5823dfd4e37995317af6",
                       "size":  96198
                   },
@@ -20559,7 +20559,7 @@
                   },
                   {
                       "path":  "mods/yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar",
-                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/yeetusexperimentus-1.0.1-build.2%2Bmc1.19.1.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar",
                       "sha256":  "2f8f1ba75d2177ddcf7586b22428898954f47086037800278225db0068dca6e4",
                       "size":  5869
                   },
@@ -20637,13 +20637,13 @@
                   },
                   {
                       "path":  "resourcepacks/Origins_Expanded_Foods_v2.1+1.19.2.zip",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/resourcepacks/Origins_Expanded_Foods_v2.1%2B1.19.2.zip",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/resourcepacks/Origins_Expanded_Foods_v2.1+1.19.2.zip",
                       "sha256":  "f27b5d6b6e77e63448ac48c849aa730abb5296775d47cd58c04a8f032bde84a6",
                       "size":  16854
                   },
                   {
                       "path":  "resourcepacks/Quark Programmer Art.zip",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/resourcepacks/Quark%20Programmer%20Art.zip",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/resourcepacks/Quark Programmer Art.zip",
                       "sha256":  "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d",
                       "size":  266434
                   },
@@ -20685,19 +20685,19 @@
                   },
                   {
                       "path":  "resourcepacks/STONEBORN - 1.19 - V3.2.1.zip",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/resourcepacks/STONEBORN%20-%201.19%20-%20V3.2.1.zip",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/resourcepacks/STONEBORN - 1.19 - V3.2.1.zip",
                       "sha256":  "5a692d748b43ff3134f6c6f5b6a61fec16e3e3ba1e697ff2c7175a5d70757d75",
                       "size":  5185397
                   },
                   {
                       "path":  "resourcepacks/STONEBORN - 1.3-1.19 MeiAdditions.zip",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/resourcepacks/STONEBORN%20-%201.3-1.19%20MeiAdditions.zip",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/resourcepacks/STONEBORN - 1.3-1.19 MeiAdditions.zip",
                       "sha256":  "407ceb667e609aef6942b7fccc864d42d02f3652f1a931cbf92034a861058e74",
                       "size":  750506
                   },
                   {
                       "path":  "resourcepacks/STONEBORN-+SBMC+-V3.1-Modded-Compatibility.zip",
-                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/resourcepacks/STONEBORN-%2BSBMC%2B-V3.1-Modded-Compatibility.zip",
+                      "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/resourcepacks/STONEBORN-+SBMC+-V3.1-Modded-Compatibility.zip",
                       "sha256":  "9a1e3ef65ed8a46909b99899ea997fb68be30058e48a24ec9e162cc17d18a26c",
                       "size":  7831299
                   },
