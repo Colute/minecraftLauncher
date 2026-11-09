@@ -4,7 +4,7 @@
 !CoLoader.zip
 run.bat
 mods/rename.ps1
-generate.ps1
+generate_manifest.ps1
 .fabric/
 .mixin.out/
 logs/
