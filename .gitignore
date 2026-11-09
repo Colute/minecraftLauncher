@@ -1,9 +1,7 @@
 ﻿run.bat
-mods/rename.ps1
-generate_manifest.ps1
 .fabric/
 .mixin.out/
-logs/
-saves/
-modernfix/
-backups/
+/logs/
+/saves/
+/modernfix/
+/backups/
