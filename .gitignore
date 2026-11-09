@@ -1,4 +1,6 @@
 ﻿*.zip
+!shaderpacks/*.zip
+!resourcepacks/*.zip
 !CoLoader.zip
 run.bat
 generate.ps1
