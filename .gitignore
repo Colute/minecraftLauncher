@@ -1,6 +1,7 @@
 ﻿*.zip
 !CoLoader.zip
 run.bat
+generate.ps1
 .fabric/
 .mixin.out/
 logs/

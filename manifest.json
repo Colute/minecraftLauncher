@@ -3,7 +3,7 @@
     "files":  [
                   {
                       "path":  ".gitattributes",
-                      "hash":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "hash":  "4db84a0b6743bc08a6c41409fb95f167629394119bbe9c5609cc97a23eaf3ecc",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/.gitattributes"
                   },
                   {
@@ -7093,7 +7093,7 @@
                   },
                   {
                       "path":  "mods/HopoBetterRuinedPortals-[1.19-1.19.3]-1.3.3b.jar",
-                      "hash":  "",
+                      "hash":  "adf309be2641e7f0b4bc764f7caa4f8308c44dde477448b60dc08c7b395dd5df",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/HopoBetterRuinedPortals-%5B1.19-1.19.3%5D-1.3.3b.jar"
                   },
                   {
@@ -7558,7 +7558,7 @@
                   },
                   {
                       "path":  "mods/royal_variations_[Forge]_1.19.2_1.0.jar",
-                      "hash":  "",
+                      "hash":  "ab6a7123e30d7e0f38a77eb412f479d30d310575aff632ced0eac7162386ad65",
                       "url":  "https://raw.githubusercontent.com/Colute/minecraftLauncher/main/mods/royal_variations_%5BForge%5D_1.19.2_1.0.jar"
                   },
                   {
