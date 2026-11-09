@@ -3,6 +3,7 @@
 !resourcepacks/*.zip
 !CoLoader.zip
 run.bat
+mods/rename.ps1
 generate.ps1
 .fabric/
 .mixin.out/
