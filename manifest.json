@@ -9254,6 +9254,12 @@
                       "size":  702728
                   },
                   {
+                      "path":  "mods/voicechat-forge-1.19.2-2.6.27.jar",
+                      "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/voicechat-forge-1.19.2-2.6.27.jar",
+                      "sha256":  "d704684440839ce9fce959dabe7546ffc5f28fb556621bf129a09e9055ad85ed",
+                      "size":  5380659
+                  },
+                  {
                       "path":  "mods/Wabi-Sabi-Structures-1.2.0-1.19-Forge.jar",
                       "url":  "https://media.githubusercontent.com/media/Colute/minecraftLauncher/main/mods/Wabi-Sabi-Structures-1.2.0-1.19-Forge.jar",
                       "sha256":  "ba53d62bfc3aae2f7faeb37cb00aad9f92f8f5e514c34827d9c607aa2ff814ec",
